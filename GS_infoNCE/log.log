@@ -1,0 +1,1573 @@
+总训练步数为:1565
+Epoch:0, Step:0, Loss:  3.978953, Time_cost:  0.544131
+Epoch:0, Step:1, Loss:  3.462916, Time_cost:  0.174202
+Epoch:0, Step:2, Loss:  3.484502, Time_cost:  0.128725
+Epoch:0, Step:3, Loss:  3.624330, Time_cost:  0.128477
+Epoch:0, Step:4, Loss:  3.574930, Time_cost:  0.152436
+Epoch:0, Step:5, Loss:  3.546070, Time_cost:  0.119455
+Epoch:0, Step:6, Loss:  3.406053, Time_cost:  0.132378
+Epoch:0, Step:7, Loss:  3.488396, Time_cost:  0.131492
+Epoch:0, Step:8, Loss:  3.519973, Time_cost:  0.118561
+Epoch:0, Step:9, Loss:  3.754001, Time_cost:  0.133355
+Epoch:0, Step:10, Loss:  3.190776, Time_cost:  0.111154
+Epoch:0, Step:11, Loss:  3.008759, Time_cost:  0.111829
+Epoch:0, Step:12, Loss:  3.688995, Time_cost:  0.139689
+Epoch:0, Step:13, Loss:  3.792474, Time_cost:  0.133149
+Epoch:0, Step:14, Loss:  3.415687, Time_cost:  0.127976
+Epoch:0, Step:15, Loss:  3.733063, Time_cost:  0.113449
+Epoch:0, Step:16, Loss:  3.440610, Time_cost:  0.133368
+Epoch:0, Step:17, Loss:  2.806725, Time_cost:  0.142384
+Epoch:0, Step:18, Loss:  2.952404, Time_cost:  0.118841
+Epoch:0, Step:19, Loss:  3.008137, Time_cost:  0.117801
+Epoch:0, Step:20, Loss:  2.668583, Time_cost:  0.175500
+Epoch:0, Step:21, Loss:  2.812424, Time_cost:  0.139156
+Epoch:0, Step:22, Loss:  2.824248, Time_cost:  0.130997
+Epoch:0, Step:23, Loss:  2.633615, Time_cost:  0.112682
+Epoch:0, Step:24, Loss:  2.832940, Time_cost:  0.124680
+Epoch:0, Step:25, Loss:  2.618704, Time_cost:  0.133727
+Epoch:0, Step:26, Loss:  2.963517, Time_cost:  0.132651
+Epoch:0, Step:27, Loss:  2.663582, Time_cost:  0.139997
+Epoch:0, Step:28, Loss:  2.405270, Time_cost:  0.142608
+Epoch:0, Step:29, Loss:  2.462232, Time_cost:  0.132290
+Epoch:0, Step:30, Loss:  2.182755, Time_cost:  0.127979
+Epoch:0, Step:31, Loss:  1.985788, Time_cost:  0.125223
+Epoch:0, Step:32, Loss:  2.237514, Time_cost:  0.118616
+Epoch:0, Step:33, Loss:  1.753514, Time_cost:  0.127268
+Epoch:0, Step:34, Loss:  1.811975, Time_cost:  0.127495
+Epoch:0, Step:35, Loss:  1.734091, Time_cost:  0.125196
+Epoch:0, Step:36, Loss:  1.303277, Time_cost:  0.132269
+Epoch:0, Step:37, Loss:  1.128023, Time_cost:  0.124727
+Epoch:0, Step:38, Loss:  1.240861, Time_cost:  0.132490
+Epoch:0, Step:39, Loss:  1.651942, Time_cost:  0.133782
+Epoch:0, Step:40, Loss:  1.255037, Time_cost:  0.111656
+Epoch:0, Step:41, Loss:  0.765291, Time_cost:  0.127761
+Epoch:0, Step:42, Loss:  0.951136, Time_cost:  0.127569
+Epoch:0, Step:43, Loss:  0.600527, Time_cost:  0.139781
+Epoch:0, Step:44, Loss:  0.555307, Time_cost:  0.133531
+Epoch:0, Step:45, Loss:  0.329072, Time_cost:  0.150512
+Epoch:0, Step:46, Loss:  0.327265, Time_cost:  0.126623
+Epoch:0, Step:47, Loss:  0.211154, Time_cost:  0.112698
+Epoch:0, Step:48, Loss:  0.251915, Time_cost:  0.139160
+Epoch:0, Step:49, Loss:  0.172180, Time_cost:  0.143624
+Epoch:0, Step:50, Loss:  0.125434, Time_cost:  0.126195
+Epoch:0, Step:51, Loss:  0.121061, Time_cost:  0.123920
+Epoch:0, Step:52, Loss:  0.124219, Time_cost:  0.133821
+Epoch:0, Step:53, Loss:  0.066083, Time_cost:  0.139794
+Epoch:0, Step:54, Loss:  0.087205, Time_cost:  0.126412
+Epoch:0, Step:55, Loss:  0.069733, Time_cost:  0.133658
+Epoch:0, Step:56, Loss:  0.052267, Time_cost:  0.119323
+Epoch:0, Step:57, Loss:  0.090818, Time_cost:  0.127598
+Epoch:0, Step:58, Loss:  0.051312, Time_cost:  0.111889
+Epoch:0, Step:59, Loss:  0.047810, Time_cost:  0.133552
+Epoch:0, Step:60, Loss:  0.075953, Time_cost:  0.146727
+Epoch:0, Step:61, Loss:  0.059888, Time_cost:  0.141848
+Epoch:0, Step:62, Loss:  0.038639, Time_cost:  0.175802
+Epoch:0, Step:63, Loss:  0.054249, Time_cost:  0.147633
+Epoch:0, Step:64, Loss:  0.028369, Time_cost:  0.127868
+Epoch:0, Step:65, Loss:  0.027640, Time_cost:  0.118976
+Epoch:0, Step:66, Loss:  0.019785, Time_cost:  0.118643
+Epoch:0, Step:67, Loss:  0.018448, Time_cost:  0.124450
+Epoch:0, Step:68, Loss:  0.071976, Time_cost:  0.124212
+Epoch:0, Step:69, Loss:  0.020819, Time_cost:  0.148916
+Epoch:0, Step:70, Loss:  0.022053, Time_cost:  0.126817
+Epoch:0, Step:71, Loss:  0.030488, Time_cost:  0.119398
+Epoch:0, Step:72, Loss:  0.035212, Time_cost:  0.124544
+Epoch:0, Step:73, Loss:  0.018224, Time_cost:  0.131855
+Epoch:0, Step:74, Loss:  0.018989, Time_cost:  0.118126
+Epoch:0, Step:75, Loss:  0.054174, Time_cost:  0.119918
+Epoch:0, Step:76, Loss:  0.068550, Time_cost:  0.118380
+Epoch:0, Step:77, Loss:  0.043076, Time_cost:  0.119121
+Epoch:0, Step:78, Loss:  0.014267, Time_cost:  0.119106
+Epoch:0, Step:79, Loss:  0.013100, Time_cost:  0.139442
+Epoch:0, Step:80, Loss:  0.015001, Time_cost:  0.144637
+Epoch:0, Step:81, Loss:  0.030285, Time_cost:  0.120500
+Epoch:0, Step:82, Loss:  0.007796, Time_cost:  0.125005
+Epoch:0, Step:83, Loss:  0.011840, Time_cost:  0.118517
+Epoch:0, Step:84, Loss:  0.010009, Time_cost:  0.127832
+Epoch:0, Step:85, Loss:  0.010923, Time_cost:  0.125765
+Epoch:0, Step:86, Loss:  0.042122, Time_cost:  0.124769
+Epoch:0, Step:87, Loss:  0.008386, Time_cost:  0.117873
+Epoch:0, Step:88, Loss:  0.007968, Time_cost:  0.140128
+Epoch:0, Step:89, Loss:  0.007306, Time_cost:  0.127878
+Epoch:0, Step:90, Loss:  0.004828, Time_cost:  0.127526
+Epoch:0, Step:91, Loss:  0.007355, Time_cost:  0.120219
+Epoch:0, Step:92, Loss:  0.006270, Time_cost:  0.120255
+Epoch:0, Step:93, Loss:  0.012856, Time_cost:  0.126111
+Epoch:0, Step:94, Loss:  0.017467, Time_cost:  0.127696
+Epoch:0, Step:95, Loss:  0.040943, Time_cost:  0.109450
+Epoch:0, Step:96, Loss:  0.007632, Time_cost:  0.117576
+Epoch:0, Step:97, Loss:  0.010365, Time_cost:  0.129209
+Epoch:0, Step:98, Loss:  0.037440, Time_cost:  0.133106
+Epoch:0, Step:99, Loss:  0.031992, Time_cost:  0.128816
+Epoch:0, Step:100, Loss:  0.005540, Time_cost:  0.140144
+Epoch:0, Step:101, Loss:  0.022417, Time_cost:  0.128168
+Epoch:0, Step:102, Loss:  0.021496, Time_cost:  0.110614
+Epoch:0, Step:103, Loss:  0.049836, Time_cost:  0.133221
+Epoch:0, Step:104, Loss:  0.013076, Time_cost:  0.132345
+Epoch:0, Step:105, Loss:  0.007498, Time_cost:  0.134606
+Epoch:0, Step:106, Loss:  0.012233, Time_cost:  0.133036
+Epoch:0, Step:107, Loss:  0.055583, Time_cost:  0.132569
+Epoch:0, Step:108, Loss:  0.059887, Time_cost:  0.119034
+Epoch:0, Step:109, Loss:  0.021041, Time_cost:  0.125620
+Epoch:0, Step:110, Loss:  0.024432, Time_cost:  0.133265
+Epoch:0, Step:111, Loss:  0.005421, Time_cost:  0.130367
+Epoch:0, Step:112, Loss:  0.010888, Time_cost:  0.131712
+Epoch:0, Step:113, Loss:  0.015564, Time_cost:  0.133675
+Epoch:0, Step:114, Loss:  0.139770, Time_cost:  0.120271
+Epoch:0, Step:115, Loss:  0.006499, Time_cost:  0.133931
+Epoch:0, Step:116, Loss:  0.016896, Time_cost:  0.132068
+Epoch:0, Step:117, Loss:  0.008509, Time_cost:  0.135735
+Epoch:0, Step:118, Loss:  0.026094, Time_cost:  0.135215
+Epoch:0, Step:119, Loss:  0.005231, Time_cost:  0.163850
+Epoch:0, Step:120, Loss:  0.016679, Time_cost:  0.151656
+Epoch:0, Step:121, Loss:  0.007038, Time_cost:  0.122938
+Epoch:0, Step:122, Loss:  0.010382, Time_cost:  0.126953
+Epoch:0, Step:123, Loss:  0.003884, Time_cost:  0.231666
+Epoch:0, Step:124, Loss:  0.004132, Time_cost:  0.218841
+Epoch:0, Step:125, Loss:  0.011134, Time_cost:  0.269185
+Epoch:0, Step:126, Loss:  0.002899, Time_cost:  0.245277
+Epoch:0, Step:127, Loss:  0.006150, Time_cost:  0.238702
+Epoch:0, Step:128, Loss:  0.006413, Time_cost:  0.263464
+Epoch:0, Step:129, Loss:  0.055880, Time_cost:  0.220446
+Epoch:0, Step:130, Loss:  0.002778, Time_cost:  0.219894
+Epoch:0, Step:131, Loss:  0.003513, Time_cost:  0.286607
+Epoch:0, Step:132, Loss:  0.004620, Time_cost:  0.269099
+Epoch:0, Step:133, Loss:  0.006043, Time_cost:  0.211424
+Epoch:0, Step:134, Loss:  0.006493, Time_cost:  0.256532
+Epoch:0, Step:135, Loss:  0.027868, Time_cost:  0.215310
+Epoch:0, Step:136, Loss:  0.008410, Time_cost:  0.267215
+Epoch:0, Step:137, Loss:  0.018789, Time_cost:  0.225000
+Epoch:0, Step:138, Loss:  0.046862, Time_cost:  0.276607
+Epoch:0, Step:139, Loss:  0.003836, Time_cost:  0.256743
+Epoch:0, Step:140, Loss:  0.004381, Time_cost:  0.205808
+Epoch:0, Step:141, Loss:  0.023971, Time_cost:  0.239110
+Epoch:0, Step:142, Loss:  0.055132, Time_cost:  0.236045
+Epoch:0, Step:143, Loss:  0.004236, Time_cost:  0.190553
+Epoch:0, Step:144, Loss:  0.012658, Time_cost:  0.233313
+Epoch:0, Step:145, Loss:  0.007135, Time_cost:  0.197169
+Epoch:0, Step:146, Loss:  0.023903, Time_cost:  0.220619
+Epoch:0, Step:147, Loss:  0.022820, Time_cost:  0.220016
+Epoch:0, Step:148, Loss:  0.008146, Time_cost:  0.286621
+Epoch:0, Step:149, Loss:  0.002647, Time_cost:  0.202776
+Epoch:0, Step:150, Loss:  0.007643, Time_cost:  0.286980
+Epoch:0, Step:151, Loss:  0.003174, Time_cost:  0.203588
+Epoch:0, Step:152, Loss:  0.020418, Time_cost:  0.287513
+Epoch:0, Step:153, Loss:  0.029700, Time_cost:  0.272037
+Epoch:0, Step:154, Loss:  0.006967, Time_cost:  0.239331
+Epoch:0, Step:155, Loss:  0.033590, Time_cost:  0.241673
+Epoch:0, Step:156, Loss:  0.002907, Time_cost:  0.278506
+Epoch:0, Step:157, Loss:  0.004464, Time_cost:  0.215906
+Epoch:0, Step:158, Loss:  0.002736, Time_cost:  0.218896
+Epoch:0, Step:159, Loss:  0.013695, Time_cost:  0.247098
+Epoch:0, Step:160, Loss:  0.003249, Time_cost:  0.205457
+Epoch:0, Step:161, Loss:  0.001667, Time_cost:  0.232909
+Epoch:0, Step:162, Loss:  0.002228, Time_cost:  0.220135
+Epoch:0, Step:163, Loss:  0.020575, Time_cost:  0.204084
+Epoch:0, Step:164, Loss:  0.020364, Time_cost:  0.237935
+Epoch:0, Step:165, Loss:  0.025638, Time_cost:  0.232970
+Epoch:0, Step:166, Loss:  0.037415, Time_cost:  0.202984
+Epoch:0, Step:167, Loss:  0.002192, Time_cost:  0.238775
+Epoch:0, Step:168, Loss:  0.002726, Time_cost:  0.242407
+Epoch:0, Step:169, Loss:  0.002571, Time_cost:  0.211734
+Epoch:0, Step:170, Loss:  0.039038, Time_cost:  0.310751
+Epoch:0, Step:171, Loss:  0.006498, Time_cost:  0.238700
+Epoch:0, Step:172, Loss:  0.002837, Time_cost:  0.191402
+Epoch:0, Step:173, Loss:  0.009748, Time_cost:  0.241102
+Epoch:0, Step:174, Loss:  0.005644, Time_cost:  0.222918
+Epoch:0, Step:175, Loss:  0.002107, Time_cost:  0.264895
+Epoch:0, Step:176, Loss:  0.004416, Time_cost:  0.226060
+Epoch:0, Step:177, Loss:  0.025921, Time_cost:  0.252738
+Epoch:0, Step:178, Loss:  0.003515, Time_cost:  0.219903
+Epoch:0, Step:179, Loss:  0.001977, Time_cost:  0.222720
+Epoch:0, Step:180, Loss:  0.002331, Time_cost:  0.211616
+Epoch:0, Step:181, Loss:  0.009986, Time_cost:  0.212555
+Epoch:0, Step:182, Loss:  0.003329, Time_cost:  0.235410
+Epoch:0, Step:183, Loss:  0.003836, Time_cost:  0.220708
+Epoch:0, Step:184, Loss:  0.002975, Time_cost:  0.301071
+Epoch:0, Step:185, Loss:  0.003330, Time_cost:  0.230684
+Epoch:0, Step:186, Loss:  0.012632, Time_cost:  0.264673
+Epoch:0, Step:187, Loss:  0.003164, Time_cost:  0.199799
+Epoch:0, Step:188, Loss:  0.007864, Time_cost:  0.281496
+Epoch:0, Step:189, Loss:  0.004053, Time_cost:  0.236430
+Epoch:0, Step:190, Loss:  0.007334, Time_cost:  0.260960
+Epoch:0, Step:191, Loss:  0.005074, Time_cost:  0.219017
+Epoch:0, Step:192, Loss:  0.004666, Time_cost:  0.263753
+Epoch:0, Step:193, Loss:  0.004158, Time_cost:  0.195152
+Epoch:0, Step:194, Loss:  0.004928, Time_cost:  0.215453
+Epoch:0, Step:195, Loss:  0.003843, Time_cost:  0.230170
+Epoch:0, Step:196, Loss:  0.003456, Time_cost:  0.200782
+Epoch:0, Step:197, Loss:  0.005372, Time_cost:  0.304263
+Epoch:0, Step:198, Loss:  0.025327, Time_cost:  0.216109
+Epoch:0, Step:199, Loss:  0.007729, Time_cost:  0.263621
+Epoch:0, Step:200, Loss:  0.005456, Time_cost:  0.280684
+Epoch:0, Step:201, Loss:  0.002629, Time_cost:  0.218799
+Epoch:0, Step:202, Loss:  0.003448, Time_cost:  0.226321
+Epoch:0, Step:203, Loss:  0.001054, Time_cost:  0.270000
+Epoch:0, Step:204, Loss:  0.004527, Time_cost:  0.232548
+Epoch:0, Step:205, Loss:  0.002945, Time_cost:  0.230071
+Epoch:0, Step:206, Loss:  0.002480, Time_cost:  0.213781
+Epoch:0, Step:207, Loss:  0.021505, Time_cost:  0.267681
+Epoch:0, Step:208, Loss:  0.002878, Time_cost:  0.215678
+Epoch:0, Step:209, Loss:  0.004991, Time_cost:  0.204835
+Epoch:0, Step:210, Loss:  0.005199, Time_cost:  0.239510
+Epoch:0, Step:211, Loss:  0.001851, Time_cost:  0.227820
+Epoch:0, Step:212, Loss:  0.001636, Time_cost:  0.281428
+Epoch:0, Step:213, Loss:  0.004820, Time_cost:  0.202961
+Epoch:0, Step:214, Loss:  0.001102, Time_cost:  0.226481
+Epoch:0, Step:215, Loss:  0.002507, Time_cost:  0.227577
+Epoch:0, Step:216, Loss:  0.003291, Time_cost:  0.236451
+Epoch:0, Step:217, Loss:  0.007765, Time_cost:  0.204488
+Epoch:0, Step:218, Loss:  0.011397, Time_cost:  0.196472
+Epoch:0, Step:219, Loss:  0.001310, Time_cost:  0.290162
+Epoch:0, Step:220, Loss:  0.004698, Time_cost:  0.237286
+Epoch:0, Step:221, Loss:  0.004407, Time_cost:  0.255428
+Epoch:0, Step:222, Loss:  0.001563, Time_cost:  0.231636
+Epoch:0, Step:223, Loss:  0.001817, Time_cost:  0.279258
+Epoch:0, Step:224, Loss:  0.004506, Time_cost:  0.208760
+Epoch:0, Step:225, Loss:  0.009959, Time_cost:  0.327416
+Epoch:0, Step:226, Loss:  0.001618, Time_cost:  0.205429
+Epoch:0, Step:227, Loss:  0.003993, Time_cost:  0.261878
+Epoch:0, Step:228, Loss:  0.004480, Time_cost:  0.224154
+Epoch:0, Step:229, Loss:  0.005411, Time_cost:  0.187328
+Epoch:0, Step:230, Loss:  0.001344, Time_cost:  0.224269
+Epoch:0, Step:231, Loss:  0.038332, Time_cost:  0.249509
+Epoch:0, Step:232, Loss:  0.002511, Time_cost:  0.201754
+Epoch:0, Step:233, Loss:  0.002026, Time_cost:  0.226911
+Epoch:0, Step:234, Loss:  0.003510, Time_cost:  0.224865
+Epoch:0, Step:235, Loss:  0.001300, Time_cost:  0.217914
+Epoch:0, Step:236, Loss:  0.001830, Time_cost:  0.238948
+Epoch:0, Step:237, Loss:  0.001853, Time_cost:  0.217644
+Epoch:0, Step:238, Loss:  0.003736, Time_cost:  0.241491
+Epoch:0, Step:239, Loss:  0.002657, Time_cost:  0.221019
+Epoch:0, Step:240, Loss:  0.006182, Time_cost:  0.239604
+Epoch:0, Step:241, Loss:  0.001462, Time_cost:  0.213396
+Epoch:0, Step:242, Loss:  0.017311, Time_cost:  0.233255
+Epoch:0, Step:243, Loss:  0.004993, Time_cost:  0.230556
+Epoch:0, Step:244, Loss:  0.006616, Time_cost:  0.237650
+Epoch:0, Step:245, Loss:  0.002094, Time_cost:  0.234267
+Epoch:0, Step:246, Loss:  0.003052, Time_cost:  0.218755
+Epoch:0, Step:247, Loss:  0.001384, Time_cost:  0.263807
+Epoch:0, Step:248, Loss:  0.002822, Time_cost:  0.248319
+Epoch:0, Step:249, Loss:  0.001453, Time_cost:  0.247593
+Epoch:0, Step:250, Loss:  0.002275, Time_cost:  0.259442
+Epoch:0, Step:251, Loss:  0.002257, Time_cost:  0.205569
+Epoch:0, Step:252, Loss:  0.004920, Time_cost:  0.230710
+Epoch:0, Step:253, Loss:  0.005004, Time_cost:  0.212874
+Epoch:0, Step:254, Loss:  0.014455, Time_cost:  0.216696
+Epoch:0, Step:255, Loss:  0.001994, Time_cost:  0.250406
+Epoch:0, Step:256, Loss:  0.002562, Time_cost:  0.205483
+Epoch:0, Step:257, Loss:  0.002974, Time_cost:  0.223678
+Epoch:0, Step:258, Loss:  0.014831, Time_cost:  0.203773
+Epoch:0, Step:259, Loss:  0.001027, Time_cost:  0.245757
+Epoch:0, Step:260, Loss:  0.003024, Time_cost:  0.248812
+Epoch:0, Step:261, Loss:  0.001019, Time_cost:  0.211580
+Epoch:0, Step:262, Loss:  0.003374, Time_cost:  0.269577
+Epoch:0, Step:263, Loss:  0.035575, Time_cost:  0.263423
+Epoch:0, Step:264, Loss:  0.002065, Time_cost:  0.274762
+Epoch:0, Step:265, Loss:  0.001516, Time_cost:  0.259006
+Epoch:0, Step:266, Loss:  0.002032, Time_cost:  0.310479
+Epoch:0, Step:267, Loss:  0.003512, Time_cost:  0.246424
+Epoch:0, Step:268, Loss:  0.004097, Time_cost:  0.223009
+Epoch:0, Step:269, Loss:  0.003247, Time_cost:  0.223555
+Epoch:0, Step:270, Loss:  0.001614, Time_cost:  0.248990
+Epoch:0, Step:271, Loss:  0.001391, Time_cost:  0.259816
+Epoch:0, Step:272, Loss:  0.021253, Time_cost:  0.254462
+Epoch:0, Step:273, Loss:  0.002948, Time_cost:  0.223507
+Epoch:0, Step:274, Loss:  0.002815, Time_cost:  0.228011
+Epoch:0, Step:275, Loss:  0.006451, Time_cost:  0.218099
+Epoch:0, Step:276, Loss:  0.003910, Time_cost:  0.236017
+Epoch:0, Step:277, Loss:  0.001384, Time_cost:  0.243648
+Epoch:0, Step:278, Loss:  0.001124, Time_cost:  0.203244
+Epoch:0, Step:279, Loss:  0.033966, Time_cost:  0.248007
+Epoch:0, Step:280, Loss:  0.002207, Time_cost:  0.199921
+Epoch:0, Step:281, Loss:  0.001616, Time_cost:  0.223701
+Epoch:0, Step:282, Loss:  0.002010, Time_cost:  0.219029
+Epoch:0, Step:283, Loss:  0.001713, Time_cost:  0.260775
+Epoch:0, Step:284, Loss:  0.001978, Time_cost:  0.219520
+Epoch:0, Step:285, Loss:  0.000846, Time_cost:  0.233340
+Epoch:0, Step:286, Loss:  0.001487, Time_cost:  0.198362
+Epoch:0, Step:287, Loss:  0.002592, Time_cost:  0.208420
+Epoch:0, Step:288, Loss:  0.001628, Time_cost:  0.215927
+Epoch:0, Step:289, Loss:  0.002098, Time_cost:  0.262482/data0/xiaolu/conda/lib/python3.7/site-packages/transformers/tokenization_utils_base.py:1645: FutureWarning: Calling BertTokenizer.from_pretrained() with the path to a single file or url is deprecated and won't be possible anymore in v5. Use a model identifier or the path to a directory instead.
+  FutureWarning,
+0it [00:00, ?it/s]3it [00:00, 23.94it/s]7it [00:00, 25.96it/s]11it [00:00, 27.94it/s]15it [00:00, 29.64it/s]18it [00:00, 29.09it/s]22it [00:00, 31.28it/s]26it [00:00, 31.31it/s]29it [00:00, 29.24it/s]33it [00:01, 30.27it/s]37it [00:01, 30.74it/s]41it [00:01, 30.13it/s]45it [00:01, 31.97it/s]49it [00:01, 32.72it/s]53it [00:01, 31.14it/s]57it [00:01, 32.15it/s]62it [00:01, 34.15it/s]66it [00:02, 31.33it/s]71it [00:02, 33.31it/s]75it [00:02, 33.20it/s]79it [00:02, 29.18it/s]83it [00:02, 29.72it/s]87it [00:02, 31.41it/s]91it [00:02, 27.53it/s]94it [00:03, 26.56it/s]97it [00:03, 27.14it/s]101it [00:03, 28.70it/s]104it [00:03, 28.26it/s]107it [00:03, 27.85it/s]111it [00:03, 28.33it/s]115it [00:03, 30.10it/s]119it [00:03, 31.93it/s]123it [00:04, 29.10it/s]127it [00:04, 30.25it/s]132it [00:04, 32.93it/s]136it [00:04, 28.04it/s]140it [00:04, 29.49it/s]144it [00:04, 30.77it/s]148it [00:04, 30.88it/s]152it [00:04, 29.20it/s]156it [00:05, 30.30it/s]160it [00:05, 32.28it/s]164it [00:05, 33.09it/s]168it [00:05, 31.15it/s]172it [00:05, 31.51it/s]176it [00:05, 32.59it/s]180it [00:05, 28.49it/s]184it [00:06, 29.70it/s]188it [00:06, 32.16it/s]192it [00:06, 30.51it/s]196it [00:06, 29.54it/s]200it [00:06, 30.61it/s]204it [00:06, 30.12it/s]208it [00:06, 29.86it/s]213it [00:06, 33.41it/s]217it [00:07, 34.80it/s]221it [00:07, 30.62it/s]225it [00:07, 31.94it/s]229it [00:07, 30.89it/s]233it [00:07, 27.50it/s]236it [00:07, 28.00it/s]239it [00:07, 28.34it/s]242it [00:07, 28.43it/s]245it [00:08, 28.84it/s]248it [00:08, 27.79it/s]252it [00:08, 28.99it/s]255it [00:08, 28.91it/s]258it [00:08, 28.52it/s]261it [00:08, 26.77it/s]265it [00:08, 29.52it/s]269it [00:08, 30.44it/s]273it [00:08, 30.38it/s]277it [00:09, 28.09it/s]281it [00:09, 29.16it/s]285it [00:09, 30.03it/s]289it [00:09, 30.36it/s]293it [00:09, 29.58it/s]297it [00:09, 32.04it/s]301it [00:09, 31.19it/s]305it [00:10, 28.81it/s]309it [00:10, 29.91it/s]313it [00:10, 30.88it/s]317it [00:10, 30.83it/s]321it [00:10, 32.38it/s]325it [00:10, 33.39it/s]329it [00:10, 31.61it/s]333it [00:10, 28.84it/s]337it [00:11, 29.68it/s]341it [00:11, 30.38it/s]345it [00:11, 29.30it/s]348it [00:11, 28.81it/s]352it [00:11, 29.78it/s]356it [00:11, 31.37it/s]360it [00:11, 30.29it/s]365it [00:11, 33.00it/s]370it [00:12, 36.29it/s]377it [00:12, 41.90it/s]384it [00:12, 46.62it/s]391it [00:12, 51.12it/s]398it [00:12, 54.38it/s]405it [00:12, 57.12it/s]412it [00:12, 57.88it/s]419it [00:12, 60.31it/s]426it [00:12, 61.64it/s]433it [00:13, 62.55it/s]440it [00:13, 63.10it/s]447it [00:13, 64.17it/s]454it [00:13, 64.21it/s]461it [00:13, 64.36it/s]468it [00:13, 64.28it/s]475it [00:13, 64.77it/s]482it [00:13, 64.57it/s]489it [00:13, 62.99it/s]496it [00:14, 62.71it/s]503it [00:14, 61.82it/s]510it [00:14, 61.63it/s]517it [00:14, 62.19it/s]524it [00:14, 61.34it/s]531it [00:14, 61.35it/s]538it [00:14, 61.49it/s]545it [00:14, 61.90it/s]552it [00:14, 61.39it/s]559it [00:15, 62.06it/s]566it [00:15, 62.53it/s]573it [00:15, 60.08it/s]580it [00:15, 61.23it/s]587it [00:15, 62.64it/s]594it [00:15, 63.66it/s]601it [00:15, 63.69it/s]608it [00:15, 64.44it/s]615it [00:15, 65.58it/s]622it [00:16, 65.24it/s]629it [00:16, 65.02it/s]636it [00:16, 64.36it/s]643it [00:16, 63.97it/s]650it [00:16, 63.31it/s]657it [00:16, 62.29it/s]664it [00:16, 60.58it/s]671it [00:16, 61.40it/s]678it [00:16, 61.39it/s]685it [00:17, 61.21it/s]692it [00:17, 60.92it/s]699it [00:17, 61.35it/s]706it [00:17, 62.24it/s]713it [00:17, 62.57it/s]720it [00:17, 62.63it/s]727it [00:17, 62.54it/s]734it [00:17, 61.45it/s]741it [00:17, 61.70it/s]748it [00:18, 61.74it/s]755it [00:18, 62.28it/s]762it [00:18, 63.93it/s]769it [00:18, 64.03it/s]776it [00:18, 64.23it/s]783it [00:18, 64.24it/s]790it [00:18, 64.23it/s]797it [00:18, 64.37it/s]804it [00:18, 63.70it/s]811it [00:19, 62.56it/s]818it [00:19, 63.26it/s]825it [00:19, 64.03it/s]832it [00:19, 65.06it/s]839it [00:19, 65.04it/s]846it [00:19, 65.65it/s]853it [00:19, 64.86it/s]860it [00:19, 65.67it/s]867it [00:19, 65.17it/s]874it [00:20, 64.43it/s]881it [00:20, 64.68it/s]888it [00:20, 65.01it/s]895it [00:20, 64.25it/s]902it [00:20, 64.48it/s]909it [00:20, 65.10it/s]916it [00:20, 65.75it/s]923it [00:20, 65.02it/s]930it [00:20, 64.94it/s]937it [00:20, 66.25it/s]944it [00:21, 65.96it/s]951it [00:21, 66.13it/s]958it [00:21, 65.15it/s]965it [00:21, 64.49it/s]972it [00:21, 64.88it/s]979it [00:21, 65.15it/s]986it [00:21, 65.67it/s]993it [00:21, 65.73it/s]1000it [00:21, 65.51it/s]1007it [00:22, 65.06it/s]1014it [00:22, 65.44it/s]1021it [00:22, 65.50it/s]1028it [00:22, 65.60it/s]1035it [00:22, 65.31it/s]1042it [00:22, 65.15it/s]1049it [00:22, 64.98it/s]1056it [00:22, 61.70it/s]1063it [00:22, 62.71it/s]1070it [00:23, 63.95it/s]1077it [00:23, 64.57it/s]1084it [00:23, 62.61it/s]1091it [00:23, 63.06it/s]1098it [00:23, 62.77it/s]1105it [00:23, 63.17it/s]1112it [00:23, 61.71it/s]1119it [00:23, 61.57it/s]1126it [00:23, 61.99it/s]1133it [00:24, 62.35it/s]1140it [00:24, 62.94it/s]1147it [00:24, 62.59it/s]1154it [00:24, 62.40it/s]1161it [00:24, 61.81it/s]1168it [00:24, 63.21it/s]1175it [00:24, 63.55it/s]1182it [00:24, 63.59it/s]1189it [00:24, 63.88it/s]1196it [00:25, 63.35it/s]1203it [00:25, 64.49it/s]1210it [00:25, 64.63it/s]1217it [00:25, 64.34it/s]1224it [00:25, 63.02it/s]1231it [00:25, 62.57it/s]1238it [00:25, 63.13it/s]1245it [00:25, 62.44it/s]1252it [00:25, 63.60it/s]1259it [00:26, 63.74it/s]1266it [00:26, 63.55it/s]1273it [00:26, 64.55it/s]1280it [00:26, 65.89it/s]1287it [00:26, 65.53it/s]1294it [00:26, 65.45it/s]1302it [00:26, 67.97it/s]1310it [00:26, 68.86it/s]1317it [00:26, 69.11it/s]1325it [00:26, 69.71it/s]1333it [00:27, 70.82it/s]1341it [00:27, 70.46it/s]1349it [00:27, 70.53it/s]1357it [00:27, 69.37it/s]1365it [00:27, 69.93it/s]1373it [00:27, 70.19it/s]1381it [00:27, 70.67it/s]1389it [00:27, 70.79it/s]1397it [00:28, 70.12it/s]1405it [00:28, 70.14it/s]1413it [00:28, 70.44it/s]1421it [00:28, 69.22it/s]1428it [00:28, 68.49it/s]1435it [00:28, 66.97it/s]1442it [00:28, 67.57it/s]1449it [00:28, 67.73it/s]1456it [00:28, 67.51it/s]1463it [00:28, 66.83it/s]1470it [00:29, 67.33it/s]1477it [00:29, 67.41it/s]1484it [00:29, 67.51it/s]1491it [00:29, 67.24it/s]1498it [00:29, 66.96it/s]1505it [00:29, 67.60it/s]1512it [00:29, 66.73it/s]1520it [00:29, 67.39it/s]1527it [00:29, 67.84it/s]1534it [00:30, 66.78it/s]1541it [00:30, 67.14it/s]1549it [00:30, 68.47it/s]1557it [00:30, 69.71it/s]1565it [00:30, 70.03it/s]1573it [00:30, 69.00it/s]1580it [00:30, 68.43it/s]1587it [00:30, 67.59it/s]1594it [00:30, 66.16it/s]1601it [00:31, 64.96it/s]1608it [00:31, 65.72it/s]1615it [00:31, 66.00it/s]1622it [00:31, 65.07it/s]1629it [00:31, 63.66it/s]1636it [00:31, 62.21it/s]1643it [00:31, 61.99it/s]1650it [00:31, 61.61it/s]1657it [00:31, 61.44it/s]1664it [00:32, 62.72it/s]1671it [00:32, 62.66it/s]1678it [00:32, 63.12it/s]1685it [00:32, 64.24it/s]1692it [00:32, 65.10it/s]1699it [00:32, 64.58it/s]1706it [00:32, 64.36it/s]1713it [00:32, 64.13it/s]1720it [00:32, 64.21it/s]1727it [00:33, 64.67it/s]1734it [00:33, 65.94it/s]1741it [00:33, 66.81it/s]1748it [00:33, 67.64it/s]1756it [00:33, 68.36it/s]1763it [00:33, 65.98it/s]1770it [00:33, 63.81it/s]1777it [00:33, 47.40it/s]1783it [00:34, 42.57it/s]1788it [00:34, 35.45it/s]1793it [00:34, 34.81it/s]1798it [00:34, 37.16it/s]1803it [00:34, 33.97it/s]1807it [00:34, 35.08it/s]1811it [00:34, 34.42it/s]1815it [00:35, 31.00it/s]1819it [00:35, 30.87it/s]1823it [00:35, 30.94it/s]1827it [00:35, 28.50it/s]1831it [00:35, 29.27it/s]1835it [00:35, 29.59it/s]1839it [00:35, 27.41it/s]1843it [00:36, 29.07it/s]1847it [00:36, 30.19it/s]1851it [00:36, 30.17it/s]1855it [00:36, 29.68it/s]1859it [00:36, 30.60it/s]1863it [00:36, 30.14it/s]1867it [00:36, 30.39it/s]1871it [00:36, 32.16it/s]1875it [00:37, 30.87it/s]1879it [00:37, 30.23it/s]1883it [00:37, 31.23it/s]1887it [00:37, 32.21it/s]1891it [00:37, 33.40it/s]1895it [00:37, 32.68it/s]1899it [00:37, 32.94it/s]1903it [00:37, 32.67it/s]1907it [00:38, 30.33it/s]1911it [00:38, 32.06it/s]1915it [00:38, 31.61it/s]1919it [00:38, 30.40it/s]1923it [00:38, 32.58it/s]1927it [00:38, 33.08it/s]1931it [00:38, 32.06it/s]1935it [00:39, 28.63it/s]1939it [00:39, 29.83it/s]1943it [00:39, 28.80it/s]1946it [00:39, 28.43it/s]1949it [00:39, 28.11it/s]1952it [00:39, 25.89it/s]1956it [00:39, 27.56it/s]1960it [00:39, 28.50it/s]1963it [00:40, 27.90it/s]1968it [00:40, 30.94it/s]1972it [00:40, 31.54it/s]1977it [00:40, 34.48it/s]1981it [00:40, 30.59it/s]1985it [00:40, 32.07it/s]1989it [00:40, 32.93it/s]1993it [00:40, 29.86it/s]1997it [00:41, 31.77it/s]2000it [00:41, 48.64it/s]
+Epoch:0, Step:290, Loss:  0.002208, Time_cost:  0.283725
+Epoch:0, Step:291, Loss:  0.003319, Time_cost:  0.220930
+Epoch:0, Step:292, Loss:  0.001231, Time_cost:  0.252409
+Epoch:0, Step:293, Loss:  0.001294, Time_cost:  0.214711
+Epoch:0, Step:294, Loss:  0.001460, Time_cost:  0.266803
+Epoch:0, Step:295, Loss:  0.039029, Time_cost:  0.224067
+Epoch:0, Step:296, Loss:  0.039082, Time_cost:  0.217000
+Epoch:0, Step:297, Loss:  0.009635, Time_cost:  0.214688
+Epoch:0, Step:298, Loss:  0.003349, Time_cost:  0.203661
+Epoch:0, Step:299, Loss:  0.002327, Time_cost:  0.203873
+Epoch:0, Step:300, Loss:  0.002134, Time_cost:  0.210145
+Epoch:0, Step:301, Loss:  0.002483, Time_cost:  0.231333
+Epoch:0, Step:302, Loss:  0.004190, Time_cost:  0.217856
+Epoch:0, Step:303, Loss:  0.002177, Time_cost:  0.228148
+Epoch:0, Step:304, Loss:  0.001963, Time_cost:  0.230479
+Epoch:0, Step:305, Loss:  0.001881, Time_cost:  0.304396
+Epoch:0, Step:306, Loss:  0.002844, Time_cost:  0.274491
+Epoch:0, Step:307, Loss:  0.000873, Time_cost:  0.187963
+Epoch:0, Step:308, Loss:  0.002734, Time_cost:  0.247962
+Epoch:0, Step:309, Loss:  0.005074, Time_cost:  0.241708
+Epoch:0, Step:310, Loss:  0.001154, Time_cost:  0.230116
+Epoch:0, Step:311, Loss:  0.003643, Time_cost:  0.232700
+Epoch:0, Step:312, Loss:  0.000224, Time_cost:  0.253282
+Epoch:1, Step:0, Loss:  0.002608, Time_cost:  0.305621
+Epoch:1, Step:1, Loss:  0.002074, Time_cost:  0.305441
+Epoch:1, Step:2, Loss:  0.003482, Time_cost:  0.238447
+Epoch:1, Step:3, Loss:  0.001698, Time_cost:  0.255052
+Epoch:1, Step:4, Loss:  0.002101, Time_cost:  0.254664
+Epoch:1, Step:5, Loss:  0.002321, Time_cost:  0.256569
+Epoch:1, Step:6, Loss:  0.002044, Time_cost:  0.225780
+Epoch:1, Step:7, Loss:  0.000499, Time_cost:  0.238522
+Epoch:1, Step:8, Loss:  0.004815, Time_cost:  0.200954
+Epoch:1, Step:9, Loss:  0.000947, Time_cost:  0.286611
+Epoch:1, Step:10, Loss:  0.003711, Time_cost:  0.200082
+Epoch:1, Step:11, Loss:  0.005301, Time_cost:  0.206017
+Epoch:1, Step:12, Loss:  0.001349, Time_cost:  0.255233
+Epoch:1, Step:13, Loss:  0.002034, Time_cost:  0.243126
+Epoch:1, Step:14, Loss:  0.015798, Time_cost:  0.244339
+Epoch:1, Step:15, Loss:  0.001012, Time_cost:  0.193161
+Epoch:1, Step:16, Loss:  0.030180, Time_cost:  0.280887
+Epoch:1, Step:17, Loss:  0.000869, Time_cost:  0.255671
+Epoch:1, Step:18, Loss:  0.001399, Time_cost:  0.263521
+Epoch:1, Step:19, Loss:  0.001138, Time_cost:  0.204958
+Epoch:1, Step:20, Loss:  0.002648, Time_cost:  0.311668
+Epoch:1, Step:21, Loss:  0.001452, Time_cost:  0.285780
+Epoch:1, Step:22, Loss:  0.001774, Time_cost:  0.222772
+Epoch:1, Step:23, Loss:  0.004188, Time_cost:  0.202625
+Epoch:1, Step:24, Loss:  0.002746, Time_cost:  0.231094
+Epoch:1, Step:25, Loss:  0.000818, Time_cost:  0.277089
+Epoch:1, Step:26, Loss:  0.000851, Time_cost:  0.235229
+Epoch:1, Step:27, Loss:  0.001655, Time_cost:  0.282696
+Epoch:1, Step:28, Loss:  0.064172, Time_cost:  0.246011
+Epoch:1, Step:29, Loss:  0.034398, Time_cost:  0.276399
+Epoch:1, Step:30, Loss:  0.002074, Time_cost:  0.217221
+Epoch:1, Step:31, Loss:  0.039129, Time_cost:  0.264354
+Epoch:1, Step:32, Loss:  0.003537, Time_cost:  0.223090
+Epoch:1, Step:33, Loss:  0.002985, Time_cost:  0.254053
+Epoch:1, Step:34, Loss:  0.028767, Time_cost:  0.219698
+Epoch:1, Step:35, Loss:  0.001491, Time_cost:  0.249617
+Epoch:1, Step:36, Loss:  0.001239, Time_cost:  0.224252
+Epoch:1, Step:37, Loss:  0.003421, Time_cost:  0.262224
+Epoch:1, Step:38, Loss:  0.007341, Time_cost:  0.251844
+Epoch:1, Step:39, Loss:  0.002713, Time_cost:  0.227532
+Epoch:1, Step:40, Loss:  0.001027, Time_cost:  0.202055
+Epoch:1, Step:41, Loss:  0.019612, Time_cost:  0.221800
+Epoch:1, Step:42, Loss:  0.005350, Time_cost:  0.282527
+Epoch:1, Step:43, Loss:  0.001311, Time_cost:  0.243541
+Epoch:1, Step:44, Loss:  0.002889, Time_cost:  0.258493
+Epoch:1, Step:45, Loss:  0.005009, Time_cost:  0.260381
+Epoch:1, Step:46, Loss:  0.033122, Time_cost:  0.220185
+Epoch:1, Step:47, Loss:  0.001205, Time_cost:  0.189799
+Epoch:1, Step:48, Loss:  0.001703, Time_cost:  0.287596
+Epoch:1, Step:49, Loss:  0.045784, Time_cost:  0.254221
+Epoch:1, Step:50, Loss:  0.002883, Time_cost:  0.224931
+Epoch:1, Step:51, Loss:  0.004782, Time_cost:  0.215954
+Epoch:1, Step:52, Loss:  0.002449, Time_cost:  0.244256
+Epoch:1, Step:53, Loss:  0.001556, Time_cost:  0.254256
+Epoch:1, Step:54, Loss:  0.002016, Time_cost:  0.216545
+Epoch:1, Step:55, Loss:  0.003819, Time_cost:  0.239108
+Epoch:1, Step:56, Loss:  0.001433, Time_cost:  0.201421
+Epoch:1, Step:57, Loss:  0.016846, Time_cost:  0.241159
+Epoch:1, Step:58, Loss:  0.001371, Time_cost:  0.190330
+Epoch:1, Step:59, Loss:  0.002052, Time_cost:  0.225338
+Epoch:1, Step:60, Loss:  0.001926, Time_cost:  0.272454
+Epoch:1, Step:61, Loss:  0.001968, Time_cost:  0.233970
+Epoch:1, Step:62, Loss:  0.001469, Time_cost:  0.360852
+Epoch:1, Step:63, Loss:  0.000963, Time_cost:  0.324018
+Epoch:1, Step:64, Loss:  0.001175, Time_cost:  0.237382
+Epoch:1, Step:65, Loss:  0.001411, Time_cost:  0.235122
+Epoch:1, Step:66, Loss:  0.000625, Time_cost:  0.216383
+Epoch:1, Step:67, Loss:  0.001828, Time_cost:  0.215986
+Epoch:1, Step:68, Loss:  0.016715, Time_cost:  0.216130
+Epoch:1, Step:69, Loss:  0.001082, Time_cost:  0.274408
+Epoch:1, Step:70, Loss:  0.002359, Time_cost:  0.247518
+Epoch:1, Step:71, Loss:  0.004580, Time_cost:  0.201170
+Epoch:1, Step:72, Loss:  0.002760, Time_cost:  0.250466
+Epoch:1, Step:73, Loss:  0.001316, Time_cost:  0.236138
+Epoch:1, Step:74, Loss:  0.001919, Time_cost:  0.206097
+Epoch:1, Step:75, Loss:  0.007722, Time_cost:  0.253904
+Epoch:1, Step:76, Loss:  0.005551, Time_cost:  0.204873
+Epoch:1, Step:77, Loss:  0.001233, Time_cost:  0.217928
+Epoch:1, Step:78, Loss:  0.001771, Time_cost:  0.195008
+Epoch:1, Step:79, Loss:  0.001805, Time_cost:  0.280693
+Epoch:1, Step:80, Loss:  0.002696, Time_cost:  0.244580
+Epoch:1, Step:81, Loss:  0.013554, Time_cost:  0.233381
+Epoch:1, Step:82, Loss:  0.001272, Time_cost:  0.251579
+Epoch:1, Step:83, Loss:  0.002234, Time_cost:  0.211984
+Epoch:1, Step:84, Loss:  0.001093, Time_cost:  0.228239
+Epoch:1, Step:85, Loss:  0.002215, Time_cost:  0.230679
+Epoch:1, Step:86, Loss:  0.017671, Time_cost:  0.246232
+Epoch:1, Step:87, Loss:  0.000773, Time_cost:  0.206876
+Epoch:1, Step:88, Loss:  0.000921, Time_cost:  0.269388
+Epoch:1, Step:89, Loss:  0.001487, Time_cost:  0.222697
+Epoch:1, Step:90, Loss:  0.000723, Time_cost:  0.257252
+Epoch:1, Step:91, Loss:  0.000883, Time_cost:  0.220103
+Epoch:1, Step:92, Loss:  0.005069, Time_cost:  0.199455
+Epoch:1, Step:93, Loss:  0.001355, Time_cost:  0.223157
+Epoch:1, Step:94, Loss:  0.005141, Time_cost:  0.266438
+Epoch:1, Step:95, Loss:  0.011271, Time_cost:  0.181866
+Epoch:1, Step:96, Loss:  0.001116, Time_cost:  0.237550
+Epoch:1, Step:97, Loss:  0.002074, Time_cost:  0.228697
+Epoch:1, Step:98, Loss:  0.001793, Time_cost:  0.279796
+Epoch:1, Step:99, Loss:  0.038086, Time_cost:  0.215134
+Epoch:1, Step:100, Loss:  0.000689, Time_cost:  0.245703
+Epoch:1, Step:101, Loss:  0.002447, Time_cost:  0.218109
+Epoch:1, Step:102, Loss:  0.005263, Time_cost:  0.193980
+Epoch:1, Step:103, Loss:  0.001496, Time_cost:  0.246928
+Epoch:1, Step:104, Loss:  0.002900, Time_cost:  0.259376
+Epoch:1, Step:105, Loss:  0.002867, Time_cost:  0.223829
+Epoch:1, Step:106, Loss:  0.001210, Time_cost:  0.243222
+Epoch:1, Step:107, Loss:  0.001430, Time_cost:  0.276314
+Epoch:1, Step:108, Loss:  0.001884, Time_cost:  0.221853
+Epoch:1, Step:109, Loss:  0.005505, Time_cost:  0.237528
+Epoch:1, Step:110, Loss:  0.002194, Time_cost:  0.280921
+Epoch:1, Step:111, Loss:  0.007410, Time_cost:  0.231678
+Epoch:1, Step:112, Loss:  0.003863, Time_cost:  0.254748
+Epoch:1, Step:113, Loss:  0.001300, Time_cost:  0.225692
+Epoch:1, Step:114, Loss:  0.007779, Time_cost:  0.201253
+Epoch:1, Step:115, Loss:  0.002058, Time_cost:  0.264080
+Epoch:1, Step:116, Loss:  0.002275, Time_cost:  0.206531
+Epoch:1, Step:117, Loss:  0.001411, Time_cost:  0.219585
+Epoch:1, Step:118, Loss:  0.001177, Time_cost:  0.219112
+Epoch:1, Step:119, Loss:  0.003152, Time_cost:  0.281020
+Epoch:1, Step:120, Loss:  0.001533, Time_cost:  0.240577
+Epoch:1, Step:121, Loss:  0.001485, Time_cost:  0.193693
+Epoch:1, Step:122, Loss:  0.001680, Time_cost:  0.204805
+Epoch:1, Step:123, Loss:  0.000548, Time_cost:  0.244799
+Epoch:1, Step:124, Loss:  0.001322, Time_cost:  0.213362
+Epoch:1, Step:125, Loss:  0.002710, Time_cost:  0.278174
+Epoch:1, Step:126, Loss:  0.001531, Time_cost:  0.243391
+Epoch:1, Step:127, Loss:  0.001213, Time_cost:  0.267067
+Epoch:1, Step:128, Loss:  0.002429, Time_cost:  0.200559
+Epoch:1, Step:129, Loss:  0.028474, Time_cost:  0.226668
+Epoch:1, Step:130, Loss:  0.001173, Time_cost:  0.270284
+Epoch:1, Step:131, Loss:  0.001274, Time_cost:  0.267829
+Epoch:1, Step:132, Loss:  0.000803, Time_cost:  0.240818
+Epoch:1, Step:133, Loss:  0.001746, Time_cost:  0.203438
+Epoch:1, Step:134, Loss:  0.000621, Time_cost:  0.248379
+Epoch:1, Step:135, Loss:  0.001621, Time_cost:  0.216234
+Epoch:1, Step:136, Loss:  0.001164, Time_cost:  0.234748
+Epoch:1, Step:137, Loss:  0.003467, Time_cost:  0.218048
+Epoch:1, Step:138, Loss:  0.007114, Time_cost:  0.261627
+Epoch:1, Step:139, Loss:  0.000673, Time_cost:  0.251969
+Epoch:1, Step:140, Loss:  0.001445, Time_cost:  0.213931
+Epoch:1, Step:141, Loss:  0.001509, Time_cost:  0.215850
+Epoch:1, Step:142, Loss:  0.043362, Time_cost:  0.267159
+Epoch:1, Step:143, Loss:  0.000699, Time_cost:  0.192786
+Epoch:1, Step:144, Loss:  0.001380, Time_cost:  0.225282
+Epoch:1, Step:145, Loss:  0.002468, Time_cost:  0.222490
+Epoch:1, Step:146, Loss:  0.004893, Time_cost:  0.222978
+Epoch:1, Step:147, Loss:  0.003344, Time_cost:  0.216931
+Epoch:1, Step:148, Loss:  0.001260, Time_cost:  0.236802
+Epoch:1, Step:149, Loss:  0.001132, Time_cost:  0.214148
+Epoch:1, Step:150, Loss:  0.004794, Time_cost:  0.222526
+Epoch:1, Step:151, Loss:  0.000877, Time_cost:  0.205413
+Epoch:1, Step:152, Loss:  0.001543, Time_cost:  0.256353
+Epoch:1, Step:153, Loss:  0.001028, Time_cost:  0.290591
+Epoch:1, Step:154, Loss:  0.000787, Time_cost:  0.218057
+Epoch:1, Step:155, Loss:  0.002581, Time_cost:  0.261704
+Epoch:1, Step:156, Loss:  0.000984, Time_cost:  0.235843
+Epoch:1, Step:157, Loss:  0.004299, Time_cost:  0.254596
+Epoch:1, Step:158, Loss:  0.000795, Time_cost:  0.222007
+Epoch:1, Step:159, Loss:  0.001086, Time_cost:  0.251698
+Epoch:1, Step:160, Loss:  0.000504, Time_cost:  0.211200
+Epoch:1, Step:161, Loss:  0.001580, Time_cost:  0.201184
+Epoch:1, Step:162, Loss:  0.000646, Time_cost:  0.204068
+Epoch:1, Step:163, Loss:  0.019388, Time_cost:  0.229785
+Epoch:1, Step:164, Loss:  0.001713, Time_cost:  0.227842
+Epoch:1, Step:165, Loss:  0.001941, Time_cost:  0.226334
+Epoch:1, Step:166, Loss:  0.039352, Time_cost:  0.210910
+Epoch:1, Step:167, Loss:  0.000690, Time_cost:  0.246876
+Epoch:1, Step:168, Loss:  0.000770, Time_cost:  0.260627
+Epoch:1, Step:169, Loss:  0.001687, Time_cost:  0.246221
+Epoch:1, Step:170, Loss:  0.047339, Time_cost:  0.245797
+Epoch:1, Step:171, Loss:  0.001328, Time_cost:  0.253436
+Epoch:1, Step:172, Loss:  0.000738, Time_cost:  0.203348
+Epoch:1, Step:173, Loss:  0.014057, Time_cost:  0.230730
+Epoch:1, Step:174, Loss:  0.001538, Time_cost:  0.272481
+Epoch:1, Step:175, Loss:  0.001304, Time_cost:  0.243350
+Epoch:1, Step:176, Loss:  0.001098, Time_cost:  0.286912
+Epoch:1, Step:177, Loss:  0.002071, Time_cost:  0.214283
+Epoch:1, Step:178, Loss:  0.001070, Time_cost:  0.218147
+Epoch:1, Step:179, Loss:  0.001086, Time_cost:  0.240673
+Epoch:1, Step:180, Loss:  0.000868, Time_cost:  0.218365
+Epoch:1, Step:181, Loss:  0.003104, Time_cost:  0.217451
+Epoch:1, Step:182, Loss:  0.001119, Time_cost:  0.221234
+Epoch:1, Step:183, Loss:  0.000593, Time_cost:  0.254963
+Epoch:1, Step:184, Loss:  0.001322, Time_cost:  0.240781
+Epoch:1, Step:185, Loss:  0.001049, Time_cost:  0.244573
+Epoch:1, Step:186, Loss:  0.004169, Time_cost:  0.204680
+Epoch:1, Step:187, Loss:  0.001277, Time_cost:  0.250714
+Epoch:1, Step:188, Loss:  0.001138, Time_cost:  0.257804
+Epoch:1, Step:189, Loss:  0.000920, Time_cost:  0.258740
+Epoch:1, Step:190, Loss:  0.002966, Time_cost:  0.223071
+Epoch:1, Step:191, Loss:  0.001554, Time_cost:  0.242032
+Epoch:1, Step:192, Loss:  0.005868, Time_cost:  0.246029
+Epoch:1, Step:193, Loss:  0.001002, Time_cost:  0.224253
+Epoch:1, Step:194, Loss:  0.001181, Time_cost:  0.173183
+Epoch:1, Step:195, Loss:  0.001551, Time_cost:  0.175422
+Epoch:1, Step:196, Loss:  0.001183, Time_cost:  0.161489
+Epoch:1, Step:197, Loss:  0.002460, Time_cost:  0.207611
+Epoch:1, Step:198, Loss:  0.003596, Time_cost:  0.181827
+Epoch:1, Step:199, Loss:  0.003298, Time_cost:  0.177270
+Epoch:1, Step:200, Loss:  0.001082, Time_cost:  0.195390
+Epoch:1, Step:201, Loss:  0.000692, Time_cost:  0.163682
+Epoch:1, Step:202, Loss:  0.002719, Time_cost:  0.182396
+Epoch:1, Step:203, Loss:  0.000529, Time_cost:  0.191069
+Epoch:1, Step:204, Loss:  0.000679, Time_cost:  0.180250
+Epoch:1, Step:205, Loss:  0.001868, Time_cost:  0.182351
+Epoch:1, Step:206, Loss:  0.000956, Time_cost:  0.155348
+Epoch:1, Step:207, Loss:  0.002076, Time_cost:  0.173507
+Epoch:1, Step:208, Loss:  0.000786, Time_cost:  0.178310
+Epoch:1, Step:209, Loss:  0.002365, Time_cost:  0.154157
+Epoch:1, Step:210, Loss:  0.007162, Time_cost:  0.171124
+Epoch:1, Step:211, Loss:  0.000558, Time_cost:  0.178236
+Epoch:1, Step:212, Loss:  0.001640, Time_cost:  0.175766
+Epoch:1, Step:213, Loss:  0.002164, Time_cost:  0.164853
+Epoch:1, Step:214, Loss:  0.001320, Time_cost:  0.172631
+Epoch:1, Step:215, Loss:  0.002759, Time_cost:  0.173156
+Epoch:1, Step:216, Loss:  0.001150, Time_cost:  0.169826
+Epoch:1, Step:217, Loss:  0.004176, Time_cost:  0.162466
+Epoch:1, Step:218, Loss:  0.003033, Time_cost:  0.149802
+Epoch:1, Step:219, Loss:  0.001005, Time_cost:  0.192752
+Epoch:1, Step:220, Loss:  0.001262, Time_cost:  0.175804
+Epoch:1, Step:221, Loss:  0.002818, Time_cost:  0.162470
+Epoch:1, Step:222, Loss:  0.000818, Time_cost:  0.169758
+Epoch:1, Step:223, Loss:  0.000843, Time_cost:  0.201360
+Epoch:1, Step:224, Loss:  0.000714, Time_cost:  0.157290
+Epoch:1, Step:225, Loss:  0.002690, Time_cost:  0.233400
+Epoch:1, Step:226, Loss:  0.000527, Time_cost:  0.149902
+Epoch:1, Step:227, Loss:  0.001803, Time_cost:  0.167338
+Epoch:1, Step:228, Loss:  0.003808, Time_cost:  0.158427
+Epoch:1, Step:229, Loss:  0.001014, Time_cost:  0.148259
+Epoch:1, Step:230, Loss:  0.000624, Time_cost:  0.168588
+Epoch:1, Step:231, Loss:  0.059683, Time_cost:  0.154195
+Epoch:1, Step:232, Loss:  0.002335, Time_cost:  0.159467
+Epoch:1, Step:233, Loss:  0.000428, Time_cost:  0.173885
+Epoch:1, Step:234, Loss:  0.001478, Time_cost:  0.173495
+Epoch:1, Step:235, Loss:  0.001254, Time_cost:  0.149423
+Epoch:1, Step:236, Loss:  0.002373, Time_cost:  0.174831
+Epoch:1, Step:237, Loss:  0.000472, Time_cost:  0.174047
+Epoch:1, Step:238, Loss:  0.001794, Time_cost:  0.176610
+Epoch:1, Step:239, Loss:  0.002415, Time_cost:  0.178650
+Epoch:1, Step:240, Loss:  0.001688, Time_cost:  0.172870
+Epoch:1, Step:241, Loss:  0.001016, Time_cost:  0.153438
+Epoch:1, Step:242, Loss:  0.001404, Time_cost:  0.177367
+Epoch:1, Step:243, Loss:  0.001592, Time_cost:  0.180753
+Epoch:1, Step:244, Loss:  0.005516, Time_cost:  0.157485
+Epoch:1, Step:245, Loss:  0.003697, Time_cost:  0.167155
+Epoch:1, Step:246, Loss:  0.002476, Time_cost:  0.157034
+Epoch:1, Step:247, Loss:  0.000939, Time_cost:  0.176824
+Epoch:1, Step:248, Loss:  0.002390, Time_cost:  0.138732
+Epoch:1, Step:249, Loss:  0.000769, Time_cost:  0.131949
+Epoch:1, Step:250, Loss:  0.001291, Time_cost:  0.132292
+Epoch:1, Step:251, Loss:  0.002506, Time_cost:  0.124162
+Epoch:1, Step:252, Loss:  0.001555, Time_cost:  0.221089
+Epoch:1, Step:253, Loss:  0.001050, Time_cost:  0.211897
+Epoch:1, Step:254, Loss:  0.001988, Time_cost:  0.219210
+Epoch:1, Step:255, Loss:  0.001839, Time_cost:  0.261886
+Epoch:1, Step:256, Loss:  0.001478, Time_cost:  0.201580
+Epoch:1, Step:257, Loss:  0.001288, Time_cost:  0.223775
+Epoch:1, Step:258, Loss:  0.095190, Time_cost:  0.256784
+Epoch:1, Step:259, Loss:  0.001097, Time_cost:  0.248240
+Epoch:1, Step:260, Loss:  0.000746, Time_cost:  0.222332
+Epoch:1, Step:261, Loss:  0.000565, Time_cost:  0.205840
+Epoch:1, Step:262, Loss:  0.001340, Time_cost:  0.215962
+Epoch:1, Step:263, Loss:  0.027124, Time_cost:  0.261070
+Epoch:1, Step:264, Loss:  0.000797, Time_cost:  0.210673
+Epoch:1, Step:265, Loss:  0.001654, Time_cost:  0.274763
+Epoch:1, Step:266, Loss:  0.001185, Time_cost:  0.296544
+0it [00:00, ?it/s]3it [00:00, 27.32it/s]7it [00:00, 28.16it/s]11it [00:00, 30.06it/s]14it [00:00, 29.51it/s]18it [00:00, 31.13it/s]22it [00:00, 32.26it/s]26it [00:00, 31.95it/s]30it [00:00, 29.06it/s]33it [00:01, 29.13it/s]37it [00:01, 30.42it/s]41it [00:01, 31.39it/s]45it [00:01, 29.50it/s]49it [00:01, 31.49it/s]53it [00:01, 31.90it/s]57it [00:01, 32.00it/s]61it [00:01, 32.05it/s]65it [00:02, 32.38it/s]69it [00:02, 33.23it/s]73it [00:02, 29.53it/s]77it [00:02, 30.14it/s]81it [00:02, 30.85it/s]85it [00:02, 28.65it/s]88it [00:02, 28.37it/s]91it [00:02, 28.84it/s]95it [00:03, 29.44it/s]98it [00:03, 28.69it/s]101it [00:03, 27.74it/s]104it [00:03, 27.86it/s]107it [00:03, 28.13it/s]111it [00:03, 30.00it/s]115it [00:03, 27.96it/s]119it [00:03, 29.82it/s]123it [00:04, 30.61it/s]127it [00:04, 30.18it/s]131it [00:04, 30.89it/s]135it [00:04, 31.92it/s]139it [00:04, 32.57it/s]143it [00:04, 30.14it/s]147it [00:04, 32.05it/s]151it [00:04, 33.08it/s]155it [00:05, 33.50it/s]159it [00:05, 31.88it/s]164it [00:05, 35.13it/s]168it [00:05, 32.51it/s]172it [00:05, 30.92it/s]176it [00:05, 31.38it/s]180it [00:05, 29.90it/s]184it [00:06, 26.64it/s]187it [00:06, 26.51it/s]190it [00:06, 25.27it/s]193it [00:06, 25.11it/s]196it [00:06, 25.76it/s]199it [00:06, 25.52it/s]202it [00:06, 24.93it/s]205it [00:06, 21.56it/s]208it [00:07, 22.37it/s]212it [00:07, 24.91it/s]216it [00:07, 27.12it/s]219it [00:07, 25.94it/s]222it [00:07, 25.64it/s]225it [00:07, 26.68it/s]229it [00:07, 28.32it/s]232it [00:07, 25.67it/s]235it [00:08, 24.98it/s]238it [00:08, 25.30it/s]241it [00:08, 25.49it/s]244it [00:08, 24.79it/s]247it [00:08, 25.44it/s]251it [00:08, 26.75it/s]254it [00:08, 27.60it/s]257it [00:08, 26.10it/s]260it [00:08, 25.89it/s]264it [00:09, 27.09it/s]267it [00:09, 25.85it/s]270it [00:09, 25.50it/s]274it [00:09, 27.48it/s]278it [00:09, 27.62it/s]281it [00:09, 26.16it/s]284it [00:09, 27.03it/s]288it [00:09, 29.45it/s]292it [00:10, 28.46it/s]296it [00:10, 30.15it/s]300it [00:10, 32.04it/s]304it [00:10, 28.06it/s]308it [00:10, 29.19it/s]312it [00:10, 31.38it/s]316it [00:10, 31.10it/s]320it [00:11, 31.94it/s]324it [00:11, 31.62it/s]328it [00:11, 31.14it/s]332it [00:11, 30.33it/s]336it [00:11, 29.07it/s]340it [00:11, 31.24it/s]344it [00:11, 32.30it/s]348it [00:11, 32.44it/s]352it [00:12, 29.81it/s]356it [00:12, 31.32it/s]360it [00:12, 32.43it/s]364it [00:12, 31.05it/s]368it [00:12, 28.69it/s]372it [00:12, 29.18it/s]376it [00:12, 30.30it/s]380it [00:13, 26.90it/s]385it [00:13, 30.25it/s]389it [00:13, 31.27it/s]393it [00:13, 32.10it/s]397it [00:13, 29.79it/s]401it [00:13, 31.25it/s]405it [00:13, 32.46it/s]409it [00:13, 30.50it/s]413it [00:14, 30.91it/s]417it [00:14, 31.32it/s]421it [00:14, 28.85it/s]424it [00:14, 28.01it/s]428it [00:14, 30.02it/s]432it [00:14, 30.18it/s]436it [00:14, 29.97it/s]440it [00:14, 27.97it/s]444it [00:15, 29.55it/s]448it [00:15, 31.20it/s]452it [00:15, 30.61it/s]456it [00:15, 28.14it/s]460it [00:15, 28.83it/s]463it [00:15, 29.08it/s]467it [00:15, 31.10it/s]471it [00:16, 29.43it/s]475it [00:16, 31.28it/s]479it [00:16, 31.78it/s]483it [00:16, 31.76it/s]487it [00:16, 28.94it/s]490it [00:16, 28.75it/s]493it [00:16, 29.07it/s]497it [00:16, 29.88it/s]501it [00:17, 27.98it/s]505it [00:17, 29.51it/s]509it [00:17, 31.42it/s]513it [00:17, 32.81it/s]517it [00:17, 28.72it/s]521it [00:17, 30.70it/s]525it [00:17, 31.29it/s]529it [00:17, 30.94it/s]533it [00:18, 29.54it/s]537it [00:18, 30.61it/s]541it [00:18, 32.48it/s]545it [00:18, 29.40it/s]549it [00:18, 28.27it/s]553it [00:18, 29.06it/s]557it [00:18, 30.77it/s]561it [00:18, 30.01it/s]565it [00:19, 28.34it/s]568it [00:19, 28.60it/s]572it [00:19, 29.11it/s]576it [00:19, 30.22it/s]580it [00:19, 29.52it/s]583it [00:19, 28.07it/s]587it [00:19, 29.34it/s]591it [00:20, 30.43it/s]595it [00:20, 29.05it/s]598it [00:20, 27.84it/s]601it [00:20, 28.07it/s]604it [00:20, 28.56it/s]608it [00:20, 30.10it/s]612it [00:20, 29.74it/s]616it [00:20, 28.73it/s]619it [00:20, 28.52it/s]623it [00:21, 29.89it/s]627it [00:21, 27.73it/s]632it [00:21, 30.43it/s]636it [00:21, 29.72it/s]640it [00:21, 30.32it/s]644it [00:21, 31.33it/s]648it [00:21, 32.04it/s]652it [00:22, 29.16it/s]656it [00:22, 30.55it/s]660it [00:22, 31.14it/s]664it [00:22, 31.29it/s]668it [00:22, 30.51it/s]672it [00:22, 31.83it/s]676it [00:22, 32.39it/s]680it [00:23, 28.06it/s]683it [00:23, 27.89it/s]686it [00:23, 28.41it/s]690it [00:23, 28.69it/s]693it [00:23, 26.24it/s]696it [00:23, 26.52it/s]700it [00:23, 28.27it/s]704it [00:23, 28.79it/s]708it [00:23, 29.96it/s]712it [00:24, 29.95it/s]716it [00:24, 31.74it/s]720it [00:24, 31.77it/s]724it [00:24, 28.99it/s]727it [00:24, 28.04it/s]730it [00:24, 28.49it/s]734it [00:24, 29.23it/s]738it [00:24, 28.90it/s]741it [00:25, 29.14it/s]745it [00:25, 31.11it/s]749it [00:25, 32.38it/s]753it [00:25, 29.29it/s]757it [00:25, 30.11it/s]761it [00:25, 32.02it/s]765it [00:25, 29.60it/s]769it [00:26, 29.07it/s]773it [00:26, 30.81it/s]777it [00:26, 30.96it/s]781it [00:26, 28.46it/s]784it [00:26, 26.60it/s]788it [00:26, 28.91it/s]792it [00:26, 28.17it/s]795it [00:26, 27.87it/s]798it [00:27, 27.95it/s]801it [00:27, 26.73it/s]805it [00:27, 29.06it/s]809it [00:27, 30.51it/s]813it [00:27, 31.32it/s]817it [00:27, 29.40it/s]821it [00:27, 31.81it/s]825it [00:27, 32.69it/s]829it [00:28, 29.70it/s]833it [00:28, 30.38it/s]837it [00:28, 31.65it/s]841it [00:28, 31.89it/s]845it [00:28, 29.11it/s]850it [00:28, 31.60it/s]854it [00:28, 31.82it/s]858it [00:28, 30.95it/s]862it [00:29, 32.36it/s]866it [00:29, 32.55it/s]870it [00:29, 32.68it/s]874it [00:29, 28.51it/s]877it [00:29, 28.70it/s]881it [00:29, 29.55it/s]885it [00:29, 30.65it/s]889it [00:29, 28.90it/s]893it [00:30, 29.65it/s]898it [00:30, 32.37it/s]902it [00:30, 32.26it/s]906it [00:30, 28.11it/s]909it [00:30, 27.84it/s]912it [00:30, 28.37it/s]915it [00:30, 28.13it/s]918it [00:30, 28.56it/s]921it [00:31, 26.13it/s]925it [00:31, 28.42it/s]929it [00:31, 30.04it/s]933it [00:31, 29.13it/s]937it [00:31, 29.75it/s]941it [00:31, 30.75it/s]945it [00:31, 30.71it/s]949it [00:31, 29.97it/s]953it [00:32, 31.43it/s]957it [00:32, 31.24it/s]961it [00:32, 28.69it/s]965it [00:32, 29.19it/s]969it [00:32, 30.58it/s]973it [00:32, 27.71it/s]977it [00:32, 29.62it/s]981it [00:33, 30.73it/s]985it [00:33, 31.13it/s]989it [00:33, 29.52it/s]993it [00:33, 31.02it/s]997it [00:33, 32.84it/s]1001it [00:33, 30.01it/s]1005it [00:33, 32.00it/s]1009it [00:33, 33.36it/s]1013it [00:34, 32.93it/s]1017it [00:34, 32.44it/s]1021it [00:34, 32.68it/s]1025it [00:34, 33.21it/s]1029it [00:34, 30.45it/s]1033it [00:34, 29.93it/s]1037it [00:34, 30.38it/s]1041it [00:34, 30.39it/s]1045it [00:35, 28.43it/s]1049it [00:35, 29.61it/s]1053it [00:35, 28.58it/s]1056it [00:35, 25.99it/s]1060it [00:35, 27.30it/s]1063it [00:35, 27.92it/s]1067it [00:35, 28.21it/s]1070it [00:36, 28.37it/s]1075it [00:36, 31.09it/s]1079it [00:36, 30.10it/s]1083it [00:36, 28.85it/s]1087it [00:36, 30.53it/s]1091it [00:36, 31.19it/s]1095it [00:36, 28.18it/s]1099it [00:36, 29.49it/s]1103it [00:37, 30.91it/s]1107it [00:37, 30.34it/s]1111it [00:37, 28.89it/s]1114it [00:37, 28.94it/s]1118it [00:37, 30.25it/s]1122it [00:37, 29.41it/s]1125it [00:37, 28.61it/s]1129it [00:37, 29.93it/s]1133it [00:38, 30.66it/s]1137it [00:38, 30.21it/s]1141it [00:38, 31.01it/s]1145it [00:38, 32.44it/s]1149it [00:38, 29.85it/s]1153it [00:38, 28.12it/s]1156it [00:38, 28.21it/s]1160it [00:39, 29.50it/s]1164it [00:39, 30.51it/s]1168it [00:39, 28.66it/s]1172it [00:39, 30.72it/s]1176it [00:39, 30.70it/s]1180it [00:39, 28.87it/s]1184it [00:39, 29.47it/s]1188it [00:39, 31.08it/s]1192it [00:40, 29.48it/s]1196it [00:40, 28.92it/s]1200it [00:40, 30.77it/s]1204it [00:40, 31.70it/s]1208it [00:40, 29.18it/s]1213it [00:40, 31.99it/s]1217it [00:40, 33.72it/s]1221it [00:41, 29.05it/s]1225it [00:41, 30.33it/s]1229it [00:41, 30.49it/s]1233it [00:41, 28.59it/s]1237it [00:41, 30.55it/s]1241it [00:41, 30.90it/s]1245it [00:41, 29.39it/s]1250it [00:41, 31.97it/s]1254it [00:42, 33.04it/s]1258it [00:42, 28.94it/s]1262it [00:42, 28.96it/s]1266it [00:42, 28.86it/s]1269it [00:42, 28.93it/s]1272it [00:42, 27.71it/s]1275it [00:42, 27.20it/s]1278it [00:42, 26.56it/s]1281it [00:43, 27.35it/s]1284it [00:43, 27.74it/s]1288it [00:43, 29.17it/s]1291it [00:43, 27.92it/s]1294it [00:43, 28.02it/s]1298it [00:43, 30.21it/s]1303it [00:43, 32.76it/s]1307it [00:43, 29.56it/s]1311it [00:44, 29.53it/s]1315it [00:44, 30.61it/s]1319it [00:44, 30.55it/s]1323it [00:44, 28.61it/s]1327it [00:44, 29.88it/s]1331it [00:44, 31.01it/s]1335it [00:44, 29.66it/s]1339it [00:44, 30.51it/s]1344it [00:45, 32.20it/s]1348it [00:45, 28.32it/s]1352it [00:45, 28.87it/s]1355it [00:45, 28.75it/s]1358it [00:45, 28.55it/s]1361it [00:45, 27.27it/s]1365it [00:45, 29.66it/s]1369it [00:45, 29.67it/s]1373it [00:46, 29.70it/s]1377it [00:46, 31.13it/s]1382it [00:46, 31.83it/s]1386it [00:46, 30.14it/s]1390it [00:46, 31.51it/s]1394it [00:46, 29.43it/s]1398it [00:46, 28.30it/s]1402it [00:47, 29.67it/s]1406it [00:47, 31.32it/s]1410it [00:47, 28.21it/s]1414it [00:47, 29.98it/s]1418it [00:47, 30.82it/s]1422it [00:47, 28.18it/s]1426it [00:47, 30.15it/s]1430it [00:48, 31.26it/s]1434it [00:48, 28.88it/s]1438it [00:48, 30.84it/s]1442it [00:48, 32.94it/s]1446it [00:48, 32.72it/s]1450it [00:48, 31.60it/s]1454it [00:48, 32.29it/s]1459it [00:48, 34.78it/s]1463it [00:49, 31.49it/s]1467it [00:49, 31.72it/s]1471it [00:49, 32.41it/s]1475it [00:49, 33.86it/s]1479it [00:49, 28.97it/s]1483it [00:49, 29.26it/s]1487it [00:49, 29.45it/s]1491it [00:49, 29.96it/s]1495it [00:50, 27.63it/s]1499it [00:50, 28.48it/s]1503it [00:50, 29.72it/s]1507it [00:50, 26.64it/s]1511it [00:50, 28.31it/s]1515it [00:50, 29.72it/s]1519it [00:50, 28.33it/s]1522it [00:51, 28.42it/s]1526it [00:51, 29.36it/s]1530it [00:51, 30.10it/s]1534it [00:51, 29.74it/s]1538it [00:51, 29.64it/s]1542it [00:51, 31.51it/s]1546it [00:51, 29.71it/s]1550it [00:51, 28.94it/s]1554it [00:52, 29.58it/s]1559it [00:52, 31.69it/s]1563it [00:52, 29.64it/s]1567it [00:52, 28.82it/s]1570it [00:52, 28.74it/s]1573it [00:52, 28.33it/s]1576it [00:52, 27.64it/s]1579it [00:53, 27.02it/s]1582it [00:53, 27.46it/s]1586it [00:53, 29.44it/s]1590it [00:53, 30.43it/s]1594it [00:53, 28.10it/s]1598it [00:53, 29.52it/s]1602it [00:53, 30.42it/s]1606it [00:53, 27.57it/s]1610it [00:54, 28.34it/s]1613it [00:54, 28.68it/s]1616it [00:54, 28.65it/s]1619it [00:54, 25.96it/s]1622it [00:54, 25.68it/s]1625it [00:54, 26.41it/s]1628it [00:54, 27.12it/s]1632it [00:54, 27.39it/s]1635it [00:55, 25.27it/s]1640it [00:55, 28.09it/s]1644it [00:55, 29.99it/s]1648it [00:55, 30.06it/s]1652it [00:55, 27.41it/s]1656it [00:55, 28.82it/s]1660it [00:55, 30.99it/s]1664it [00:55, 29.77it/s]1668it [00:56, 27.64it/s]1671it [00:56, 28.11it/s]1675it [00:56, 28.77it/s]1678it [00:56, 27.73it/s]1681it [00:56, 28.13it/s]1685it [00:56, 30.33it/s]1689it [00:56, 32.48it/s]1693it [00:56, 28.32it/s]1697it [00:57, 28.83it/s]1700it [00:57, 29.13it/s]1704it [00:57, 29.44it/s]1708it [00:57, 28.15it/s]1711it [00:57, 27.09it/s]1715it [00:57, 28.65it/s]1719it [00:57, 30.44it/s]1723it [00:58, 27.03it/s]1727it [00:58, 28.85it/s]1731it [00:58, 29.97it/s]1735it [00:58, 30.75it/s]1739it [00:58, 31.71it/s]1743it [00:58, 29.34it/s]1747it [00:58, 31.03it/s]1751it [00:58, 32.13it/s]1755it [00:59, 29.66it/s]1759it [00:59, 29.33it/s]1763it [00:59, 29.67it/s]1767it [00:59, 30.14it/s]1771it [00:59, 29.76it/s]1775it [00:59, 31.55it/s]1779it [00:59, 33.48it/s]1783it [00:59, 30.93it/s]1787it [01:00, 31.98it/s]1791it [01:00, 32.43it/s]1795it [01:00, 33.10it/s]1799it [01:00, 33.06it/s]1803it [01:00, 34.87it/s]1808it [01:00, 36.05it/s]1812it [01:00, 31.76it/s]1816it [01:00, 29.43it/s]1820it [01:01, 29.31it/s]1824it [01:01, 29.51it/s]1828it [01:01, 27.24it/s]1831it [01:01, 27.72it/s]1834it [01:01, 28.25it/s]1838it [01:01, 28.85it/s]1841it [01:01, 26.89it/s]1845it [01:02, 28.61it/s]1849it [01:02, 31.00it/s]1853it [01:02, 28.03it/s]1857it [01:02, 29.65it/s]1861it [01:02, 30.88it/s]1865it [01:02, 28.93it/s]1868it [01:02, 28.23it/s]1872it [01:02, 29.30it/s]1876it [01:03, 30.72it/s]1880it [01:03, 28.90it/s]1884it [01:03, 29.92it/s]1888it [01:03, 31.89it/s]1892it [01:03, 33.57it/s]1896it [01:03, 31.79it/s]1900it [01:03, 30.78it/s]1904it [01:03, 32.38it/s]1908it [01:04, 33.13it/s]1912it [01:04, 30.34it/s]1917it [01:04, 32.48it/s]1921it [01:04, 33.19it/s]1925it [01:04, 31.55it/s]1929it [01:04, 31.37it/s]1933it [01:04, 32.33it/s]1937it [01:04, 32.81it/s]1941it [01:05, 29.71it/s]1945it [01:05, 30.83it/s]1949it [01:05, 32.06it/s]1953it [01:05, 30.23it/s]1957it [01:05, 29.39it/s]1961it [01:05, 30.37it/s]1966it [01:05, 33.26it/s]1970it [01:06, 29.55it/s]1974it [01:06, 30.55it/s]1979it [01:06, 32.80it/s]1983it [01:06, 31.58it/s]1987it [01:06, 30.17it/s]1991it [01:06, 29.82it/s]1995it [01:06, 30.68it/s]1999it [01:06, 30.00it/s]2000it [01:07, 29.85it/s]
+Epoch:1, Step:267, Loss:  0.000880, Time_cost:  0.226014
+Epoch:1, Step:268, Loss:  0.006171, Time_cost:  0.246992
+Epoch:1, Step:269, Loss:  0.001411, Time_cost:  0.241814
+Epoch:1, Step:270, Loss:  0.000912, Time_cost:  0.262321
+Epoch:1, Step:271, Loss:  0.000768, Time_cost:  0.237360
+Epoch:1, Step:272, Loss:  0.015074, Time_cost:  0.318803
+Epoch:1, Step:273, Loss:  0.002450, Time_cost:  0.220820
+Epoch:1, Step:274, Loss:  0.002544, Time_cost:  0.218997
+Epoch:1, Step:275, Loss:  0.002647, Time_cost:  0.217851
+Epoch:1, Step:276, Loss:  0.002502, Time_cost:  0.292184
+Epoch:1, Step:277, Loss:  0.000809, Time_cost:  0.243212
+Epoch:1, Step:278, Loss:  0.001579, Time_cost:  0.245995
+Epoch:1, Step:279, Loss:  0.005957, Time_cost:  0.220384
+Epoch:1, Step:280, Loss:  0.001211, Time_cost:  0.229287
+Epoch:1, Step:281, Loss:  0.001599, Time_cost:  0.244685
+Epoch:1, Step:282, Loss:  0.001197, Time_cost:  0.200025
+Epoch:1, Step:283, Loss:  0.001027, Time_cost:  0.252692
+Epoch:1, Step:284, Loss:  0.001729, Time_cost:  0.232495
+Epoch:1, Step:285, Loss:  0.000906, Time_cost:  0.218468
+Epoch:1, Step:286, Loss:  0.002223, Time_cost:  0.237857
+Epoch:1, Step:287, Loss:  0.000996, Time_cost:  0.200541
+Epoch:1, Step:288, Loss:  0.001807, Time_cost:  0.221721
+Epoch:1, Step:289, Loss:  0.003029, Time_cost:  0.393153
+Epoch:1, Step:290, Loss:  0.000876, Time_cost:  0.279596
+Epoch:1, Step:291, Loss:  0.001336, Time_cost:  0.232606
+Epoch:1, Step:292, Loss:  0.000626, Time_cost:  0.260170
+Epoch:1, Step:293, Loss:  0.000663, Time_cost:  0.202773
+Epoch:1, Step:294, Loss:  0.001134, Time_cost:  0.274818
+Epoch:1, Step:295, Loss:  0.042045, Time_cost:  0.221365
+Epoch:1, Step:296, Loss:  0.046775, Time_cost:  0.254154
+Epoch:1, Step:297, Loss:  0.002863, Time_cost:  0.228917
+Epoch:1, Step:298, Loss:  0.001491, Time_cost:  0.230328
+Epoch:1, Step:299, Loss:  0.001632, Time_cost:  0.223215
+Epoch:1, Step:300, Loss:  0.001028, Time_cost:  0.232095
+Epoch:1, Step:301, Loss:  0.002111, Time_cost:  0.217828
+Epoch:1, Step:302, Loss:  0.001742, Time_cost:  0.261655
+Epoch:1, Step:303, Loss:  0.000861, Time_cost:  0.240368
+Epoch:1, Step:304, Loss:  0.001207, Time_cost:  0.218782
+Epoch:1, Step:305, Loss:  0.000614, Time_cost:  0.268596
+Epoch:1, Step:306, Loss:  0.001597, Time_cost:  0.220526
+Epoch:1, Step:307, Loss:  0.001191, Time_cost:  0.259311
+Epoch:1, Step:308, Loss:  0.002329, Time_cost:  0.242391
+Epoch:1, Step:309, Loss:  0.001221, Time_cost:  0.270353
+Epoch:1, Step:310, Loss:  0.000576, Time_cost:  0.228249
+Epoch:1, Step:311, Loss:  0.001170, Time_cost:  0.202156
+Epoch:1, Step:312, Loss:  0.000220, Time_cost:  0.269463
+Epoch:2, Step:0, Loss:  0.001376, Time_cost:  0.347218
+Epoch:2, Step:1, Loss:  0.001099, Time_cost:  0.317397
+Epoch:2, Step:2, Loss:  0.003898, Time_cost:  0.284949
+Epoch:2, Step:3, Loss:  0.001443, Time_cost:  0.217922
+Epoch:2, Step:4, Loss:  0.001964, Time_cost:  0.324784
+Epoch:2, Step:5, Loss:  0.000971, Time_cost:  0.204029
+Epoch:2, Step:6, Loss:  0.001833, Time_cost:  0.271023
+Epoch:2, Step:7, Loss:  0.000959, Time_cost:  0.221672
+Epoch:2, Step:8, Loss:  0.000761, Time_cost:  0.254492
+Epoch:2, Step:9, Loss:  0.000538, Time_cost:  0.223849
+Epoch:2, Step:10, Loss:  0.002654, Time_cost:  0.225297
+Epoch:2, Step:11, Loss:  0.001116, Time_cost:  0.215499
+Epoch:2, Step:12, Loss:  0.000878, Time_cost:  0.240109
+Epoch:2, Step:13, Loss:  0.001576, Time_cost:  0.251743
+Epoch:2, Step:14, Loss:  0.002456, Time_cost:  0.219793
+Epoch:2, Step:15, Loss:  0.000686, Time_cost:  0.223146
+Epoch:2, Step:16, Loss:  0.068633, Time_cost:  0.222740
+Epoch:2, Step:17, Loss:  0.000418, Time_cost:  0.231762
+Epoch:2, Step:18, Loss:  0.000653, Time_cost:  0.239200
+Epoch:2, Step:19, Loss:  0.000377, Time_cost:  0.198994
+Epoch:2, Step:20, Loss:  0.001565, Time_cost:  0.337642
+Epoch:2, Step:21, Loss:  0.001208, Time_cost:  0.258096
+Epoch:2, Step:22, Loss:  0.001773, Time_cost:  0.232009
+Epoch:2, Step:23, Loss:  0.001598, Time_cost:  0.214667
+Epoch:2, Step:24, Loss:  0.000845, Time_cost:  0.239186
+Epoch:2, Step:25, Loss:  0.001633, Time_cost:  0.225648
+Epoch:2, Step:26, Loss:  0.000610, Time_cost:  0.238191
+Epoch:2, Step:27, Loss:  0.000627, Time_cost:  0.268547
+Epoch:2, Step:28, Loss:  0.038119, Time_cost:  0.240903
+Epoch:2, Step:29, Loss:  0.011565, Time_cost:  0.254494
+Epoch:2, Step:30, Loss:  0.001040, Time_cost:  0.220048
+Epoch:2, Step:31, Loss:  0.007076, Time_cost:  0.226553
+Epoch:2, Step:32, Loss:  0.002500, Time_cost:  0.254047
+Epoch:2, Step:33, Loss:  0.001234, Time_cost:  0.208895
+Epoch:2, Step:34, Loss:  0.001129, Time_cost:  0.222552
+Epoch:2, Step:35, Loss:  0.001780, Time_cost:  0.242228
+Epoch:2, Step:36, Loss:  0.000638, Time_cost:  0.271497
+Epoch:2, Step:37, Loss:  0.001668, Time_cost:  0.231320
+Epoch:2, Step:38, Loss:  0.001683, Time_cost:  0.276272
+Epoch:2, Step:39, Loss:  0.001348, Time_cost:  0.225967
+Epoch:2, Step:40, Loss:  0.000515, Time_cost:  0.217275
+Epoch:2, Step:41, Loss:  0.004115, Time_cost:  0.228056
+Epoch:2, Step:42, Loss:  0.001335, Time_cost:  0.276455
+Epoch:2, Step:43, Loss:  0.001327, Time_cost:  0.246094
+Epoch:2, Step:44, Loss:  0.002314, Time_cost:  0.278475
+Epoch:2, Step:45, Loss:  0.002551, Time_cost:  0.264382
+Epoch:2, Step:46, Loss:  0.021074, Time_cost:  0.250829
+Epoch:2, Step:47, Loss:  0.000610, Time_cost:  0.195198
+Epoch:2, Step:48, Loss:  0.001313, Time_cost:  0.193908
+Epoch:2, Step:49, Loss:  0.049559, Time_cost:  0.196069
+Epoch:2, Step:50, Loss:  0.001730, Time_cost:  0.174157
+Epoch:2, Step:51, Loss:  0.002203, Time_cost:  0.172410
+Epoch:2, Step:52, Loss:  0.001151, Time_cost:  0.179891
+Epoch:2, Step:53, Loss:  0.001597, Time_cost:  0.190880
+Epoch:2, Step:54, Loss:  0.001325, Time_cost:  0.174049
+Epoch:2, Step:55, Loss:  0.001251, Time_cost:  0.182764
+Epoch:2, Step:56, Loss:  0.000712, Time_cost:  0.162455
+Epoch:2, Step:57, Loss:  0.012950, Time_cost:  0.180128
+Epoch:2, Step:58, Loss:  0.001198, Time_cost:  0.157911
+Epoch:2, Step:59, Loss:  0.001223, Time_cost:  0.182139
+Epoch:2, Step:60, Loss:  0.000791, Time_cost:  0.202073
+Epoch:2, Step:61, Loss:  0.002395, Time_cost:  0.191680
+Epoch:2, Step:62, Loss:  0.001114, Time_cost:  0.243492
+Epoch:2, Step:63, Loss:  0.000923, Time_cost:  0.206180
+Epoch:2, Step:64, Loss:  0.000813, Time_cost:  0.173666
+Epoch:2, Step:65, Loss:  0.000758, Time_cost:  0.159433
+Epoch:2, Step:66, Loss:  0.000388, Time_cost:  0.160852
+Epoch:2, Step:67, Loss:  0.000541, Time_cost:  0.175060
+Epoch:2, Step:68, Loss:  0.007293, Time_cost:  0.172728
+Epoch:2, Step:69, Loss:  0.000753, Time_cost:  0.206242
+Epoch:2, Step:70, Loss:  0.001390, Time_cost:  0.173182
+Epoch:2, Step:71, Loss:  0.003849, Time_cost:  0.158447
+Epoch:2, Step:72, Loss:  0.001761, Time_cost:  0.174598
+Epoch:2, Step:73, Loss:  0.000586, Time_cost:  0.178782
+Epoch:2, Step:74, Loss:  0.000969, Time_cost:  0.153929
+Epoch:2, Step:75, Loss:  0.001968, Time_cost:  0.156671
+Epoch:2, Step:76, Loss:  0.004535, Time_cost:  0.155031
+Epoch:2, Step:77, Loss:  0.000825, Time_cost:  0.157598
+Epoch:2, Step:78, Loss:  0.000676, Time_cost:  0.155914
+Epoch:2, Step:79, Loss:  0.000983, Time_cost:  0.183759
+Epoch:2, Step:80, Loss:  0.000936, Time_cost:  0.186796
+Epoch:2, Step:81, Loss:  0.008113, Time_cost:  0.159958
+Epoch:2, Step:82, Loss:  0.001083, Time_cost:  0.167469
+Epoch:2, Step:83, Loss:  0.000805, Time_cost:  0.157890
+Epoch:2, Step:84, Loss:  0.000839, Time_cost:  0.172966
+Epoch:2, Step:85, Loss:  0.001232, Time_cost:  0.171504
+Epoch:2, Step:86, Loss:  0.026109, Time_cost:  0.176314
+Epoch:2, Step:87, Loss:  0.000464, Time_cost:  0.165058
+Epoch:2, Step:88, Loss:  0.000456, Time_cost:  0.193998
+Epoch:2, Step:89, Loss:  0.001000, Time_cost:  0.180187
+Epoch:2, Step:90, Loss:  0.000676, Time_cost:  0.176945
+Epoch:2, Step:91, Loss:  0.000616, Time_cost:  0.164396
+Epoch:2, Step:92, Loss:  0.000710, Time_cost:  0.160792
+Epoch:2, Step:93, Loss:  0.000965, Time_cost:  0.175009
+Epoch:2, Step:94, Loss:  0.001761, Time_cost:  0.178681
+Epoch:2, Step:95, Loss:  0.001989, Time_cost:  0.149884
+Epoch:2, Step:96, Loss:  0.000790, Time_cost:  0.159636
+Epoch:2, Step:97, Loss:  0.001983, Time_cost:  0.172763
+Epoch:2, Step:98, Loss:  0.002184, Time_cost:  0.174829
+Epoch:2, Step:99, Loss:  0.002729, Time_cost:  0.179679
+Epoch:2, Step:100, Loss:  0.000782, Time_cost:  0.140721
+Epoch:2, Step:101, Loss:  0.001613, Time_cost:  0.124899
+Epoch:2, Step:102, Loss:  0.001586, Time_cost:  0.111995
+Epoch:2, Step:103, Loss:  0.001677, Time_cost:  0.132737
+Epoch:2, Step:104, Loss:  0.001652, Time_cost:  0.260277
+Epoch:2, Step:105, Loss:  0.001377, Time_cost:  0.233029
+Epoch:2, Step:106, Loss:  0.005495, Time_cost:  0.252798
+Epoch:2, Step:107, Loss:  0.007995, Time_cost:  0.284794
+Epoch:2, Step:108, Loss:  0.002378, Time_cost:  0.196239
+Epoch:2, Step:109, Loss:  0.002602, Time_cost:  0.253772
+Epoch:2, Step:110, Loss:  0.001266, Time_cost:  0.230721
+Epoch:2, Step:111, Loss:  0.000870, Time_cost:  0.219919
+Epoch:2, Step:112, Loss:  0.002574, Time_cost:  0.243465
+Epoch:2, Step:113, Loss:  0.000880, Time_cost:  0.247800
+Epoch:2, Step:114, Loss:  0.002992, Time_cost:  0.195942
+Epoch:2, Step:115, Loss:  0.001046, Time_cost:  0.247757
+Epoch:2, Step:116, Loss:  0.001762, Time_cost:  0.214699
+Epoch:2, Step:117, Loss:  0.001488, Time_cost:  0.263423
+Epoch:2, Step:118, Loss:  0.001106, Time_cost:  0.221507
+Epoch:2, Step:119, Loss:  0.001337, Time_cost:  0.270842
+Epoch:2, Step:120, Loss:  0.001426, Time_cost:  0.247328
+Epoch:2, Step:121, Loss:  0.000625, Time_cost:  0.190021
+Epoch:2, Step:122, Loss:  0.000838, Time_cost:  0.243109
+Epoch:2, Step:123, Loss:  0.000489, Time_cost:  0.208085
+Epoch:2, Step:124, Loss:  0.000615, Time_cost:  0.224989
+Epoch:2, Step:125, Loss:  0.000756, Time_cost:  0.230103
+Epoch:2, Step:126, Loss:  0.001222, Time_cost:  0.220852
+Epoch:2, Step:127, Loss:  0.001305, Time_cost:  0.251745
+Epoch:2, Step:128, Loss:  0.001023, Time_cost:  0.220932
+Epoch:2, Step:129, Loss:  0.025993, Time_cost:  0.246663
+Epoch:2, Step:130, Loss:  0.000506, Time_cost:  0.222189
+Epoch:2, Step:131, Loss:  0.000422, Time_cost:  0.305963
+Epoch:2, Step:132, Loss:  0.000611, Time_cost:  0.210387
+Epoch:2, Step:133, Loss:  0.001487, Time_cost:  0.218055
+Epoch:2, Step:134, Loss:  0.000453, Time_cost:  0.227178
+Epoch:2, Step:135, Loss:  0.003796, Time_cost:  0.274760
+Epoch:2, Step:136, Loss:  0.001457, Time_cost:  0.236522
+Epoch:2, Step:137, Loss:  0.001312, Time_cost:  0.258484
+Epoch:2, Step:138, Loss:  0.001536, Time_cost:  0.227817
+Epoch:2, Step:139, Loss:  0.000834, Time_cost:  0.253850
+Epoch:2, Step:140, Loss:  0.000792, Time_cost:  0.250898
+Epoch:2, Step:141, Loss:  0.000479, Time_cost:  0.226922
+Epoch:2, Step:142, Loss:  0.045181, Time_cost:  0.290393
+Epoch:2, Step:143, Loss:  0.000365, Time_cost:  0.190710
+Epoch:2, Step:144, Loss:  0.000936, Time_cost:  0.222518
+Epoch:2, Step:145, Loss:  0.001121, Time_cost:  0.215728
+Epoch:2, Step:146, Loss:  0.005853, Time_cost:  0.227403
+Epoch:2, Step:147, Loss:  0.004871, Time_cost:  0.215262
+Epoch:2, Step:148, Loss:  0.000962, Time_cost:  0.267803
+Epoch:2, Step:149, Loss:  0.000584, Time_cost:  0.219510
+Epoch:2, Step:150, Loss:  0.001229, Time_cost:  0.252336
+Epoch:2, Step:151, Loss:  0.001639, Time_cost:  0.228947
+Epoch:2, Step:152, Loss:  0.001192, Time_cost:  0.235384
+Epoch:2, Step:153, Loss:  0.001190, Time_cost:  0.228357
+Epoch:2, Step:154, Loss:  0.000744, Time_cost:  0.277771
+Epoch:2, Step:155, Loss:  0.001540, Time_cost:  0.224050
+Epoch:2, Step:156, Loss:  0.000572, Time_cost:  0.237142
+Epoch:2, Step:157, Loss:  0.001059, Time_cost:  0.218559
+Epoch:2, Step:158, Loss:  0.000749, Time_cost:  0.236218
+Epoch:2, Step:159, Loss:  0.001865, Time_cost:  0.273803
+Epoch:2, Step:160, Loss:  0.000364, Time_cost:  0.222767
+Epoch:2, Step:161, Loss:  0.000319, Time_cost:  0.208906
+Epoch:2, Step:162, Loss:  0.000465, Time_cost:  0.222751
+Epoch:2, Step:163, Loss:  0.010340, Time_cost:  0.227978
+Epoch:2, Step:164, Loss:  0.001591, Time_cost:  0.225815
+Epoch:2, Step:165, Loss:  0.004237, Time_cost:  0.287968
+Epoch:2, Step:166, Loss:  0.016236, Time_cost:  0.213622
+Epoch:2, Step:167, Loss:  0.001474, Time_cost:  0.281667
+Epoch:2, Step:168, Loss:  0.000563, Time_cost:  0.221680
+Epoch:2, Step:169, Loss:  0.001259, Time_cost:  0.220361
+Epoch:2, Step:170, Loss:  0.078334, Time_cost:  0.276139
+Epoch:2, Step:171, Loss:  0.003085, Time_cost:  0.285067
+Epoch:2, Step:172, Loss:  0.000555, Time_cost:  0.196873
+Epoch:2, Step:173, Loss:  0.001097, Time_cost:  0.256503
+Epoch:2, Step:174, Loss:  0.000942, Time_cost:  0.219996
+Epoch:2, Step:175, Loss:  0.000439, Time_cost:  0.231720
+Epoch:2, Step:176, Loss:  0.002011, Time_cost:  0.252706
+Epoch:2, Step:177, Loss:  0.004461, Time_cost:  0.222868
+Epoch:2, Step:178, Loss:  0.001035, Time_cost:  0.272501
+Epoch:2, Step:179, Loss:  0.000790, Time_cost:  0.185400
+Epoch:2, Step:180, Loss:  0.001303, Time_cost:  0.260963
+Epoch:2, Step:181, Loss:  0.001090, Time_cost:  0.225577
+Epoch:2, Step:182, Loss:  0.000943, Time_cost:  0.233338
+Epoch:2, Step:183, Loss:  0.000707, Time_cost:  0.217726
+Epoch:2, Step:184, Loss:  0.000661, Time_cost:  0.276800
+Epoch:2, Step:185, Loss:  0.000635, Time_cost:  0.221174
+Epoch:2, Step:186, Loss:  0.002189, Time_cost:  0.207415
+Epoch:2, Step:187, Loss:  0.000783, Time_cost:  0.221521
+Epoch:2, Step:188, Loss:  0.001495, Time_cost:  0.312423
+Epoch:2, Step:189, Loss:  0.000553, Time_cost:  0.222404
+Epoch:2, Step:190, Loss:  0.003193, Time_cost:  0.242666
+Epoch:2, Step:191, Loss:  0.000810, Time_cost:  0.229440
+Epoch:2, Step:192, Loss:  0.001005, Time_cost:  0.216952
+Epoch:2, Step:193, Loss:  0.000718, Time_cost:  0.257022
+Epoch:2, Step:194, Loss:  0.000620, Time_cost:  0.213258
+Epoch:2, Step:195, Loss:  0.001182, Time_cost:  0.228202
+Epoch:2, Step:196, Loss:  0.000605, Time_cost:  0.218918
+Epoch:2, Step:197, Loss:  0.000849, Time_cost:  0.286896
+Epoch:2, Step:198, Loss:  0.002036, Time_cost:  0.227643
+Epoch:2, Step:199, Loss:  0.002028, Time_cost:  0.241223
+Epoch:2, Step:200, Loss:  0.000708, Time_cost:  0.288564
+Epoch:2, Step:201, Loss:  0.000952, Time_cost:  0.212110
+Epoch:2, Step:202, Loss:  0.001254, Time_cost:  0.246378
+Epoch:2, Step:203, Loss:  0.000917, Time_cost:  0.256885
+Epoch:2, Step:204, Loss:  0.000614, Time_cost:  0.256436
+Epoch:2, Step:205, Loss:  0.001013, Time_cost:  0.233383
+Epoch:2, Step:206, Loss:  0.000658, Time_cost:  0.213066
+Epoch:2, Step:207, Loss:  0.001153, Time_cost:  0.219190
+Epoch:2, Step:208, Loss:  0.000935, Time_cost:  0.250301
+Epoch:2, Step:209, Loss:  0.001474, Time_cost:  0.212855
+Epoch:2, Step:210, Loss:  0.000994, Time_cost:  0.213485
+Epoch:2, Step:211, Loss:  0.000546, Time_cost:  0.228652
+Epoch:2, Step:212, Loss:  0.000757, Time_cost:  0.279276
+Epoch:2, Step:213, Loss:  0.001305, Time_cost:  0.199049
+Epoch:2, Step:214, Loss:  0.000791, Time_cost:  0.256457
+Epoch:2, Step:215, Loss:  0.000426, Time_cost:  0.230021
+Epoch:2, Step:216, Loss:  0.000489, Time_cost:  0.259845
+Epoch:2, Step:217, Loss:  0.001009, Time_cost:  0.199357
+Epoch:2, Step:218, Loss:  0.000878, Time_cost:  0.194154
+Epoch:2, Step:219, Loss:  0.000403, Time_cost:  0.243185
+Epoch:2, Step:220, Loss:  0.001212, Time_cost:  0.225327
+Epoch:2, Step:221, Loss:  0.001052, Time_cost:  0.238605
+Epoch:2, Step:222, Loss:  0.000574, Time_cost:  0.260060
+Epoch:2, Step:223, Loss:  0.000625, Time_cost:  0.270268
+Epoch:2, Step:224, Loss:  0.000758, Time_cost:  0.210619
+Epoch:2, Step:225, Loss:  0.002053, Time_cost:  0.344979
+Epoch:2, Step:226, Loss:  0.000431, Time_cost:  0.218165
+Epoch:2, Step:227, Loss:  0.001546, Time_cost:  0.232418
+Epoch:2, Step:228, Loss:  0.001994, Time_cost:  0.220802
+Epoch:2, Step:229, Loss:  0.003754, Time_cost:  0.207412
+Epoch:2, Step:230, Loss:  0.000558, Time_cost:  0.234254
+Epoch:2, Step:231, Loss:  0.012139, Time_cost:  0.228388
+Epoch:2, Step:232, Loss:  0.000580, Time_cost:  0.206133
+Epoch:2, Step:233, Loss:  0.000537, Time_cost:  0.254326
+Epoch:2, Step:234, Loss:  0.001089, Time_cost:  0.223207
+Epoch:2, Step:235, Loss:  0.000712, Time_cost:  0.192856
+Epoch:2, Step:236, Loss:  0.000744, Time_cost:  0.236980
+Epoch:2, Step:237, Loss:  0.000310, Time_cost:  0.230147
+Epoch:2, Step:238, Loss:  0.000868, Time_cost:  0.223360
+Epoch:2, Step:239, Loss:  0.001717, Time_cost:  0.232414
+Epoch:2, Step:240, Loss:  0.001145, Time_cost:  0.247305
+Epoch:2, Step:241, Loss:  0.000327, Time_cost:  0.231318
+Epoch:2, Step:242, Loss:  0.001103, Time_cost:  0.230071
+Epoch:2, Step:243, Loss:  0.001739, Time_cost:  0.270999
+0it [00:00, ?it/s]7it [00:00, 63.96it/s]14it [00:00, 65.32it/s]21it [00:00, 65.89it/s]28it [00:00, 66.64it/s]35it [00:00, 66.81it/s]42it [00:00, 67.08it/s]49it [00:00, 66.91it/s]56it [00:00, 67.49it/s]63it [00:00, 67.91it/s]71it [00:01, 68.19it/s]78it [00:01, 67.37it/s]85it [00:01, 68.05it/s]92it [00:01, 67.98it/s]99it [00:01, 67.91it/s]106it [00:01, 67.07it/s]113it [00:01, 67.34it/s]120it [00:01, 67.79it/s]127it [00:01, 66.32it/s]134it [00:01, 66.40it/s]141it [00:02, 65.98it/s]148it [00:02, 66.45it/s]155it [00:02, 65.97it/s]162it [00:02, 65.71it/s]169it [00:02, 66.26it/s]176it [00:02, 65.91it/s]183it [00:02, 65.61it/s]190it [00:02, 65.17it/s]197it [00:02, 64.61it/s]204it [00:03, 64.71it/s]211it [00:03, 64.95it/s]218it [00:03, 65.73it/s]225it [00:03, 65.84it/s]232it [00:03, 65.51it/s]239it [00:03, 65.55it/s]246it [00:03, 65.06it/s]253it [00:03, 63.89it/s]260it [00:03, 62.08it/s]267it [00:04, 61.96it/s]274it [00:04, 61.06it/s]281it [00:04, 58.74it/s]288it [00:04, 61.32it/s]295it [00:04, 62.57it/s]302it [00:04, 63.84it/s]309it [00:04, 63.65it/s]316it [00:04, 64.75it/s]323it [00:04, 64.90it/s]330it [00:05, 64.50it/s]337it [00:05, 65.19it/s]344it [00:05, 64.87it/s]351it [00:05, 64.61it/s]358it [00:05, 64.96it/s]365it [00:05, 65.40it/s]372it [00:05, 64.24it/s]379it [00:05, 63.94it/s]386it [00:05, 64.95it/s]393it [00:06, 65.70it/s]400it [00:06, 65.52it/s]407it [00:06, 66.75it/s]414it [00:06, 66.32it/s]421it [00:06, 66.63it/s]428it [00:06, 65.99it/s]435it [00:06, 65.24it/s]442it [00:06, 65.26it/s]449it [00:06, 65.09it/s]456it [00:06, 64.55it/s]463it [00:07, 64.06it/s]470it [00:07, 64.81it/s]477it [00:07, 65.52it/s]484it [00:07, 65.83it/s]491it [00:07, 65.95it/s]498it [00:07, 66.78it/s]505it [00:07, 67.21it/s]512it [00:07, 67.50it/s]519it [00:07, 67.39it/s]526it [00:08, 67.78it/s]533it [00:08, 68.05it/s]540it [00:08, 67.31it/s]547it [00:08, 66.27it/s]554it [00:08, 67.05it/s]561it [00:08, 67.26it/s]568it [00:08, 67.12it/s]575it [00:08, 67.32it/s]582it [00:08, 66.78it/s]589it [00:08, 66.53it/s]596it [00:09, 65.58it/s]603it [00:09, 66.42it/s]610it [00:09, 66.42it/s]617it [00:09, 66.18it/s]624it [00:09, 66.54it/s]632it [00:09, 67.55it/s]639it [00:09, 68.07it/s]646it [00:09, 67.91it/s]653it [00:09, 67.28it/s]660it [00:10, 66.21it/s]667it [00:10, 65.88it/s]674it [00:10, 66.40it/s]681it [00:10, 66.30it/s]688it [00:10, 67.25it/s]696it [00:10, 68.09it/s]703it [00:10, 68.11it/s]710it [00:10, 66.91it/s]717it [00:10, 65.36it/s]724it [00:11, 63.13it/s]731it [00:11, 61.67it/s]738it [00:11, 61.34it/s]745it [00:11, 61.82it/s]752it [00:11, 62.06it/s]759it [00:11, 61.33it/s]766it [00:11, 62.39it/s]773it [00:11, 62.31it/s]780it [00:11, 60.98it/s]787it [00:12, 62.66it/s]794it [00:12, 62.30it/s]801it [00:12, 61.71it/s]808it [00:12, 62.41it/s]815it [00:12, 62.65it/s]822it [00:12, 63.55it/s]829it [00:12, 63.74it/s]836it [00:12, 63.79it/s]843it [00:12, 64.24it/s]850it [00:13, 63.39it/s]857it [00:13, 61.60it/s]864it [00:13, 62.55it/s]871it [00:13, 61.40it/s]878it [00:13, 60.52it/s]885it [00:13, 60.98it/s]892it [00:13, 61.75it/s]899it [00:13, 61.73it/s]906it [00:13, 62.60it/s]913it [00:14, 62.65it/s]920it [00:14, 62.93it/s]927it [00:14, 64.10it/s]934it [00:14, 65.19it/s]941it [00:14, 65.02it/s]948it [00:14, 65.09it/s]955it [00:14, 65.83it/s]962it [00:14, 65.92it/s]969it [00:14, 65.40it/s]976it [00:14, 66.28it/s]983it [00:15, 67.07it/s]991it [00:15, 67.94it/s]999it [00:15, 68.59it/s]1007it [00:15, 69.65it/s]1014it [00:15, 69.72it/s]1021it [00:15, 69.70it/s]1028it [00:15, 69.33it/s]1035it [00:15, 67.61it/s]1042it [00:15, 67.02it/s]1049it [00:16, 66.46it/s]1056it [00:16, 65.64it/s]1063it [00:16, 66.13it/s]1070it [00:16, 66.79it/s]1077it [00:16, 66.61it/s]1084it [00:16, 66.75it/s]1091it [00:16, 67.27it/s]1098it [00:16, 66.89it/s]1105it [00:16, 66.43it/s]1112it [00:17, 66.65it/s]1119it [00:17, 66.68it/s]1126it [00:17, 66.12it/s]1133it [00:17, 65.80it/s]1140it [00:17, 66.36it/s]1147it [00:17, 66.86it/s]1154it [00:17, 66.08it/s]1161it [00:17, 65.73it/s]1168it [00:17, 65.57it/s]1175it [00:17, 64.93it/s]1182it [00:18, 64.78it/s]1189it [00:18, 65.06it/s]1196it [00:18, 65.08it/s]1203it [00:18, 65.48it/s]1210it [00:18, 65.32it/s]1217it [00:18, 65.02it/s]1224it [00:18, 62.83it/s]1231it [00:18, 62.09it/s]1238it [00:18, 61.65it/s]1245it [00:19, 61.69it/s]1252it [00:19, 62.90it/s]1259it [00:19, 63.58it/s]1266it [00:19, 62.61it/s]1273it [00:19, 62.06it/s]1280it [00:19, 61.58it/s]1287it [00:19, 61.84it/s]1294it [00:19, 62.70it/s]1301it [00:19, 63.79it/s]1308it [00:20, 62.79it/s]1315it [00:20, 62.72it/s]1322it [00:20, 64.11it/s]1329it [00:20, 64.93it/s]1336it [00:20, 65.60it/s]1343it [00:20, 65.89it/s]1350it [00:20, 66.30it/s]1357it [00:20, 66.33it/s]1364it [00:20, 66.19it/s]1371it [00:21, 66.80it/s]1378it [00:21, 67.31it/s]1386it [00:21, 68.53it/s]1393it [00:21, 68.27it/s]1400it [00:21, 63.30it/s]1407it [00:21, 50.55it/s]1413it [00:21, 44.20it/s]1418it [00:22, 34.78it/s]1423it [00:22, 34.16it/s]1427it [00:22, 34.26it/s]1431it [00:22, 30.41it/s]1435it [00:22, 30.30it/s]1439it [00:22, 31.75it/s]1443it [00:22, 32.24it/s]1447it [00:23, 29.33it/s]1452it [00:23, 31.82it/s]1456it [00:23, 32.63it/s]1460it [00:23, 32.62it/s]1464it [00:23, 33.28it/s]1468it [00:23, 34.75it/s]1472it [00:23, 29.45it/s]1476it [00:23, 31.31it/s]1480it [00:24, 32.10it/s]1484it [00:24, 30.46it/s]1488it [00:24, 29.45it/s]1492it [00:24, 31.41it/s]1496it [00:24, 31.08it/s]1500it [00:24, 29.82it/s]1504it [00:24, 32.14it/s]1508it [00:24, 29.17it/s]1512it [00:25, 28.26it/s]1516it [00:25, 29.04it/s]1520it [00:25, 28.79it/s]1523it [00:25, 27.50it/s]1527it [00:25, 29.33it/s]1531it [00:25, 30.30it/s]1535it [00:25, 29.89it/s]1539it [00:26, 30.20it/s]1543it [00:26, 31.39it/s]1547it [00:26, 29.30it/s]1551it [00:26, 31.00it/s]1555it [00:26, 32.52it/s]1560it [00:26, 34.03it/s]1564it [00:26, 29.16it/s]1568it [00:26, 29.35it/s]1572it [00:27, 28.67it/s]1575it [00:27, 28.49it/s]1578it [00:27, 28.67it/s]1581it [00:27, 28.35it/s]1584it [00:27, 28.25it/s]1588it [00:27, 30.32it/s]1592it [00:27, 30.81it/s]1596it [00:27, 28.67it/s]1600it [00:28, 31.24it/s]1604it [00:28, 32.14it/s]1608it [00:28, 28.32it/s]1612it [00:28, 29.22it/s]1616it [00:28, 30.27it/s]1620it [00:28, 29.20it/s]1623it [00:28, 27.87it/s]1627it [00:28, 29.53it/s]1631it [00:29, 31.35it/s]1635it [00:29, 27.79it/s]1640it [00:29, 30.60it/s]1644it [00:29, 32.57it/s]1648it [00:29, 30.91it/s]1652it [00:29, 29.14it/s]1656it [00:29, 30.41it/s]1660it [00:30, 32.52it/s]1664it [00:30, 28.75it/s]1668it [00:30, 29.96it/s]1672it [00:30, 31.43it/s]1676it [00:30, 29.54it/s]1680it [00:30, 29.73it/s]1684it [00:30, 31.28it/s]1688it [00:30, 33.44it/s]1692it [00:31, 29.19it/s]1696it [00:31, 31.00it/s]1700it [00:31, 31.48it/s]1704it [00:31, 29.82it/s]1708it [00:31, 28.99it/s]1712it [00:31, 29.78it/s]1716it [00:31, 28.33it/s]1719it [00:32, 28.52it/s]1723it [00:32, 29.82it/s]1727it [00:32, 31.76it/s]1731it [00:32, 29.64it/s]1735it [00:32, 31.49it/s]1739it [00:32, 33.11it/s]1743it [00:32, 31.79it/s]1747it [00:32, 32.21it/s]1751it [00:32, 33.87it/s]1755it [00:33, 30.94it/s]1759it [00:33, 31.63it/s]1763it [00:33, 32.80it/s]1767it [00:33, 33.01it/s]1771it [00:33, 30.60it/s]1775it [00:33, 31.45it/s]1779it [00:33, 33.04it/s]1783it [00:33, 31.22it/s]1787it [00:34, 30.78it/s]1791it [00:34, 31.64it/s]1796it [00:34, 34.05it/s]1800it [00:34, 30.82it/s]1804it [00:34, 32.22it/s]1808it [00:34, 33.63it/s]1812it [00:34, 32.00it/s]1816it [00:35, 28.87it/s]1820it [00:35, 30.00it/s]1824it [00:35, 31.01it/s]1828it [00:35, 28.49it/s]1831it [00:35, 27.45it/s]1834it [00:35, 28.01it/s]1838it [00:35, 28.46it/s]1841it [00:35, 27.43it/s]1844it [00:36, 26.27it/s]1848it [00:36, 28.14it/s]1852it [00:36, 30.15it/s]1856it [00:36, 28.60it/s]1859it [00:36, 27.99it/s]1863it [00:36, 29.96it/s]1867it [00:36, 30.42it/s]1871it [00:36, 29.05it/s]1875it [00:37, 31.54it/s]1879it [00:37, 32.22it/s]1883it [00:37, 29.88it/s]1887it [00:37, 31.07it/s]1892it [00:37, 33.38it/s]1896it [00:37, 31.69it/s]1900it [00:37, 29.84it/s]1904it [00:37, 31.01it/s]1908it [00:38, 32.15it/s]1912it [00:38, 29.12it/s]1916it [00:38, 31.00it/s]1920it [00:38, 31.00it/s]1925it [00:38, 32.19it/s]1929it [00:38, 29.55it/s]1933it [00:38, 28.98it/s]1936it [00:39, 28.67it/s]1940it [00:39, 30.03it/s]1944it [00:39, 27.25it/s]1948it [00:39, 29.16it/s]1952it [00:39, 30.34it/s]1956it [00:39, 28.74it/s]1959it [00:39, 27.27it/s]1962it [00:39, 27.54it/s]1967it [00:40, 30.77it/s]1971it [00:40, 29.83it/s]1975it [00:40, 28.02it/s]1979it [00:40, 30.00it/s]1983it [00:40, 30.60it/s]1987it [00:40, 30.57it/s]1991it [00:40, 28.59it/s]1995it [00:41, 30.86it/s]1999it [00:41, 32.86it/s]2000it [00:41, 48.57it/s]
+Epoch:2, Step:244, Loss:  0.002374, Time_cost:  0.213897
+Epoch:2, Step:245, Loss:  0.001511, Time_cost:  0.246992
+Epoch:2, Step:246, Loss:  0.000868, Time_cost:  0.196901
+Epoch:2, Step:247, Loss:  0.000460, Time_cost:  0.226836
+Epoch:2, Step:248, Loss:  0.002520, Time_cost:  0.288439
+Epoch:2, Step:249, Loss:  0.000436, Time_cost:  0.224849
+Epoch:2, Step:250, Loss:  0.000632, Time_cost:  0.258075
+Epoch:2, Step:251, Loss:  0.001842, Time_cost:  0.198559
+Epoch:2, Step:252, Loss:  0.001190, Time_cost:  0.259062
+Epoch:2, Step:253, Loss:  0.001142, Time_cost:  0.199508
+Epoch:2, Step:254, Loss:  0.001184, Time_cost:  0.237844
+Epoch:2, Step:255, Loss:  0.001342, Time_cost:  0.228305
+Epoch:2, Step:256, Loss:  0.001117, Time_cost:  0.240775
+Epoch:2, Step:257, Loss:  0.000723, Time_cost:  0.218908
+Epoch:2, Step:258, Loss:  0.278081, Time_cost:  0.243280
+Epoch:2, Step:259, Loss:  0.000898, Time_cost:  0.223358
+Epoch:2, Step:260, Loss:  0.001304, Time_cost:  0.283920
+Epoch:2, Step:261, Loss:  0.000544, Time_cost:  0.199689
+Epoch:2, Step:262, Loss:  0.001555, Time_cost:  0.268832
+Epoch:2, Step:263, Loss:  0.026346, Time_cost:  0.267674
+Epoch:2, Step:264, Loss:  0.000921, Time_cost:  0.238442
+Epoch:2, Step:265, Loss:  0.001947, Time_cost:  0.260204
+Epoch:2, Step:266, Loss:  0.002236, Time_cost:  0.281532
+Epoch:2, Step:267, Loss:  0.002070, Time_cost:  0.227929
+Epoch:2, Step:268, Loss:  0.002154, Time_cost:  0.216239
+Epoch:2, Step:269, Loss:  0.002688, Time_cost:  0.240300
+Epoch:2, Step:270, Loss:  0.002333, Time_cost:  0.237434
+Epoch:2, Step:271, Loss:  0.002831, Time_cost:  0.274211
+Epoch:2, Step:272, Loss:  0.003499, Time_cost:  0.256371
+Epoch:2, Step:273, Loss:  0.003774, Time_cost:  0.242379
+Epoch:2, Step:274, Loss:  0.004109, Time_cost:  0.213506
+Epoch:2, Step:275, Loss:  0.010435, Time_cost:  0.273553
+Epoch:2, Step:276, Loss:  0.003697, Time_cost:  0.230171
+Epoch:2, Step:277, Loss:  0.001953, Time_cost:  0.301588
+Epoch:2, Step:278, Loss:  0.001396, Time_cost:  0.201984
+Epoch:2, Step:279, Loss:  0.016823, Time_cost:  0.278930
+Epoch:2, Step:280, Loss:  0.002084, Time_cost:  0.183744
+Epoch:2, Step:281, Loss:  0.001216, Time_cost:  0.222679
+Epoch:2, Step:282, Loss:  0.001654, Time_cost:  0.260348
+Epoch:2, Step:283, Loss:  0.001715, Time_cost:  0.219836
+Epoch:2, Step:284, Loss:  0.000922, Time_cost:  0.271036
+Epoch:2, Step:285, Loss:  0.000577, Time_cost:  0.221682
+Epoch:2, Step:286, Loss:  0.000951, Time_cost:  0.254199
+Epoch:2, Step:287, Loss:  0.000661, Time_cost:  0.229458
+Epoch:2, Step:288, Loss:  0.001048, Time_cost:  0.244024
+Epoch:2, Step:289, Loss:  0.001592, Time_cost:  0.242505
+Epoch:2, Step:290, Loss:  0.001283, Time_cost:  0.305293
+Epoch:2, Step:291, Loss:  0.004014, Time_cost:  0.226002
+Epoch:2, Step:292, Loss:  0.000642, Time_cost:  0.224914
+Epoch:2, Step:293, Loss:  0.001324, Time_cost:  0.208181
+Epoch:2, Step:294, Loss:  0.000927, Time_cost:  0.257495
+Epoch:2, Step:295, Loss:  0.063931, Time_cost:  0.236490
+Epoch:2, Step:296, Loss:  0.022379, Time_cost:  0.204203
+Epoch:2, Step:297, Loss:  0.001228, Time_cost:  0.216471
+Epoch:2, Step:298, Loss:  0.001345, Time_cost:  0.210134
+Epoch:2, Step:299, Loss:  0.002910, Time_cost:  0.258783
+Epoch:2, Step:300, Loss:  0.000844, Time_cost:  0.203480
+Epoch:2, Step:301, Loss:  0.002709, Time_cost:  0.276327
+Epoch:2, Step:302, Loss:  0.002305, Time_cost:  0.220989
+Epoch:2, Step:303, Loss:  0.001192, Time_cost:  0.271323
+Epoch:2, Step:304, Loss:  0.001642, Time_cost:  0.216590
+Epoch:2, Step:305, Loss:  0.000803, Time_cost:  0.269863
+Epoch:2, Step:306, Loss:  0.000965, Time_cost:  0.232193
+Epoch:2, Step:307, Loss:  0.000676, Time_cost:  0.244742
+Epoch:2, Step:308, Loss:  0.000846, Time_cost:  0.239996
+Epoch:2, Step:309, Loss:  0.002085, Time_cost:  0.263817
+Epoch:2, Step:310, Loss:  0.001109, Time_cost:  0.249545
+Epoch:2, Step:311, Loss:  0.000733, Time_cost:  0.198210
+Epoch:2, Step:312, Loss:  0.000788, Time_cost:  0.088985
+Epoch:3, Step:0, Loss:  0.000592, Time_cost:  0.355249
+Epoch:3, Step:1, Loss:  0.000491, Time_cost:  0.331103
+Epoch:3, Step:2, Loss:  0.002698, Time_cost:  0.229534
+Epoch:3, Step:3, Loss:  0.000980, Time_cost:  0.277883
+Epoch:3, Step:4, Loss:  0.000808, Time_cost:  0.255549
+Epoch:3, Step:5, Loss:  0.001231, Time_cost:  0.196651
+Epoch:3, Step:6, Loss:  0.001560, Time_cost:  0.249098
+Epoch:3, Step:7, Loss:  0.000665, Time_cost:  0.235022
+Epoch:3, Step:8, Loss:  0.001581, Time_cost:  0.199953
+Epoch:3, Step:9, Loss:  0.000771, Time_cost:  0.256140
+Epoch:3, Step:10, Loss:  0.001486, Time_cost:  0.193829
+Epoch:3, Step:11, Loss:  0.000690, Time_cost:  0.224939
+Epoch:3, Step:12, Loss:  0.000535, Time_cost:  0.241793
+Epoch:3, Step:13, Loss:  0.000937, Time_cost:  0.254778
+Epoch:3, Step:14, Loss:  0.003745, Time_cost:  0.239641
+Epoch:3, Step:15, Loss:  0.000921, Time_cost:  0.250474
+Epoch:3, Step:16, Loss:  0.035828, Time_cost:  0.229944
+Epoch:3, Step:17, Loss:  0.000462, Time_cost:  0.294141
+Epoch:3, Step:18, Loss:  0.000486, Time_cost:  0.197646
+Epoch:3, Step:19, Loss:  0.000723, Time_cost:  0.211802
+Epoch:3, Step:20, Loss:  0.000899, Time_cost:  0.347540
+Epoch:3, Step:21, Loss:  0.000565, Time_cost:  0.241157
+Epoch:3, Step:22, Loss:  0.001581, Time_cost:  0.240111
+Epoch:3, Step:23, Loss:  0.001662, Time_cost:  0.216478
+Epoch:3, Step:24, Loss:  0.000700, Time_cost:  0.219686
+Epoch:3, Step:25, Loss:  0.001542, Time_cost:  0.250634
+Epoch:3, Step:26, Loss:  0.000449, Time_cost:  0.227778
+Epoch:3, Step:27, Loss:  0.000944, Time_cost:  0.307991
+Epoch:3, Step:28, Loss:  0.039893, Time_cost:  0.239835
+Epoch:3, Step:29, Loss:  0.011392, Time_cost:  0.241163
+Epoch:3, Step:30, Loss:  0.001272, Time_cost:  0.235456
+Epoch:3, Step:31, Loss:  0.001437, Time_cost:  0.255607
+Epoch:3, Step:32, Loss:  0.001815, Time_cost:  0.216392
+Epoch:3, Step:33, Loss:  0.001097, Time_cost:  0.263062
+Epoch:3, Step:34, Loss:  0.001113, Time_cost:  0.216058
+Epoch:3, Step:35, Loss:  0.000653, Time_cost:  0.271543
+Epoch:3, Step:36, Loss:  0.000679, Time_cost:  0.227482
+Epoch:3, Step:37, Loss:  0.001094, Time_cost:  0.248153
+Epoch:3, Step:38, Loss:  0.002036, Time_cost:  0.239603
+Epoch:3, Step:39, Loss:  0.001712, Time_cost:  0.217821
+Epoch:3, Step:40, Loss:  0.000547, Time_cost:  0.248591
+Epoch:3, Step:41, Loss:  0.001124, Time_cost:  0.226713
+Epoch:3, Step:42, Loss:  0.001466, Time_cost:  0.248592
+Epoch:3, Step:43, Loss:  0.000521, Time_cost:  0.256595
+Epoch:3, Step:44, Loss:  0.000810, Time_cost:  0.228248
+Epoch:3, Step:45, Loss:  0.002520, Time_cost:  0.312730
+Epoch:3, Step:46, Loss:  0.006671, Time_cost:  0.220902
+Epoch:3, Step:47, Loss:  0.000479, Time_cost:  0.248922
+Epoch:3, Step:48, Loss:  0.000927, Time_cost:  0.246315
+Epoch:3, Step:49, Loss:  0.049350, Time_cost:  0.293733
+Epoch:3, Step:50, Loss:  0.000705, Time_cost:  0.225568
+Epoch:3, Step:51, Loss:  0.001019, Time_cost:  0.266526
+Epoch:3, Step:52, Loss:  0.000710, Time_cost:  0.229135
+Epoch:3, Step:53, Loss:  0.000772, Time_cost:  0.253807
+Epoch:3, Step:54, Loss:  0.001849, Time_cost:  0.261132
+Epoch:3, Step:55, Loss:  0.000868, Time_cost:  0.225715
+Epoch:3, Step:56, Loss:  0.000420, Time_cost:  0.256164
+Epoch:3, Step:57, Loss:  0.001018, Time_cost:  0.247347
+Epoch:3, Step:58, Loss:  0.001704, Time_cost:  0.210579
+Epoch:3, Step:59, Loss:  0.000724, Time_cost:  0.283154
+Epoch:3, Step:60, Loss:  0.000775, Time_cost:  0.277340
+Epoch:3, Step:61, Loss:  0.000815, Time_cost:  0.256536
+Epoch:3, Step:62, Loss:  0.001624, Time_cost:  0.315286
+Epoch:3, Step:63, Loss:  0.000497, Time_cost:  0.273632
+Epoch:3, Step:64, Loss:  0.000497, Time_cost:  0.245155
+Epoch:3, Step:65, Loss:  0.000622, Time_cost:  0.222003
+Epoch:3, Step:66, Loss:  0.000299, Time_cost:  0.204939
+Epoch:3, Step:67, Loss:  0.000545, Time_cost:  0.230587
+Epoch:3, Step:68, Loss:  0.005110, Time_cost:  0.238116
+Epoch:3, Step:69, Loss:  0.001082, Time_cost:  0.293094
+Epoch:3, Step:70, Loss:  0.000820, Time_cost:  0.238188
+Epoch:3, Step:71, Loss:  0.001755, Time_cost:  0.261706
+Epoch:3, Step:72, Loss:  0.000710, Time_cost:  0.237511
+Epoch:3, Step:73, Loss:  0.001103, Time_cost:  0.248981
+Epoch:3, Step:74, Loss:  0.000588, Time_cost:  0.202699
+Epoch:3, Step:75, Loss:  0.001125, Time_cost:  0.216692
+Epoch:3, Step:76, Loss:  0.000772, Time_cost:  0.206825
+Epoch:3, Step:77, Loss:  0.000538, Time_cost:  0.260054
+Epoch:3, Step:78, Loss:  0.000392, Time_cost:  0.203006
+Epoch:3, Step:79, Loss:  0.000411, Time_cost:  0.290935
+Epoch:3, Step:80, Loss:  0.000986, Time_cost:  0.254754
+Epoch:3, Step:81, Loss:  0.002714, Time_cost:  0.194546
+Epoch:3, Step:82, Loss:  0.000415, Time_cost:  0.236191
+Epoch:3, Step:83, Loss:  0.000680, Time_cost:  0.213800
+Epoch:3, Step:84, Loss:  0.000574, Time_cost:  0.234116
+Epoch:3, Step:85, Loss:  0.001003, Time_cost:  0.241432
+Epoch:3, Step:86, Loss:  0.004997, Time_cost:  0.229418
+Epoch:3, Step:87, Loss:  0.000557, Time_cost:  0.201087
+Epoch:3, Step:88, Loss:  0.000870, Time_cost:  0.255623
+Epoch:3, Step:89, Loss:  0.000653, Time_cost:  0.223196
+Epoch:3, Step:90, Loss:  0.000315, Time_cost:  0.278480
+Epoch:3, Step:91, Loss:  0.000523, Time_cost:  0.221479
+Epoch:3, Step:92, Loss:  0.000659, Time_cost:  0.202139
+Epoch:3, Step:93, Loss:  0.001135, Time_cost:  0.268837
+Epoch:3, Step:94, Loss:  0.000964, Time_cost:  0.212753
+Epoch:3, Step:95, Loss:  0.011708, Time_cost:  0.171581
+Epoch:3, Step:96, Loss:  0.001036, Time_cost:  0.256918
+Epoch:3, Step:97, Loss:  0.001057, Time_cost:  0.222383
+Epoch:3, Step:98, Loss:  0.001240, Time_cost:  0.235735
+Epoch:3, Step:99, Loss:  0.003187, Time_cost:  0.229728
+Epoch:3, Step:100, Loss:  0.000587, Time_cost:  0.242399
+Epoch:3, Step:101, Loss:  0.001414, Time_cost:  0.225550
+Epoch:3, Step:102, Loss:  0.000908, Time_cost:  0.207106
+Epoch:3, Step:103, Loss:  0.001274, Time_cost:  0.231555
+Epoch:3, Step:104, Loss:  0.000557, Time_cost:  0.236924
+Epoch:3, Step:105, Loss:  0.000922, Time_cost:  0.249895
+Epoch:3, Step:106, Loss:  0.000552, Time_cost:  0.266552
+Epoch:3, Step:107, Loss:  0.001358, Time_cost:  0.233812
+Epoch:3, Step:108, Loss:  0.000704, Time_cost:  0.255572
+Epoch:3, Step:109, Loss:  0.003703, Time_cost:  0.220562
+Epoch:3, Step:110, Loss:  0.000779, Time_cost:  0.233988
+Epoch:3, Step:111, Loss:  0.000404, Time_cost:  0.237392
+Epoch:3, Step:112, Loss:  0.001111, Time_cost:  0.216257
+Epoch:3, Step:113, Loss:  0.000661, Time_cost:  0.259226
+Epoch:3, Step:114, Loss:  0.001838, Time_cost:  0.209108
+Epoch:3, Step:115, Loss:  0.001820, Time_cost:  0.236129
+Epoch:3, Step:116, Loss:  0.000830, Time_cost:  0.213595
+Epoch:3, Step:117, Loss:  0.000948, Time_cost:  0.259304
+Epoch:3, Step:118, Loss:  0.000864, Time_cost:  0.222411
+Epoch:3, Step:119, Loss:  0.000470, Time_cost:  0.284719
+Epoch:3, Step:120, Loss:  0.002256, Time_cost:  0.252528
+Epoch:3, Step:121, Loss:  0.000490, Time_cost:  0.207361
+Epoch:3, Step:122, Loss:  0.000236, Time_cost:  0.199069
+Epoch:3, Step:123, Loss:  0.000480, Time_cost:  0.236690
+Epoch:3, Step:124, Loss:  0.000443, Time_cost:  0.220475
+Epoch:3, Step:125, Loss:  0.000423, Time_cost:  0.277956
+Epoch:3, Step:126, Loss:  0.000432, Time_cost:  0.234830
+Epoch:3, Step:127, Loss:  0.000745, Time_cost:  0.291526
+Epoch:3, Step:128, Loss:  0.000661, Time_cost:  0.223564
+Epoch:3, Step:129, Loss:  0.023842, Time_cost:  0.229302
+Epoch:3, Step:130, Loss:  0.000814, Time_cost:  0.245261
+Epoch:3, Step:131, Loss:  0.000508, Time_cost:  0.276252
+Epoch:3, Step:132, Loss:  0.001416, Time_cost:  0.217634
+Epoch:3, Step:133, Loss:  0.002637, Time_cost:  0.259894
+Epoch:3, Step:134, Loss:  0.000587, Time_cost:  0.221111
+Epoch:3, Step:135, Loss:  0.001098, Time_cost:  0.219066
+Epoch:3, Step:136, Loss:  0.000740, Time_cost:  0.254489
+Epoch:3, Step:137, Loss:  0.000450, Time_cost:  0.227332
+Epoch:3, Step:138, Loss:  0.000681, Time_cost:  0.289715
+Epoch:3, Step:139, Loss:  0.000747, Time_cost:  0.278758
+Epoch:3, Step:140, Loss:  0.000392, Time_cost:  0.252357
+Epoch:3, Step:141, Loss:  0.001581, Time_cost:  0.228529
+Epoch:3, Step:142, Loss:  0.071493, Time_cost:  0.272040
+Epoch:3, Step:143, Loss:  0.000289, Time_cost:  0.192963
+Epoch:3, Step:144, Loss:  0.000586, Time_cost:  0.225682
+Epoch:3, Step:145, Loss:  0.001015, Time_cost:  0.198492
+Epoch:3, Step:146, Loss:  0.001282, Time_cost:  0.206726
+Epoch:3, Step:147, Loss:  0.001210, Time_cost:  0.226680
+Epoch:3, Step:148, Loss:  0.000807, Time_cost:  0.232679
+Epoch:3, Step:149, Loss:  0.001112, Time_cost:  0.215362
+Epoch:3, Step:150, Loss:  0.001677, Time_cost:  0.229539
+Epoch:3, Step:151, Loss:  0.000690, Time_cost:  0.224727
+Epoch:3, Step:152, Loss:  0.001318, Time_cost:  0.285285
+Epoch:3, Step:153, Loss:  0.001214, Time_cost:  0.237945
+Epoch:3, Step:154, Loss:  0.000922, Time_cost:  0.231073
+Epoch:3, Step:155, Loss:  0.001026, Time_cost:  0.221712
+Epoch:3, Step:156, Loss:  0.000539, Time_cost:  0.221464
+Epoch:3, Step:157, Loss:  0.000824, Time_cost:  0.281230
+Epoch:3, Step:158, Loss:  0.000744, Time_cost:  0.218951
+Epoch:3, Step:159, Loss:  0.000654, Time_cost:  0.289418
+Epoch:3, Step:160, Loss:  0.000497, Time_cost:  0.211245
+Epoch:3, Step:161, Loss:  0.000459, Time_cost:  0.198100
+Epoch:3, Step:162, Loss:  0.000517, Time_cost:  0.261536
+Epoch:3, Step:163, Loss:  0.002364, Time_cost:  0.220066
+Epoch:3, Step:164, Loss:  0.006196, Time_cost:  0.228887
+Epoch:3, Step:165, Loss:  0.000676, Time_cost:  0.231186
+Epoch:3, Step:166, Loss:  0.010660, Time_cost:  0.220352
+Epoch:3, Step:167, Loss:  0.000408, Time_cost:  0.216384
+Epoch:3, Step:168, Loss:  0.001015, Time_cost:  0.277972
+Epoch:3, Step:169, Loss:  0.000543, Time_cost:  0.180550
+Epoch:3, Step:170, Loss:  0.058401, Time_cost:  0.303270
+Epoch:3, Step:171, Loss:  0.001141, Time_cost:  0.240864
+Epoch:3, Step:172, Loss:  0.000647, Time_cost:  0.217927
+Epoch:3, Step:173, Loss:  0.000835, Time_cost:  0.220857
+Epoch:3, Step:174, Loss:  0.000747, Time_cost:  0.271882
+Epoch:3, Step:175, Loss:  0.001442, Time_cost:  0.226899
+Epoch:3, Step:176, Loss:  0.001154, Time_cost:  0.182290
+Epoch:3, Step:177, Loss:  0.001517, Time_cost:  0.177169
+Epoch:3, Step:178, Loss:  0.000696, Time_cost:  0.172936
+Epoch:3, Step:179, Loss:  0.000363, Time_cost:  0.156027
+Epoch:3, Step:180, Loss:  0.001042, Time_cost:  0.172526
+Epoch:3, Step:181, Loss:  0.001072, Time_cost:  0.164133
+Epoch:3, Step:182, Loss:  0.000723, Time_cost:  0.173759
+Epoch:3, Step:183, Loss:  0.000480, Time_cost:  0.177897
+Epoch:3, Step:184, Loss:  0.002594, Time_cost:  0.190975
+Epoch:3, Step:185, Loss:  0.000399, Time_cost:  0.177798
+Epoch:3, Step:186, Loss:  0.003657, Time_cost:  0.159279
+Epoch:3, Step:187, Loss:  0.001037, Time_cost:  0.158724
+Epoch:3, Step:188, Loss:  0.001086, Time_cost:  0.192011
+Epoch:3, Step:189, Loss:  0.000767, Time_cost:  0.178566
+Epoch:3, Step:190, Loss:  0.002514, Time_cost:  0.178644
+Epoch:3, Step:191, Loss:  0.006472, Time_cost:  0.177161
+Epoch:3, Step:192, Loss:  0.000697, Time_cost:  0.177236
+Epoch:3, Step:193, Loss:  0.000882, Time_cost:  0.155220
+Epoch:3, Step:194, Loss:  0.000677, Time_cost:  0.169585
+Epoch:3, Step:195, Loss:  0.000751, Time_cost:  0.172581
+Epoch:3, Step:196, Loss:  0.000532, Time_cost:  0.158974
+Epoch:3, Step:197, Loss:  0.000547, Time_cost:  0.210742
+Epoch:3, Step:198, Loss:  0.004965, Time_cost:  0.181339
+Epoch:3, Step:199, Loss:  0.002209, Time_cost:  0.177296
+Epoch:3, Step:200, Loss:  0.000457, Time_cost:  0.191894
+Epoch:3, Step:201, Loss:  0.000667, Time_cost:  0.160388
+Epoch:3, Step:202, Loss:  0.000752, Time_cost:  0.178058
+Epoch:3, Step:203, Loss:  0.000464, Time_cost:  0.174954
+Epoch:3, Step:204, Loss:  0.000812, Time_cost:  0.174972
+Epoch:3, Step:205, Loss:  0.000642, Time_cost:  0.177560
+Epoch:3, Step:206, Loss:  0.001436, Time_cost:  0.154235
+Epoch:3, Step:207, Loss:  0.001142, Time_cost:  0.165530
+Epoch:3, Step:208, Loss:  0.000469, Time_cost:  0.168157
+Epoch:3, Step:209, Loss:  0.000704, Time_cost:  0.147628
+Epoch:3, Step:210, Loss:  0.000474, Time_cost:  0.171114
+Epoch:3, Step:211, Loss:  0.000505, Time_cost:  0.172030
+Epoch:3, Step:212, Loss:  0.000435, Time_cost:  0.167627
+Epoch:3, Step:213, Loss:  0.000522, Time_cost:  0.158765
+Epoch:3, Step:214, Loss:  0.000310, Time_cost:  0.170813
+Epoch:3, Step:215, Loss:  0.000406, Time_cost:  0.177320
+Epoch:3, Step:216, Loss:  0.000397, Time_cost:  0.172486
+Epoch:3, Step:217, Loss:  0.001044, Time_cost:  0.165701
+Epoch:3, Step:218, Loss:  0.000764, Time_cost:  0.156071
+Epoch:3, Step:219, Loss:  0.000312, Time_cost:  0.190620
+Epoch:3, Step:220, Loss:  0.000330, Time_cost:  0.184799
+Epoch:3, Step:221, Loss:  0.000638, Time_cost:  0.170212
+0it [00:00, ?it/s]7it [00:00, 64.69it/s]14it [00:00, 65.08it/s]21it [00:00, 65.20it/s]28it [00:00, 64.95it/s]35it [00:00, 65.38it/s]42it [00:00, 66.13it/s]49it [00:00, 65.26it/s]56it [00:00, 64.07it/s]63it [00:00, 65.20it/s]70it [00:01, 65.45it/s]77it [00:01, 66.16it/s]84it [00:01, 66.17it/s]91it [00:01, 66.69it/s]98it [00:01, 66.96it/s]105it [00:01, 66.64it/s]112it [00:01, 66.79it/s]120it [00:01, 68.13it/s]127it [00:01, 68.64it/s]135it [00:02, 69.18it/s]142it [00:02, 68.49it/s]150it [00:02, 69.99it/s]158it [00:02, 69.68it/s]166it [00:02, 70.60it/s]174it [00:02, 71.95it/s]182it [00:02, 71.58it/s]190it [00:02, 70.14it/s]198it [00:02, 69.07it/s]205it [00:03, 68.05it/s]212it [00:03, 67.15it/s]219it [00:03, 65.30it/s]226it [00:03, 65.47it/s]234it [00:03, 67.02it/s]241it [00:03, 67.68it/s]249it [00:03, 68.48it/s]256it [00:03, 66.96it/s]263it [00:03, 67.01it/s]270it [00:04, 67.22it/s]278it [00:04, 67.95it/s]285it [00:04, 68.29it/s]292it [00:04, 67.73it/s]299it [00:04, 67.90it/s]306it [00:04, 67.87it/s]314it [00:04, 69.68it/s]322it [00:04, 69.87it/s]329it [00:04, 68.28it/s]336it [00:04, 68.56it/s]343it [00:05, 68.38it/s]350it [00:05, 68.75it/s]357it [00:05, 68.86it/s]364it [00:05, 69.13it/s]371it [00:05, 68.81it/s]378it [00:05, 67.12it/s]385it [00:05, 67.18it/s]392it [00:05, 67.36it/s]399it [00:05, 66.77it/s]406it [00:05, 67.12it/s]414it [00:06, 68.43it/s]421it [00:06, 68.68it/s]428it [00:06, 68.76it/s]435it [00:06, 67.57it/s]442it [00:06, 67.68it/s]449it [00:06, 67.59it/s]456it [00:06, 65.60it/s]463it [00:06, 65.75it/s]471it [00:06, 67.31it/s]479it [00:07, 68.08it/s]486it [00:07, 67.23it/s]493it [00:07, 67.48it/s]500it [00:07, 67.72it/s]507it [00:07, 67.56it/s]514it [00:07, 66.06it/s]521it [00:07, 66.95it/s]528it [00:07, 67.01it/s]535it [00:07, 67.20it/s]542it [00:08, 67.64it/s]549it [00:08, 68.18it/s]557it [00:08, 68.82it/s]564it [00:08, 68.70it/s]571it [00:08, 68.99it/s]578it [00:08, 69.12it/s]585it [00:08, 69.12it/s]592it [00:08, 68.78it/s]599it [00:08, 68.09it/s]606it [00:08, 67.60it/s]613it [00:09, 68.23it/s]620it [00:09, 67.19it/s]628it [00:09, 67.84it/s]635it [00:09, 67.48it/s]643it [00:09, 68.26it/s]650it [00:09, 68.37it/s]657it [00:09, 68.68it/s]664it [00:09, 68.93it/s]671it [00:09, 67.37it/s]678it [00:10, 66.96it/s]685it [00:10, 66.31it/s]692it [00:10, 65.55it/s]699it [00:10, 65.46it/s]706it [00:10, 65.74it/s]713it [00:10, 65.11it/s]720it [00:10, 65.90it/s]728it [00:10, 67.76it/s]735it [00:10, 67.60it/s]742it [00:10, 68.21it/s]749it [00:11, 67.38it/s]756it [00:11, 67.64it/s]763it [00:11, 67.56it/s]770it [00:11, 67.38it/s]777it [00:11, 67.24it/s]784it [00:11, 67.53it/s]791it [00:11, 68.15it/s]798it [00:11, 68.04it/s]805it [00:11, 67.73it/s]812it [00:11, 68.01it/s]819it [00:12, 67.81it/s]826it [00:12, 67.71it/s]834it [00:12, 68.56it/s]841it [00:12, 68.87it/s]848it [00:12, 68.75it/s]855it [00:12, 67.78it/s]862it [00:12, 68.21it/s]869it [00:12, 67.59it/s]876it [00:12, 66.84it/s]883it [00:13, 66.98it/s]890it [00:13, 67.24it/s]897it [00:13, 67.51it/s]904it [00:13, 67.58it/s]911it [00:13, 67.57it/s]918it [00:13, 67.72it/s]925it [00:13, 67.52it/s]932it [00:13, 66.75it/s]939it [00:13, 66.94it/s]946it [00:13, 67.22it/s]953it [00:14, 67.84it/s]960it [00:14, 67.09it/s]967it [00:14, 67.49it/s]975it [00:14, 68.80it/s]982it [00:14, 68.86it/s]989it [00:14, 69.01it/s]996it [00:14, 68.69it/s]1004it [00:14, 69.47it/s]1011it [00:14, 68.89it/s]1018it [00:15, 68.05it/s]1025it [00:15, 68.08it/s]1032it [00:15, 68.41it/s]1039it [00:15, 68.19it/s]1046it [00:15, 66.78it/s]1054it [00:15, 67.99it/s]1062it [00:15, 68.62it/s]1070it [00:15, 69.89it/s]1078it [00:15, 70.50it/s]1086it [00:16, 71.02it/s]1094it [00:16, 71.13it/s]1102it [00:16, 70.35it/s]1110it [00:16, 69.97it/s]1118it [00:16, 69.61it/s]1125it [00:16, 69.65it/s]1132it [00:16, 69.58it/s]1140it [00:16, 69.77it/s]1147it [00:16, 69.41it/s]1155it [00:16, 69.50it/s]1163it [00:17, 70.54it/s]1171it [00:17, 70.55it/s]1179it [00:17, 71.15it/s]1187it [00:17, 70.95it/s]1195it [00:17, 70.80it/s]1203it [00:17, 70.81it/s]1211it [00:17, 69.56it/s]1218it [00:17, 69.47it/s]1226it [00:17, 70.61it/s]1234it [00:18, 72.00it/s]1242it [00:18, 70.51it/s]1250it [00:18, 70.89it/s]1258it [00:18, 71.19it/s]1266it [00:18, 71.88it/s]1274it [00:18, 73.34it/s]1283it [00:18, 75.22it/s]1291it [00:18, 74.25it/s]1299it [00:18, 74.15it/s]1307it [00:19, 74.09it/s]1315it [00:19, 74.17it/s]1323it [00:19, 73.29it/s]1331it [00:19, 72.88it/s]1339it [00:19, 73.23it/s]1347it [00:19, 74.89it/s]1355it [00:19, 75.02it/s]1363it [00:19, 73.97it/s]1371it [00:19, 73.95it/s]1379it [00:20, 74.84it/s]1387it [00:20, 75.09it/s]1395it [00:20, 73.71it/s]1403it [00:20, 73.90it/s]1411it [00:20, 73.02it/s]1419it [00:20, 71.47it/s]1427it [00:20, 71.29it/s]1435it [00:20, 70.65it/s]1443it [00:20, 70.98it/s]1451it [00:21, 70.91it/s]1459it [00:21, 70.80it/s]1467it [00:21, 70.52it/s]1475it [00:21, 70.55it/s]1483it [00:21, 70.59it/s]1491it [00:21, 71.11it/s]1499it [00:21, 72.55it/s]1507it [00:21, 71.80it/s]1515it [00:21, 71.76it/s]1523it [00:22, 71.00it/s]1531it [00:22, 69.77it/s]1538it [00:22, 68.28it/s]1546it [00:22, 69.24it/s]1553it [00:22, 69.08it/s]1560it [00:22, 69.19it/s]1568it [00:22, 69.94it/s]1576it [00:22, 69.99it/s]1584it [00:22, 71.10it/s]1592it [00:23, 71.60it/s]1600it [00:23, 73.22it/s]1608it [00:23, 72.82it/s]1616it [00:23, 72.23it/s]1624it [00:23, 69.92it/s]1632it [00:23, 69.52it/s]1640it [00:23, 70.74it/s]1648it [00:23, 70.76it/s]1656it [00:23, 68.88it/s]1664it [00:24, 69.24it/s]1671it [00:24, 68.83it/s]1678it [00:24, 68.98it/s]1686it [00:24, 69.59it/s]1694it [00:24, 70.17it/s]1702it [00:24, 70.00it/s]1710it [00:24, 69.26it/s]1717it [00:24, 68.12it/s]1724it [00:24, 68.32it/s]1731it [00:25, 67.87it/s]1738it [00:25, 66.77it/s]1745it [00:25, 66.61it/s]1752it [00:25, 66.55it/s]1759it [00:25, 66.64it/s]1766it [00:25, 66.70it/s]1773it [00:25, 66.96it/s]1780it [00:25, 67.43it/s]1787it [00:25, 66.44it/s]1794it [00:26, 66.40it/s]1801it [00:26, 66.87it/s]1808it [00:26, 66.43it/s]1815it [00:26, 66.24it/s]1822it [00:26, 65.65it/s]1829it [00:26, 64.63it/s]1836it [00:26, 65.16it/s]1844it [00:26, 67.00it/s]1851it [00:26, 67.58it/s]1859it [00:26, 68.46it/s]1866it [00:27, 67.97it/s]1873it [00:27, 67.95it/s]1880it [00:27, 67.54it/s]1887it [00:27, 66.20it/s]1894it [00:27, 65.18it/s]1901it [00:27, 63.93it/s]1908it [00:27, 64.34it/s]1915it [00:27, 64.28it/s]1922it [00:27, 65.63it/s]1929it [00:28, 66.52it/s]1936it [00:28, 66.93it/s]1943it [00:28, 66.81it/s]1950it [00:28, 67.42it/s]1957it [00:28, 66.75it/s]1964it [00:28, 66.92it/s]1971it [00:28, 65.75it/s]1978it [00:28, 65.54it/s]1985it [00:28, 65.89it/s]1992it [00:29, 65.85it/s]1999it [00:29, 66.29it/s]2000it [00:29, 68.64it/s]
+Epoch:3, Step:222, Loss:  0.000625, Time_cost:  0.177252
+Epoch:3, Step:223, Loss:  0.000533, Time_cost:  0.203810
+Epoch:3, Step:224, Loss:  0.000765, Time_cost:  0.162056
+Epoch:3, Step:225, Loss:  0.000893, Time_cost:  0.239177
+Epoch:3, Step:226, Loss:  0.000389, Time_cost:  0.154654
+Epoch:3, Step:227, Loss:  0.002841, Time_cost:  0.173998
+Epoch:3, Step:228, Loss:  0.001360, Time_cost:  0.162988
+Epoch:3, Step:229, Loss:  0.000687, Time_cost:  0.115667
+Epoch:3, Step:230, Loss:  0.000241, Time_cost:  0.125170
+Epoch:3, Step:231, Loss:  0.003547, Time_cost:  0.118552
+Epoch:3, Step:232, Loss:  0.000715, Time_cost:  0.124424
+Epoch:3, Step:233, Loss:  0.000362, Time_cost:  0.127539
+Epoch:3, Step:234, Loss:  0.000816, Time_cost:  0.126875
+Epoch:3, Step:235, Loss:  0.000646, Time_cost:  0.111997
+Epoch:3, Step:236, Loss:  0.000787, Time_cost:  0.132779
+Epoch:3, Step:237, Loss:  0.000284, Time_cost:  0.129249
+Epoch:3, Step:238, Loss:  0.000650, Time_cost:  0.133233
+Epoch:3, Step:239, Loss:  0.001828, Time_cost:  0.129233
+Epoch:3, Step:240, Loss:  0.000632, Time_cost:  0.133229
+Epoch:3, Step:241, Loss:  0.000536, Time_cost:  0.118185
+Epoch:3, Step:242, Loss:  0.001170, Time_cost:  0.131582
+Epoch:3, Step:243, Loss:  0.000416, Time_cost:  0.134450
+Epoch:3, Step:244, Loss:  0.000619, Time_cost:  0.116646
+Epoch:3, Step:245, Loss:  0.001153, Time_cost:  0.125778
+Epoch:3, Step:246, Loss:  0.000620, Time_cost:  0.114423
+Epoch:3, Step:247, Loss:  0.000394, Time_cost:  0.126556
+Epoch:3, Step:248, Loss:  0.002057, Time_cost:  0.137722
+Epoch:3, Step:249, Loss:  0.000448, Time_cost:  0.132100
+Epoch:3, Step:250, Loss:  0.000340, Time_cost:  0.133140
+Epoch:3, Step:251, Loss:  0.000306, Time_cost:  0.120069
+Epoch:3, Step:252, Loss:  0.000872, Time_cost:  0.125200
+Epoch:3, Step:253, Loss:  0.000459, Time_cost:  0.112606
+Epoch:3, Step:254, Loss:  0.000499, Time_cost:  0.125140
+Epoch:3, Step:255, Loss:  0.000666, Time_cost:  0.130957
+Epoch:3, Step:256, Loss:  0.000474, Time_cost:  0.120337
+Epoch:3, Step:257, Loss:  0.000487, Time_cost:  0.125766
+Epoch:3, Step:258, Loss:  0.024535, Time_cost:  0.117665
+Epoch:3, Step:259, Loss:  0.001157, Time_cost:  0.133036
+Epoch:3, Step:260, Loss:  0.000325, Time_cost:  0.127779
+Epoch:3, Step:261, Loss:  0.000360, Time_cost:  0.123340
+Epoch:3, Step:262, Loss:  0.000762, Time_cost:  0.132868
+Epoch:3, Step:263, Loss:  0.005589, Time_cost:  0.144209
+Epoch:3, Step:264, Loss:  0.001539, Time_cost:  0.127323
+Epoch:3, Step:265, Loss:  0.000359, Time_cost:  0.150787
+Epoch:3, Step:266, Loss:  0.000857, Time_cost:  0.152647
+Epoch:3, Step:267, Loss:  0.002154, Time_cost:  0.133548
+Epoch:3, Step:268, Loss:  0.000499, Time_cost:  0.124708
+Epoch:3, Step:269, Loss:  0.000464, Time_cost:  0.138426
+Epoch:3, Step:270, Loss:  0.000445, Time_cost:  0.126511
+Epoch:3, Step:271, Loss:  0.000442, Time_cost:  0.138798
+Epoch:3, Step:272, Loss:  0.000645, Time_cost:  0.148726
+Epoch:3, Step:273, Loss:  0.001028, Time_cost:  0.131260
+Epoch:3, Step:274, Loss:  0.000397, Time_cost:  0.114238
+Epoch:3, Step:275, Loss:  0.000663, Time_cost:  0.124806
+Epoch:3, Step:276, Loss:  0.000511, Time_cost:  0.132717
+Epoch:3, Step:277, Loss:  0.000339, Time_cost:  0.144658
+Epoch:3, Step:278, Loss:  0.000664, Time_cost:  0.112153
+Epoch:3, Step:279, Loss:  0.002327, Time_cost:  0.127841
+Epoch:3, Step:280, Loss:  0.000659, Time_cost:  0.118312
+Epoch:3, Step:281, Loss:  0.000592, Time_cost:  0.128078
+Epoch:3, Step:282, Loss:  0.000740, Time_cost:  0.117554
+Epoch:3, Step:283, Loss:  0.000951, Time_cost:  0.127599
+Epoch:3, Step:284, Loss:  0.000342, Time_cost:  0.128303
+Epoch:3, Step:285, Loss:  0.000294, Time_cost:  0.126995
+Epoch:3, Step:286, Loss:  0.000634, Time_cost:  0.113273
+Epoch:3, Step:287, Loss:  0.000607, Time_cost:  0.119873
+Epoch:3, Step:288, Loss:  0.000604, Time_cost:  0.125090
+Epoch:3, Step:289, Loss:  0.000628, Time_cost:  0.140672
+Epoch:3, Step:290, Loss:  0.000889, Time_cost:  0.140011
+Epoch:3, Step:291, Loss:  0.001669, Time_cost:  0.127526
+Epoch:3, Step:292, Loss:  0.000356, Time_cost:  0.133731
+Epoch:3, Step:293, Loss:  0.000377, Time_cost:  0.119273
+Epoch:3, Step:294, Loss:  0.000415, Time_cost:  0.130289
+Epoch:3, Step:295, Loss:  0.054377, Time_cost:  0.127374
+Epoch:3, Step:296, Loss:  0.000995, Time_cost:  0.118662
+Epoch:3, Step:297, Loss:  0.001556, Time_cost:  0.119209
+Epoch:3, Step:298, Loss:  0.000635, Time_cost:  0.118697
+Epoch:3, Step:299, Loss:  0.000618, Time_cost:  0.132404
+Epoch:3, Step:300, Loss:  0.000763, Time_cost:  0.118252
+Epoch:3, Step:301, Loss:  0.000920, Time_cost:  0.125084
+Epoch:3, Step:302, Loss:  0.000923, Time_cost:  0.126080
+Epoch:3, Step:303, Loss:  0.000392, Time_cost:  0.125420
+Epoch:3, Step:304, Loss:  0.000566, Time_cost:  0.125774
+Epoch:3, Step:305, Loss:  0.000970, Time_cost:  0.138805
+Epoch:3, Step:306, Loss:  0.000825, Time_cost:  0.129965
+Epoch:3, Step:307, Loss:  0.000454, Time_cost:  0.119410
+Epoch:3, Step:308, Loss:  0.000427, Time_cost:  0.143242
+Epoch:3, Step:309, Loss:  0.001233, Time_cost:  0.125592
+Epoch:3, Step:310, Loss:  0.001062, Time_cost:  0.134225
+Epoch:3, Step:311, Loss:  0.000877, Time_cost:  0.118272
+Epoch:3, Step:312, Loss:  0.000141, Time_cost:  0.059597
+Epoch:4, Step:0, Loss:  0.000598, Time_cost:  0.176658
+Epoch:4, Step:1, Loss:  0.000430, Time_cost:  0.176964
+Epoch:4, Step:2, Loss:  0.000592, Time_cost:  0.129205
+Epoch:4, Step:3, Loss:  0.000953, Time_cost:  0.128043
+Epoch:4, Step:4, Loss:  0.001275, Time_cost:  0.153634
+Epoch:4, Step:5, Loss:  0.000918, Time_cost:  0.119544
+Epoch:4, Step:6, Loss:  0.000544, Time_cost:  0.132877
+Epoch:4, Step:7, Loss:  0.000498, Time_cost:  0.133376
+Epoch:4, Step:8, Loss:  0.000562, Time_cost:  0.120373
+Epoch:4, Step:9, Loss:  0.000375, Time_cost:  0.133666
+Epoch:4, Step:10, Loss:  0.000454, Time_cost:  0.112322
+Epoch:4, Step:11, Loss:  0.000738, Time_cost:  0.112814
+Epoch:4, Step:12, Loss:  0.000549, Time_cost:  0.140902
+Epoch:4, Step:13, Loss:  0.000445, Time_cost:  0.134473
+Epoch:4, Step:14, Loss:  0.000582, Time_cost:  0.128314
+Epoch:4, Step:15, Loss:  0.000309, Time_cost:  0.114278
+Epoch:4, Step:16, Loss:  0.044138, Time_cost:  0.134418
+Epoch:4, Step:17, Loss:  0.000457, Time_cost:  0.142423
+Epoch:4, Step:18, Loss:  0.000367, Time_cost:  0.118241
+Epoch:4, Step:19, Loss:  0.000286, Time_cost:  0.116782
+Epoch:4, Step:20, Loss:  0.001308, Time_cost:  0.178374
+Epoch:4, Step:21, Loss:  0.002067, Time_cost:  0.139354
+Epoch:4, Step:22, Loss:  0.000540, Time_cost:  0.131611
+Epoch:4, Step:23, Loss:  0.000471, Time_cost:  0.113108
+Epoch:4, Step:24, Loss:  0.000588, Time_cost:  0.127618
+Epoch:4, Step:25, Loss:  0.000425, Time_cost:  0.134379
+Epoch:4, Step:26, Loss:  0.000306, Time_cost:  0.132597
+Epoch:4, Step:27, Loss:  0.000754, Time_cost:  0.139635
+Epoch:4, Step:28, Loss:  0.038707, Time_cost:  0.143437
+Epoch:4, Step:29, Loss:  0.003545, Time_cost:  0.132678
+Epoch:4, Step:30, Loss:  0.000454, Time_cost:  0.127799
+Epoch:4, Step:31, Loss:  0.000730, Time_cost:  0.128729
+Epoch:4, Step:32, Loss:  0.000706, Time_cost:  0.119112
+Epoch:4, Step:33, Loss:  0.000571, Time_cost:  0.126508
+Epoch:4, Step:34, Loss:  0.000619, Time_cost:  0.126978
+Epoch:4, Step:35, Loss:  0.000485, Time_cost:  0.125657
+Epoch:4, Step:36, Loss:  0.000413, Time_cost:  0.134321
+Epoch:4, Step:37, Loss:  0.000619, Time_cost:  0.125721
+Epoch:4, Step:38, Loss:  0.001789, Time_cost:  0.133432
+Epoch:4, Step:39, Loss:  0.001015, Time_cost:  0.135117
+Epoch:4, Step:40, Loss:  0.000442, Time_cost:  0.112967
+Epoch:4, Step:41, Loss:  0.000893, Time_cost:  0.128719
+Epoch:4, Step:42, Loss:  0.000719, Time_cost:  0.127832
+Epoch:4, Step:43, Loss:  0.000623, Time_cost:  0.140762
+Epoch:4, Step:44, Loss:  0.000649, Time_cost:  0.134264
+Epoch:4, Step:45, Loss:  0.001380, Time_cost:  0.151305
+Epoch:4, Step:46, Loss:  0.002820, Time_cost:  0.128572
+Epoch:4, Step:47, Loss:  0.000302, Time_cost:  0.113195
+Epoch:4, Step:48, Loss:  0.000389, Time_cost:  0.140209
+Epoch:4, Step:49, Loss:  0.057118, Time_cost:  0.144553
+Epoch:4, Step:50, Loss:  0.001383, Time_cost:  0.125990
+Epoch:4, Step:51, Loss:  0.001631, Time_cost:  0.124679
+Epoch:4, Step:52, Loss:  0.000925, Time_cost:  0.133883
+Epoch:4, Step:53, Loss:  0.000357, Time_cost:  0.140526
+Epoch:4, Step:54, Loss:  0.000795, Time_cost:  0.127724
+Epoch:4, Step:55, Loss:  0.000593, Time_cost:  0.132694
+Epoch:4, Step:56, Loss:  0.000336, Time_cost:  0.120644
+Epoch:4, Step:57, Loss:  0.000819, Time_cost:  0.129606
+Epoch:4, Step:58, Loss:  0.000398, Time_cost:  0.112433
+Epoch:4, Step:59, Loss:  0.000311, Time_cost:  0.134622
+Epoch:4, Step:60, Loss:  0.000326, Time_cost:  0.147098
+Epoch:4, Step:61, Loss:  0.001004, Time_cost:  0.143760
+Epoch:4, Step:62, Loss:  0.000559, Time_cost:  0.176513
+Epoch:4, Step:63, Loss:  0.000454, Time_cost:  0.147789
+Epoch:4, Step:64, Loss:  0.000315, Time_cost:  0.127893
+Epoch:4, Step:65, Loss:  0.000412, Time_cost:  0.119401
+Epoch:4, Step:66, Loss:  0.000234, Time_cost:  0.118078
+Epoch:4, Step:67, Loss:  0.000304, Time_cost:  0.125098
+Epoch:4, Step:68, Loss:  0.001444, Time_cost:  0.125621
+Epoch:4, Step:69, Loss:  0.000458, Time_cost:  0.149264
+Epoch:4, Step:70, Loss:  0.001185, Time_cost:  0.127113
+Epoch:4, Step:71, Loss:  0.001009, Time_cost:  0.119267
+Epoch:4, Step:72, Loss:  0.001059, Time_cost:  0.125954
+Epoch:4, Step:73, Loss:  0.000566, Time_cost:  0.131551
+Epoch:4, Step:74, Loss:  0.000498, Time_cost:  0.117889
+Epoch:4, Step:75, Loss:  0.001762, Time_cost:  0.119402
+Epoch:4, Step:76, Loss:  0.001080, Time_cost:  0.119732
+Epoch:4, Step:77, Loss:  0.000470, Time_cost:  0.119682
+Epoch:4, Step:78, Loss:  0.000697, Time_cost:  0.120007
+Epoch:4, Step:79, Loss:  0.000480, Time_cost:  0.138800
+Epoch:4, Step:80, Loss:  0.000684, Time_cost:  0.143851
+Epoch:4, Step:81, Loss:  0.001515, Time_cost:  0.119836
+Epoch:4, Step:82, Loss:  0.000446, Time_cost:  0.126019
+Epoch:4, Step:83, Loss:  0.000704, Time_cost:  0.120227
+Epoch:4, Step:84, Loss:  0.000409, Time_cost:  0.129089
+Epoch:4, Step:85, Loss:  0.000786, Time_cost:  0.126283
+Epoch:4, Step:86, Loss:  0.004305, Time_cost:  0.124732
+Epoch:4, Step:87, Loss:  0.000362, Time_cost:  0.118932
+Epoch:4, Step:88, Loss:  0.000351, Time_cost:  0.139805
+Epoch:4, Step:89, Loss:  0.000609, Time_cost:  0.128223
+Epoch:4, Step:90, Loss:  0.000291, Time_cost:  0.128054
+Epoch:4, Step:91, Loss:  0.000370, Time_cost:  0.118107
+Epoch:4, Step:92, Loss:  0.000345, Time_cost:  0.119111
+Epoch:4, Step:93, Loss:  0.000776, Time_cost:  0.126073
+Epoch:4, Step:94, Loss:  0.000703, Time_cost:  0.128460
+Epoch:4, Step:95, Loss:  0.000913, Time_cost:  0.106763
+Epoch:4, Step:96, Loss:  0.000436, Time_cost:  0.116873
+Epoch:4, Step:97, Loss:  0.000503, Time_cost:  0.128473
+Epoch:4, Step:98, Loss:  0.001033, Time_cost:  0.134392
+Epoch:4, Step:99, Loss:  0.011767, Time_cost:  0.127654
+Epoch:4, Step:100, Loss:  0.000418, Time_cost:  0.139439
+Epoch:4, Step:101, Loss:  0.000596, Time_cost:  0.125079
+Epoch:4, Step:102, Loss:  0.000545, Time_cost:  0.112790
+Epoch:4, Step:103, Loss:  0.000711, Time_cost:  0.131837
+Epoch:4, Step:104, Loss:  0.001094, Time_cost:  0.126557
+Epoch:4, Step:105, Loss:  0.000941, Time_cost:  0.133531
+Epoch:4, Step:106, Loss:  0.000620, Time_cost:  0.132932
+Epoch:4, Step:107, Loss:  0.000918, Time_cost:  0.131668
+Epoch:4, Step:108, Loss:  0.000620, Time_cost:  0.118359
+Epoch:4, Step:109, Loss:  0.000722, Time_cost:  0.125811
+Epoch:4, Step:110, Loss:  0.000936, Time_cost:  0.132655
+Epoch:4, Step:111, Loss:  0.000499, Time_cost:  0.128568
+Epoch:4, Step:112, Loss:  0.000657, Time_cost:  0.126525
+Epoch:4, Step:113, Loss:  0.000606, Time_cost:  0.125440
+Epoch:4, Step:114, Loss:  0.001577, Time_cost:  0.113754
+Epoch:4, Step:115, Loss:  0.001043, Time_cost:  0.124005
+Epoch:4, Step:116, Loss:  0.001154, Time_cost:  0.125289
+Epoch:4, Step:117, Loss:  0.001015, Time_cost:  0.125796
+Epoch:4, Step:118, Loss:  0.000714, Time_cost:  0.128210
+Epoch:4, Step:119, Loss:  0.000325, Time_cost:  0.150264
+Epoch:4, Step:120, Loss:  0.000601, Time_cost:  0.139717
+Epoch:4, Step:121, Loss:  0.000399, Time_cost:  0.110691
+Epoch:4, Step:122, Loss:  0.000531, Time_cost:  0.114363
+Epoch:4, Step:123, Loss:  0.000655, Time_cost:  0.117371
+Epoch:4, Step:124, Loss:  0.000745, Time_cost:  0.126303
+Epoch:4, Step:125, Loss:  0.000397, Time_cost:  0.128728
+Epoch:4, Step:126, Loss:  0.000373, Time_cost:  0.134288
+Epoch:4, Step:127, Loss:  0.000605, Time_cost:  0.139524
+Epoch:4, Step:128, Loss:  0.000758, Time_cost:  0.118253
+Epoch:4, Step:129, Loss:  0.002732, Time_cost:  0.125566
+Epoch:4, Step:130, Loss:  0.000535, Time_cost:  0.127970
+Epoch:4, Step:131, Loss:  0.000364, Time_cost:  0.153889
+Epoch:4, Step:132, Loss:  0.000270, Time_cost:  0.125232
+Epoch:4, Step:133, Loss:  0.001160, Time_cost:  0.119334
+Epoch:4, Step:134, Loss:  0.000285, Time_cost:  0.120189
+Epoch:4, Step:135, Loss:  0.001414, Time_cost:  0.125389
+Epoch:4, Step:136, Loss:  0.000704, Time_cost:  0.126091
+Epoch:4, Step:137, Loss:  0.000420, Time_cost:  0.132302
+Epoch:4, Step:138, Loss:  0.001122, Time_cost:  0.133857
+Epoch:4, Step:139, Loss:  0.000260, Time_cost:  0.152786
+Epoch:4, Step:140, Loss:  0.000286, Time_cost:  0.118017
+Epoch:4, Step:141, Loss:  0.000484, Time_cost:  0.132979
+Epoch:4, Step:142, Loss:  0.047351, Time_cost:  0.133930
+Epoch:4, Step:143, Loss:  0.000642, Time_cost:  0.111526
+Epoch:4, Step:144, Loss:  0.000554, Time_cost:  0.112442
+Epoch:4, Step:145, Loss:  0.002060, Time_cost:  0.119297
+Epoch:4, Step:146, Loss:  0.001500, Time_cost:  0.119185
+Epoch:4, Step:147, Loss:  0.000960, Time_cost:  0.125294
+Epoch:4, Step:148, Loss:  0.000611, Time_cost:  0.134884
+Epoch:4, Step:149, Loss:  0.000537, Time_cost:  0.119242
+Epoch:4, Step:150, Loss:  0.002788, Time_cost:  0.134004
+Epoch:4, Step:151, Loss:  0.000961, Time_cost:  0.118998
+Epoch:4, Step:152, Loss:  0.000809, Time_cost:  0.139785
+Epoch:4, Step:153, Loss:  0.000585, Time_cost:  0.143152
+Epoch:4, Step:154, Loss:  0.000547, Time_cost:  0.125931
+Epoch:4, Step:155, Loss:  0.000744, Time_cost:  0.128939
+Epoch:4, Step:156, Loss:  0.000804, Time_cost:  0.128699
+Epoch:4, Step:157, Loss:  0.000381, Time_cost:  0.129495
+Epoch:4, Step:158, Loss:  0.000556, Time_cost:  0.127443
+Epoch:4, Step:159, Loss:  0.000418, Time_cost:  0.140966
+Epoch:4, Step:160, Loss:  0.000400, Time_cost:  0.119853
+Epoch:4, Step:161, Loss:  0.000248, Time_cost:  0.119415
+Epoch:4, Step:162, Loss:  0.000314, Time_cost:  0.131099
+Epoch:4, Step:163, Loss:  0.001873, Time_cost:  0.119381
+Epoch:4, Step:164, Loss:  0.000807, Time_cost:  0.133929
+Epoch:4, Step:165, Loss:  0.001226, Time_cost:  0.128401
+Epoch:4, Step:166, Loss:  0.003233, Time_cost:  0.117732
+Epoch:4, Step:167, Loss:  0.000417, Time_cost:  0.126363
+Epoch:4, Step:168, Loss:  0.000443, Time_cost:  0.127136
+Epoch:4, Step:169, Loss:  0.000644, Time_cost:  0.111444
+Epoch:4, Step:170, Loss:  0.074780, Time_cost:  0.150741
+Epoch:4, Step:171, Loss:  0.002009, Time_cost:  0.142123
+Epoch:4, Step:172, Loss:  0.000350, Time_cost:  0.111530
+Epoch:4, Step:173, Loss:  0.000492, Time_cost:  0.124819
+Epoch:4, Step:174, Loss:  0.000487, Time_cost:  0.124226
+Epoch:4, Step:175, Loss:  0.000719, Time_cost:  0.134219
+Epoch:4, Step:176, Loss:  0.000741, Time_cost:  0.134840
+Epoch:4, Step:177, Loss:  0.003618, Time_cost:  0.131879
+Epoch:4, Step:178, Loss:  0.000508, Time_cost:  0.125551
+Epoch:4, Step:179, Loss:  0.000480, Time_cost:  0.113814
+Epoch:4, Step:180, Loss:  0.000823, Time_cost:  0.126429
+Epoch:4, Step:181, Loss:  0.000340, Time_cost:  0.120427
+Epoch:4, Step:182, Loss:  0.000571, Time_cost:  0.126187
+Epoch:4, Step:183, Loss:  0.000392, Time_cost:  0.128262
+Epoch:4, Step:184, Loss:  0.000535, Time_cost:  0.138703
+Epoch:4, Step:185, Loss:  0.000504, Time_cost:  0.128014
+Epoch:4, Step:186, Loss:  0.001776, Time_cost:  0.119769
+Epoch:4, Step:187, Loss:  0.000748, Time_cost:  0.117588
+Epoch:4, Step:188, Loss:  0.001075, Time_cost:  0.144408
+Epoch:4, Step:189, Loss:  0.000572, Time_cost:  0.128855
+Epoch:4, Step:190, Loss:  0.000830, Time_cost:  0.132193
+Epoch:4, Step:191, Loss:  0.000615, Time_cost:  0.127867
+Epoch:4, Step:192, Loss:  0.000754, Time_cost:  0.133606
+Epoch:4, Step:193, Loss:  0.002634, Time_cost:  0.113095
+Epoch:4, Step:194, Loss:  0.000612, Time_cost:  0.125281
+Epoch:4, Step:195, Loss:  0.000537, Time_cost:  0.128529
+Epoch:4, Step:196, Loss:  0.000333, Time_cost:  0.118144
+Epoch:4, Step:197, Loss:  0.000637, Time_cost:  0.149626
+Epoch:4, Step:198, Loss:  0.000744, Time_cost:  0.134243
+0it [00:00, ?it/s]7it [00:00, 69.32it/s]14it [00:00, 69.26it/s]22it [00:00, 69.76it/s]30it [00:00, 71.32it/s]38it [00:00, 72.71it/s]46it [00:00, 73.38it/s]54it [00:00, 72.72it/s]62it [00:00, 73.78it/s]70it [00:00, 74.65it/s]78it [00:01, 75.59it/s]86it [00:01, 76.77it/s]94it [00:01, 77.44it/s]102it [00:01, 77.53it/s]111it [00:01, 78.57it/s]120it [00:01, 79.24it/s]128it [00:01, 77.99it/s]136it [00:01, 76.42it/s]144it [00:01, 76.93it/s]152it [00:02, 77.57it/s]160it [00:02, 75.84it/s]168it [00:02, 74.04it/s]176it [00:02, 72.34it/s]184it [00:02, 72.02it/s]192it [00:02, 72.77it/s]200it [00:02, 72.66it/s]208it [00:02, 71.37it/s]216it [00:02, 72.14it/s]224it [00:03, 72.29it/s]232it [00:03, 72.74it/s]240it [00:03, 73.49it/s]248it [00:03, 74.93it/s]256it [00:03, 75.19it/s]264it [00:03, 74.19it/s]272it [00:03, 72.05it/s]280it [00:03, 70.48it/s]288it [00:03, 68.80it/s]295it [00:04, 68.48it/s]302it [00:04, 68.35it/s]309it [00:04, 68.66it/s]317it [00:04, 69.29it/s]324it [00:04, 69.26it/s]331it [00:04, 69.32it/s]338it [00:04, 69.23it/s]345it [00:04, 68.74it/s]353it [00:04, 69.64it/s]361it [00:04, 71.14it/s]369it [00:05, 71.64it/s]377it [00:05, 70.34it/s]385it [00:05, 70.73it/s]393it [00:05, 71.27it/s]401it [00:05, 70.31it/s]409it [00:05, 68.31it/s]416it [00:05, 68.16it/s]423it [00:05, 68.15it/s]430it [00:05, 68.11it/s]437it [00:06, 68.33it/s]444it [00:06, 68.28it/s]451it [00:06, 68.75it/s]458it [00:06, 68.35it/s]465it [00:06, 68.30it/s]473it [00:06, 68.90it/s]480it [00:06, 68.30it/s]487it [00:06, 68.26it/s]495it [00:06, 69.52it/s]503it [00:07, 70.50it/s]511it [00:07, 71.41it/s]519it [00:07, 69.92it/s]527it [00:07, 69.59it/s]534it [00:07, 69.05it/s]541it [00:07, 67.34it/s]548it [00:07, 67.00it/s]555it [00:07, 67.72it/s]562it [00:07, 67.77it/s]569it [00:07, 67.16it/s]576it [00:08, 67.14it/s]584it [00:08, 67.90it/s]591it [00:08, 66.67it/s]598it [00:08, 66.84it/s]605it [00:08, 67.48it/s]613it [00:08, 68.31it/s]620it [00:08, 67.50it/s]627it [00:08, 67.83it/s]634it [00:08, 67.84it/s]641it [00:09, 67.59it/s]648it [00:09, 66.19it/s]655it [00:09, 65.89it/s]662it [00:09, 66.50it/s]669it [00:09, 66.96it/s]676it [00:09, 67.01it/s]683it [00:09, 66.72it/s]690it [00:09, 66.55it/s]697it [00:09, 66.66it/s]704it [00:09, 66.22it/s]711it [00:10, 65.64it/s]718it [00:10, 65.50it/s]725it [00:10, 65.66it/s]732it [00:10, 66.42it/s]739it [00:10, 66.93it/s]747it [00:10, 68.46it/s]754it [00:10, 68.65it/s]761it [00:10, 68.35it/s]768it [00:10, 68.36it/s]775it [00:11, 67.78it/s]782it [00:11, 67.59it/s]789it [00:11, 67.97it/s]796it [00:11, 67.87it/s]803it [00:11, 67.68it/s]810it [00:11, 67.96it/s]817it [00:11, 67.95it/s]824it [00:11, 67.40it/s]831it [00:11, 67.72it/s]839it [00:11, 68.87it/s]847it [00:12, 69.76it/s]855it [00:12, 70.28it/s]863it [00:12, 71.38it/s]871it [00:12, 70.20it/s]879it [00:12, 69.45it/s]886it [00:12, 68.76it/s]893it [00:12, 66.66it/s]900it [00:12, 65.41it/s]907it [00:12, 64.87it/s]914it [00:13, 63.62it/s]921it [00:13, 63.01it/s]928it [00:13, 63.82it/s]935it [00:13, 63.79it/s]942it [00:13, 64.37it/s]949it [00:13, 65.11it/s]956it [00:13, 65.71it/s]963it [00:13, 66.76it/s]971it [00:13, 68.00it/s]979it [00:14, 69.56it/s]987it [00:14, 71.06it/s]995it [00:14, 71.99it/s]1003it [00:14, 73.47it/s]1012it [00:14, 75.43it/s]1020it [00:14, 75.50it/s]1028it [00:14, 73.13it/s]1036it [00:14, 72.06it/s]1044it [00:14, 71.66it/s]1052it [00:15, 70.56it/s]1060it [00:15, 70.49it/s]1068it [00:15, 70.16it/s]1076it [00:15, 69.89it/s]1084it [00:15, 70.60it/s]1092it [00:15, 70.77it/s]1100it [00:15, 70.04it/s]1108it [00:15, 69.63it/s]1116it [00:15, 70.24it/s]1124it [00:16, 70.32it/s]1132it [00:16, 69.73it/s]1139it [00:16, 69.24it/s]1146it [00:16, 68.65it/s]1153it [00:16, 68.05it/s]1160it [00:16, 67.49it/s]1167it [00:16, 66.77it/s]1174it [00:16, 66.58it/s]1181it [00:16, 66.26it/s]1188it [00:17, 66.79it/s]1195it [00:17, 66.81it/s]1202it [00:17, 66.69it/s]1209it [00:17, 67.30it/s]1217it [00:17, 68.34it/s]1224it [00:17, 68.34it/s]1231it [00:17, 68.18it/s]1238it [00:17, 66.95it/s]1245it [00:17, 65.75it/s]1252it [00:18, 65.27it/s]1259it [00:18, 65.47it/s]1266it [00:18, 65.17it/s]1274it [00:18, 68.18it/s]1282it [00:18, 69.22it/s]1290it [00:18, 70.06it/s]1298it [00:18, 68.36it/s]1305it [00:18, 67.96it/s]1312it [00:18, 67.95it/s]1319it [00:18, 67.70it/s]1326it [00:19, 67.96it/s]1333it [00:19, 67.88it/s]1340it [00:19, 67.29it/s]1347it [00:19, 67.54it/s]1354it [00:19, 67.09it/s]1361it [00:19, 67.24it/s]1368it [00:19, 67.34it/s]1376it [00:19, 68.52it/s]1384it [00:19, 69.13it/s]1392it [00:20, 69.20it/s]1399it [00:20, 68.51it/s]1406it [00:20, 68.52it/s]1413it [00:20, 67.51it/s]1420it [00:20, 67.30it/s]1427it [00:20, 67.36it/s]1434it [00:20, 67.58it/s]1442it [00:20, 68.42it/s]1450it [00:20, 69.61it/s]1458it [00:21, 70.28it/s]1466it [00:21, 69.98it/s]1474it [00:21, 71.15it/s]1482it [00:21, 70.33it/s]1490it [00:21, 70.73it/s]1498it [00:21, 70.74it/s]1506it [00:21, 71.29it/s]1514it [00:21, 69.72it/s]1521it [00:21, 69.62it/s]1529it [00:22, 71.34it/s]1537it [00:22, 71.15it/s]1545it [00:22, 70.79it/s]1553it [00:22, 69.69it/s]1561it [00:22, 70.15it/s]1569it [00:22, 70.50it/s]1577it [00:22, 70.24it/s]1585it [00:22, 69.72it/s]1592it [00:22, 69.36it/s]1599it [00:23, 68.69it/s]1606it [00:23, 68.06it/s]1613it [00:23, 67.99it/s]1620it [00:23, 68.51it/s]1628it [00:23, 69.20it/s]1636it [00:23, 70.45it/s]1644it [00:23, 71.60it/s]1652it [00:23, 70.50it/s]1660it [00:23, 70.03it/s]1668it [00:24, 69.08it/s]1675it [00:24, 69.17it/s]1682it [00:24, 68.51it/s]1689it [00:24, 68.54it/s]1696it [00:24, 67.70it/s]1703it [00:24, 67.50it/s]1710it [00:24, 68.04it/s]1717it [00:24, 67.92it/s]1725it [00:24, 69.73it/s]1733it [00:24, 70.81it/s]1741it [00:25, 71.37it/s]1749it [00:25, 72.45it/s]1757it [00:25, 72.32it/s]1765it [00:25, 70.77it/s]1773it [00:25, 71.02it/s]1781it [00:25, 72.35it/s]1789it [00:25, 72.49it/s]1797it [00:25, 72.20it/s]1805it [00:25, 71.49it/s]1813it [00:26, 71.40it/s]1821it [00:26, 70.56it/s]1829it [00:26, 70.43it/s]1837it [00:26, 70.43it/s]1845it [00:26, 70.24it/s]1853it [00:26, 69.64it/s]1860it [00:26, 68.95it/s]1868it [00:26, 69.51it/s]1875it [00:26, 69.38it/s]1883it [00:27, 69.65it/s]1891it [00:27, 71.29it/s]1899it [00:27, 71.94it/s]1907it [00:27, 72.11it/s]1915it [00:27, 71.26it/s]1923it [00:27, 70.54it/s]1931it [00:27, 68.68it/s]1939it [00:27, 69.23it/s]1946it [00:27, 69.38it/s]1954it [00:28, 70.42it/s]1962it [00:28, 71.51it/s]1970it [00:28, 72.44it/s]1978it [00:28, 72.72it/s]1986it [00:28, 73.77it/s]1994it [00:28, 73.69it/s]2000it [00:28, 69.68it/s]
+
+Epoch:4, Step:199, Loss:  0.001053, Time_cost:  0.127358
+Epoch:4, Step:200, Loss:  0.000279, Time_cost:  0.144225
+Epoch:4, Step:201, Loss:  0.000925, Time_cost:  0.118004
+Epoch:4, Step:202, Loss:  0.000605, Time_cost:  0.132983
+Epoch:4, Step:203, Loss:  0.000151, Time_cost:  0.138143
+Epoch:4, Step:204, Loss:  0.000283, Time_cost:  0.133970
+Epoch:4, Step:205, Loss:  0.000710, Time_cost:  0.132450
+Epoch:4, Step:206, Loss:  0.000920, Time_cost:  0.113703
+Epoch:4, Step:207, Loss:  0.000629, Time_cost:  0.124981
+Epoch:4, Step:208, Loss:  0.000288, Time_cost:  0.126460
+Epoch:4, Step:209, Loss:  0.000558, Time_cost:  0.111049
+Epoch:4, Step:210, Loss:  0.000262, Time_cost:  0.125845
+Epoch:4, Step:211, Loss:  0.000272, Time_cost:  0.132952
+Epoch:4, Step:212, Loss:  0.000582, Time_cost:  0.125728
+Epoch:4, Step:213, Loss:  0.000499, Time_cost:  0.119573
+Epoch:4, Step:214, Loss:  0.000266, Time_cost:  0.128120
+Epoch:4, Step:215, Loss:  0.000255, Time_cost:  0.126464
+Epoch:4, Step:216, Loss:  0.000327, Time_cost:  0.125335
+Epoch:4, Step:217, Loss:  0.001096, Time_cost:  0.119171
+Epoch:4, Step:218, Loss:  0.000606, Time_cost:  0.111278
+Epoch:4, Step:219, Loss:  0.000273, Time_cost:  0.139183
+Epoch:4, Step:220, Loss:  0.000452, Time_cost:  0.134298
+Epoch:4, Step:221, Loss:  0.000655, Time_cost:  0.126351
+Epoch:4, Step:222, Loss:  0.000405, Time_cost:  0.128142
+Epoch:4, Step:223, Loss:  0.000345, Time_cost:  0.148278
+Epoch:4, Step:224, Loss:  0.000494, Time_cost:  0.120500
+Epoch:4, Step:225, Loss:  0.000678, Time_cost:  0.175805
+Epoch:4, Step:226, Loss:  0.000348, Time_cost:  0.118842
+Epoch:4, Step:227, Loss:  0.001168, Time_cost:  0.127767
+Epoch:4, Step:228, Loss:  0.001297, Time_cost:  0.119955
+Epoch:4, Step:229, Loss:  0.000540, Time_cost:  0.114256
+Epoch:4, Step:230, Loss:  0.000196, Time_cost:  0.127875
+Epoch:4, Step:231, Loss:  0.002281, Time_cost:  0.118445
+Epoch:4, Step:232, Loss:  0.001572, Time_cost:  0.119137
+Epoch:4, Step:233, Loss:  0.000524, Time_cost:  0.127063
+Epoch:4, Step:234, Loss:  0.000767, Time_cost:  0.126415
+Epoch:4, Step:235, Loss:  0.000448, Time_cost:  0.111686
+Epoch:4, Step:236, Loss:  0.000500, Time_cost:  0.133234
+Epoch:4, Step:237, Loss:  0.000224, Time_cost:  0.127088
+Epoch:4, Step:238, Loss:  0.000658, Time_cost:  0.132913
+Epoch:4, Step:239, Loss:  0.001085, Time_cost:  0.128208
+Epoch:4, Step:240, Loss:  0.000742, Time_cost:  0.132886
+Epoch:4, Step:241, Loss:  0.000259, Time_cost:  0.117706
+Epoch:4, Step:242, Loss:  0.000805, Time_cost:  0.132309
+Epoch:4, Step:243, Loss:  0.001434, Time_cost:  0.134179
+Epoch:4, Step:244, Loss:  0.002974, Time_cost:  0.117539
+Epoch:4, Step:245, Loss:  0.000972, Time_cost:  0.126031
+Epoch:4, Step:246, Loss:  0.002039, Time_cost:  0.112068
+Epoch:4, Step:247, Loss:  0.000277, Time_cost:  0.127193
+Epoch:4, Step:248, Loss:  0.000392, Time_cost:  0.137410
+Epoch:4, Step:249, Loss:  0.000567, Time_cost:  0.133042
+Epoch:4, Step:250, Loss:  0.000321, Time_cost:  0.132811
+Epoch:4, Step:251, Loss:  0.000371, Time_cost:  0.119873
+Epoch:4, Step:252, Loss:  0.000795, Time_cost:  0.125730
+Epoch:4, Step:253, Loss:  0.000414, Time_cost:  0.115071
+Epoch:4, Step:254, Loss:  0.000750, Time_cost:  0.125126
+Epoch:4, Step:255, Loss:  0.000528, Time_cost:  0.132080
+Epoch:4, Step:256, Loss:  0.000525, Time_cost:  0.120131
+Epoch:4, Step:257, Loss:  0.000316, Time_cost:  0.126012
+Epoch:4, Step:258, Loss:  0.023299, Time_cost:  0.117269
+Epoch:4, Step:259, Loss:  0.010021, Time_cost:  0.132988
+Epoch:4, Step:260, Loss:  0.000414, Time_cost:  0.128423
+Epoch:4, Step:261, Loss:  0.000544, Time_cost:  0.119593
+Epoch:4, Step:262, Loss:  0.000514, Time_cost:  0.132983
+Epoch:4, Step:263, Loss:  0.002418, Time_cost:  0.143645
+Epoch:4, Step:264, Loss:  0.000475, Time_cost:  0.125832
+Epoch:4, Step:265, Loss:  0.000449, Time_cost:  0.151890
+Epoch:4, Step:266, Loss:  0.002236, Time_cost:  0.154158
+Epoch:4, Step:267, Loss:  0.000410, Time_cost:  0.133762
+Epoch:4, Step:268, Loss:  0.000674, Time_cost:  0.124130
+Epoch:4, Step:269, Loss:  0.000918, Time_cost:  0.138493
+Epoch:4, Step:270, Loss:  0.000517, Time_cost:  0.126193
+Epoch:4, Step:271, Loss:  0.000318, Time_cost:  0.139618
+Epoch:4, Step:272, Loss:  0.001187, Time_cost:  0.149305
+Epoch:4, Step:273, Loss:  0.000883, Time_cost:  0.131736
+Epoch:4, Step:274, Loss:  0.000915, Time_cost:  0.113409
+Epoch:4, Step:275, Loss:  0.000714, Time_cost:  0.125162
+Epoch:4, Step:276, Loss:  0.001052, Time_cost:  0.133201
+Epoch:4, Step:277, Loss:  0.000338, Time_cost:  0.142135
+Epoch:4, Step:278, Loss:  0.000603, Time_cost:  0.111209
+Epoch:4, Step:279, Loss:  0.000694, Time_cost:  0.127735
+Epoch:4, Step:280, Loss:  0.000556, Time_cost:  0.119293
+Epoch:4, Step:281, Loss:  0.000397, Time_cost:  0.127030
+Epoch:4, Step:282, Loss:  0.000397, Time_cost:  0.117830
+Epoch:4, Step:283, Loss:  0.000522, Time_cost:  0.127812
+Epoch:4, Step:284, Loss:  0.000620, Time_cost:  0.127723
+Epoch:4, Step:285, Loss:  0.000235, Time_cost:  0.126277
+Epoch:4, Step:286, Loss:  0.000475, Time_cost:  0.113904
+Epoch:4, Step:287, Loss:  0.000357, Time_cost:  0.120454
+Epoch:4, Step:288, Loss:  0.000822, Time_cost:  0.126315
+Epoch:4, Step:289, Loss:  0.000389, Time_cost:  0.140819
+Epoch:4, Step:290, Loss:  0.000729, Time_cost:  0.140427
+Epoch:4, Step:291, Loss:  0.000666, Time_cost:  0.127533
+Epoch:4, Step:292, Loss:  0.000267, Time_cost:  0.134711
+Epoch:4, Step:293, Loss:  0.000460, Time_cost:  0.118500
+Epoch:4, Step:294, Loss:  0.001493, Time_cost:  0.133687
+Epoch:4, Step:295, Loss:  0.040562, Time_cost:  0.128400
+Epoch:4, Step:296, Loss:  0.003179, Time_cost:  0.119561
+Epoch:4, Step:297, Loss:  0.000672, Time_cost:  0.119837
+Epoch:4, Step:298, Loss:  0.000609, Time_cost:  0.117778
+Epoch:4, Step:299, Loss:  0.000455, Time_cost:  0.132425
+Epoch:4, Step:300, Loss:  0.000313, Time_cost:  0.118282
+Epoch:4, Step:301, Loss:  0.001047, Time_cost:  0.125955
+Epoch:4, Step:302, Loss:  0.000641, Time_cost:  0.125533
+Epoch:4, Step:303, Loss:  0.000307, Time_cost:  0.126870
+Epoch:4, Step:304, Loss:  0.000481, Time_cost:  0.125714
+Epoch:4, Step:305, Loss:  0.000868, Time_cost:  0.138854
+Epoch:4, Step:306, Loss:  0.000443, Time_cost:  0.127592
+Epoch:4, Step:307, Loss:  0.000307, Time_cost:  0.120080
+Epoch:4, Step:308, Loss:  0.000430, Time_cost:  0.144091
+Epoch:4, Step:309, Loss:  0.006325, Time_cost:  0.126524
+Epoch:4, Step:310, Loss:  0.000297, Time_cost:  0.133973
+Epoch:4, Step:311, Loss:  0.000602, Time_cost:  0.118704
+Epoch:4, Step:312, Loss:  0.000158, Time_cost:  0.060182

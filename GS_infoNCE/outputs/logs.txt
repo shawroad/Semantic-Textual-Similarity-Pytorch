@@ -1,0 +1,27 @@
+ATEC
+Epoch:0 | cur_epoch_average_loss:  0.331062 |spearmanr:   0.310340 | pearsonr:   0.328940
+Epoch:1 | cur_epoch_average_loss:  0.003995 |spearmanr:   0.316087 | pearsonr:   0.335548
+Epoch:2 | cur_epoch_average_loss:  0.002406 |spearmanr:   0.318793 | pearsonr:   0.338267
+Epoch:3 | cur_epoch_average_loss:  0.002023 |spearmanr:   0.321063 | pearsonr:   0.340433
+Epoch:4 | cur_epoch_average_loss:  0.001558 |spearmanr:   0.321296 | pearsonr:   0.340817
+
+BQ
+Epoch:0 | cur_epoch_average_loss:  0.325268 |spearmanr:   0.444501 | pearsonr:   0.439378
+Epoch:1 | cur_epoch_average_loss:  0.005510 |spearmanr:   0.440305 | pearsonr:   0.434497
+Epoch:2 | cur_epoch_average_loss:  0.003460 |spearmanr:   0.440124 | pearsonr:   0.434412
+Epoch:3 | cur_epoch_average_loss:  0.002978 |spearmanr:   0.444657 | pearsonr:   0.438530
+Epoch:4 | cur_epoch_average_loss:  0.002656 |spearmanr:   0.443470 | pearsonr:   0.437345
+
+LCQMC
+Epoch:0 | cur_epoch_average_loss:  0.296170 |spearmanr:   0.557986 | pearsonr:   0.518348
+Epoch:1 | cur_epoch_average_loss:  0.003217 |spearmanr:   0.589925 | pearsonr:   0.547826
+Epoch:2 | cur_epoch_average_loss:  0.001997 |spearmanr:   0.585676 | pearsonr:   0.547231
+Epoch:3 | cur_epoch_average_loss:  0.001501 |spearmanr:   0.594103 | pearsonr:   0.553696
+Epoch:4 | cur_epoch_average_loss:  0.001361 |spearmanr:   0.595375 | pearsonr:   0.554471
+
+PAWSX
+Epoch:0 | cur_epoch_average_loss:  0.390130 |spearmanr:   0.125797 | pearsonr:   0.119898
+Epoch:1 | cur_epoch_average_loss:  0.004692 |spearmanr:   0.128078 | pearsonr:   0.127279
+Epoch:2 | cur_epoch_average_loss:  0.004028 |spearmanr:   0.124922 | pearsonr:   0.125903
+Epoch:3 | cur_epoch_average_loss:  0.002239 |spearmanr:   0.127669 | pearsonr:   0.125573
+Epoch:4 | cur_epoch_average_loss:  0.001865 |spearmanr:   0.128621 | pearsonr:   0.126731
