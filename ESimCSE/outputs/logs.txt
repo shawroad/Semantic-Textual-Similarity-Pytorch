@@ -1,0 +1,8 @@
+ATEC
+Epoch:0 | cur_epoch_average_loss:  0.692863 | spearmanr:   0.320298 | pearsonr:   0.331935
+Epoch:1 | cur_epoch_average_loss:  0.027610 | spearmanr:   0.292404 | pearsonr:   0.306114
+Epoch:2 | cur_epoch_average_loss:  0.021305 | spearmanr:   0.301339 | pearsonr:   0.315594
+Epoch:3 | cur_epoch_average_loss:  0.024845 | spearmanr:   0.308828 | pearsonr:   0.322348
+Epoch:4 | cur_epoch_average_loss:  0.040917 | spearmanr:   0.297060 | pearsonr:   0.310238
+
+BQ
