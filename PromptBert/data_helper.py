@@ -21,7 +21,7 @@ def load_data(path, tokenizer):
     with open(path, 'r', encoding='utf8') as f:
         for line in f.readlines():
             line = line.strip()
-            line = line.split('\t')[0]
+            line = line.split('\t')[0]  # 因为是无监督 所以我们只取第一句话
             words_num = len(tokenizer.tokenize(line))
 
             if words_num > args.max_len - 15:
