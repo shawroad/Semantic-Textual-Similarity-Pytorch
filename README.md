@@ -19,22 +19,26 @@
 
 |  | ATEC | BQ | LCQMC | PAWSX | STS-B |  Avg |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | 
-| SentenceBert | ** | ** | ** | ** | ** | ** | 
-| SimCSE unsup | 30.8634 | ** | ** | ** | ** | ** |   
-| SimCSE sup |  ** | ** | ** | ** | ** | ** |  
-| CoSENT | 50.6160 | 72.8400 | ** | ** | ** | ** |   
+| SimCSE (unsup) | 30.8634 | ** | ** | ** | ** | ** |  
+| PromptBERT (unsup) |  ** | ** | ** | ** | ** | ** | 
+| SimCSE (sup) |  ** | ** | ** | ** | ** | ** |  
+| CoSENT (sup) | 50.6160 | 72.8400 | ** | ** | ** | ** |  
+| SentenceBert (sup)| ** | ** | ** | ** | ** | ** | 
 | GS-infoNCE |  ** | ** | ** | ** | ** | ** |   
-| ESimCSE |  ** | ** | ** | ** | ** | ** |   
-| PromptBERT unsup |  ** | ** | ** | ** | ** | ** | 
+| ESimCSE |  ** | ** | ** | ** | ** | ** |  
+
+
 
 ### 皮尔逊相关系数(pearsonr)对比:
 
 |  | ATEC | BQ | LCQMC | PAWSX | STS-B |  Avg |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | 
-| SentenceBert |  ** | ** | ** | ** | ** | ** |   
-| SimCSE unsup |  33.1678 | ** | ** | ** | ** | ** |   
-| SimCSE sup |  ** | ** | ** | ** | ** | ** |   
-| CoSENT | 49.8967 | 73.1022 | ** | ** | ** | ** |  
+| SimCSE (unsup) |  33.1678 | ** | ** | ** | ** | ** | 
+| PromptBERT (unsup) |  ** | ** | ** | ** | ** | ** | 
+| SimCSE (sup) |  ** | ** | ** | ** | ** | ** |   
+| CoSENT (sup)| 49.8967 | 73.1022 | ** | ** | ** | ** |  
+| SentenceBert (sup) |  ** | ** | ** | ** | ** | ** |  
 | GS-infoNCE | ** | ** | ** | ** | ** | ** |   
 | ESimCSE | ** | ** | ** | ** | ** | ** |   
-| PromptBERT unsup |  ** | ** | ** | ** | ** | ** | 
+ 
+
