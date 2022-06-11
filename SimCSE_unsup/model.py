@@ -13,6 +13,7 @@ class Model(nn.Module):
     def __init__(self):
         super(Model, self).__init__()
         self.config = BertConfig.from_pretrained('./roberta_pretrain/config.json')
+        self.config.hidden_dropout_prob = 0.3
         self.bert = BertModel.from_pretrained('./roberta_pretrain/pytorch_model.bin', config=self.config)
 
     def forward(self, input_ids, attention_mask, encoder_type='cls'):
