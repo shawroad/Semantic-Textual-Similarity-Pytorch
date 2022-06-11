@@ -1,19 +1,59 @@
-"""
-@file   : run_train.py
-@author : xiaolu
-@email  : luxiaonlp@163.com
-@time   : 2022-06-07
-"""
 import os
 import torch
+import numpy as np
 from tqdm import tqdm
 from config import set_args
 from transformers.models.bert import BertTokenizer
 from torch.utils.data import DataLoader
 from model import PromptBERT
+from utils import l2_normalize, compute_corrcoef, compute_pearsonr
 from transformers import AdamW, get_linear_schedule_with_warmup
-from data_helper import load_data, SentDataSet, collate_func
+from data_helper import load_data, SentDataSet, collate_func, convert_token_id 
 
+
+def evaluate():
+    model.eval()
+    all_a_vecs = []
+    all_b_vecs = []
+    all_label = []
+    with open(args.dev_data_path, 'r', encoding='utf8') as f:
+        for line in f.readlines():
+            sent1, sent2, label = line.strip().split('\t')
+            all_label.append(int(label))
+            s1_input_id, s1_mask, s1_segment_id, s1_t_input_id, s1_t_mask, s1_t_segment_id = convert_token_id(sent1, tokenizer)
+            s2_input_id, s2_mask, s2_segment_id, s2_t_input_id, s2_t_mask, s2_t_segment_id = convert_token_id(sent2, tokenizer)
+            if torch.cuda.is_available():
+                s1_input_id, s1_mask, s1_segment_id, s1_t_input_id, s1_t_mask, s1_t_segment_id = s1_input_id.cuda(), s1_mask.cuda(), s1_segment_id.cuda(), s1_t_input_id.cuda(), s1_t_mask.cuda(), s1_t_segment_id.cuda()
+                s2_input_id, s2_mask, s2_segment_id, s2_t_input_id, s2_t_mask, s2_t_segment_id = s2_input_id.cuda(), s2_mask.cuda(), s2_segment_id.cuda(), s2_t_input_id.cuda(), s2_t_mask.cuda(), s2_t_segment_id.cuda()
+            
+            with torch.no_grad():
+                s1_embedding =  model(prompt_input_ids=s1_input_id,
+                                      prompt_attention_mask=s1_mask,
+                                      prompt_token_type_ids=s1_segment_id,
+                                      template_input_ids=s1_t_input_id,
+                                      template_attention_mask=s1_t_mask,
+                                      template_token_type_ids=s1_t_segment_id)
+                    
+                s2_embedding =  model(prompt_input_ids=s2_input_id,
+                                      prompt_attention_mask=s2_mask,
+                                      prompt_token_type_ids=s2_segment_id,
+                                      template_input_ids=s2_t_input_id,
+                                      template_attention_mask=s2_t_mask,
+                                      template_token_type_ids=s2_t_segment_id)
+            
+            all_a_vecs.append(s1_embedding[0].cpu().numpy())
+            all_b_vecs.append(s2_embedding[0].cpu().numpy())
+    all_a_vecs = np.array(all_a_vecs)
+    all_b_vecs = np.array(all_b_vecs)
+    all_labels = np.array(all_label)
+    
+    a_vecs = l2_normalize(all_a_vecs)
+    b_vecs = l2_normalize(all_b_vecs)
+    sims = (a_vecs * b_vecs).sum(axis=1)
+    corrcoef = compute_corrcoef(all_labels, sims)
+    pearsonr = compute_pearsonr(all_labels, sims)
+    return corrcoef, pearsonr
+                
 
 def calc_loss(embed1, embed2, temperature=0.05):
     # 这里归一化是为了后面计算cos方便
@@ -37,13 +77,14 @@ def calc_loss(embed1, embed2, temperature=0.05):
 
 if __name__ == '__main__':
     args = set_args()
-    os.makedirs(args.output_dir, exist_ok=True)
-    tokenizer = BertTokenizer.from_pretrained('./roberta_pretrain')
+    
+    # os.makedirs(args.output_dir, exist_ok=True)
+    tokenizer = BertTokenizer.from_pretrained(args.bert_pretrain_path)
     # 加入一个特殊token: [X]
     tokenizer.add_special_tokens({'additional_special_tokens': ['[X]']})
     mask_id = tokenizer.mask_token_id
 
-    train_df = load_data(args.dev_data_path, tokenizer)
+    train_df = load_data(args.train_data_path, tokenizer)
     train_dataset = SentDataSet(train_df, tokenizer)
     train_dataloader = DataLoader(train_dataset, shuffle=True, batch_size=args.train_batch_size, collate_fn=collate_func)
 
@@ -103,18 +144,15 @@ if __name__ == '__main__':
                 scheduler.step()
                 optimizer.zero_grad()
 
-
-        # 一轮跑完 进行eval   eval跟其他模型类似  这里就不写了。
-        # corrcoef, pearsonr = evaluate(model)
-        # ss = 'epoch:{}, spearmanr:{:10f}, pearsonr:{:10f}'.format(epoch, corrcoef, pearsonr)
-        # with open(args.output_dir + '/logs.txt', 'a+', encoding='utf8') as f:
-        #     ss += '\n'
-        #     f.write(ss)
-        #     model.train()
+        corrcoef, pearsonr = evaluate()
+        ss = 'epoch:{}, spearmanr:{:10f}, pearsonr:{:10f}'.format(epoch, corrcoef, pearsonr)
+        log_path = os.path.join(args.output_dir, 'logs.txt')
+        with open(log_path, 'a+', encoding='utf8') as f:
+            ss += '\n'
+            f.write(ss)
+        
         model_to_save = model.module if hasattr(model, 'module') else model  # Only save the model it-self
         output_model_file = os.path.join(args.output_dir, "epoch{}_ckpt.bin".format(epoch))
         torch.save(model_to_save.state_dict(), output_model_file)
-
-
 
 
