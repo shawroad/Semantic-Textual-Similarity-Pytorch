@@ -19,22 +19,19 @@
 |  | ATEC | BQ | LCQMC | PAWSX | STS-B |  Avg |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | 
 | SimCSE (unsup) | 30.8634 | 49.1813 | 68.9802 | 9.5895 | 71.3976 | 46.0024 |  
-| PromptBERT (unsup) |  27.9526 | ** | ** | ** | ** | ** | 
+| PromptBERT (unsup) |  48.7067 | ** | ** | ** | ** | ** | 
 | SimCSE (sup) |  ** | ** | ** | ** | ** | ** |  
 | CoSENT (sup) | 50.6160 | 72.8400 | ** | ** | ** | ** |  
 | SentenceBert (sup)| ** | ** | ** | ** | ** | ** | 
 | GS-infoNCE |  ** | ** | ** | ** | ** | ** |   
 | ESimCSE |  ** | ** | ** | ** | ** | ** |  
 
-注: PromptBERT效果比论文差一点。大家可以看看代码，帮忙review一下。
-
 
 ### 皮尔逊相关系数(pearsonr)对比:
-
 |  | ATEC | BQ | LCQMC | PAWSX | STS-B |  Avg |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | 
 | SimCSE (unsup) |  33.1678 | 49.0413 | 57.5075 | 9.9956 | 72.8918 | 44.5207 | 
-| PromptBERT (unsup) |  29.7527 | ** | ** | ** | ** | ** | 
+| PromptBERT (unsup) |  48.6450 | ** | ** | ** | ** | ** | 
 | SimCSE (sup) |  ** | ** | ** | ** | ** | ** |   
 | CoSENT (sup)| 49.8967 | 73.1022 | ** | ** | ** | ** |  
 | SentenceBert (sup) |  ** | ** | ** | ** | ** | ** |  
