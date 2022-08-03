@@ -111,7 +111,6 @@ if __name__ == '__main__':
                 scheduler.step()
                 optimizer.zero_grad()
 
-        corrcoef, pearsonr = evaluate(model)
         # 一轮跑完 进行eval
         corrcoef, pearsonr = evaluate(model)
         ss = 'epoch:{}, spearmanr:{:10f}, pearsonr:{:10f}'.format(epoch, corrcoef, pearsonr)
