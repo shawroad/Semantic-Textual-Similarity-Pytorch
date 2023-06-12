@@ -47,3 +47,5 @@
 - 上述无监督的深度学习模型都采用的是“CLS”向量
  
 
+### Star History
+![star_num](https://star-history.com/#shawroad/Semantic-Textual-Similarity-Pytorch&Date)
