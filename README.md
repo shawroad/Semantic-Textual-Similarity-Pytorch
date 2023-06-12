@@ -48,4 +48,4 @@
  
 
 ### Star History
-![star_num](https://star-history.com/#shawroad/Semantic-Textual-Similarity-Pytorch&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=shawroad/Semantic-Textual-Similarity-Pytorch&type=Date)](https://star-history.com/#shawroad/Semantic-Textual-Similarity-Pytorch&Date)
